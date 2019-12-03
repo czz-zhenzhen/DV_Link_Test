@@ -317,10 +317,6 @@ class Custom_riosk:
         self.page.driver.find_element_by_xpath(
             '/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[%s]/div[2]/h3' % str(number)).click()
         time.sleep(2)
-
-    def test_report(self):
-        self.page.open_page()
-
     def start_test(self, number1, number):
         self.page.chioce_manage(2)
         count = 1
@@ -401,7 +397,6 @@ class Custom_riosk:
         count += 1
 
     def main_report(self):
-        # self.test_report()
         time.sleep(2)
         self.page.return_page()
         lens = self.page.driver.find_elements_by_xpath('/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a')
@@ -416,7 +411,7 @@ class Custom_riosk:
         endow = date.strftime('%Y-%m-%d')
         for mun in range(1, 10):
             start_time = time.time()
-            self.page.main()
+            # self.page.main()
             self.page.driver.refresh()
             time.sleep(1)
             for i in range(2, 5):

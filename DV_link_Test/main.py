@@ -166,7 +166,6 @@ class TestSystem():
     def return_page(self):
         time.sleep(1)
         self.driver.switch_to_default_content()
-        time.sleep(1)
 
     def test_first(self, number1, number2):
         self.first_supervise(1, number1, number2)
@@ -211,7 +210,7 @@ class TestSystem():
         time.sleep(2)
         # 关闭按钮
         try:
-            if self.driver.find_element_by_xpath('//*[@id="ext-gen3"]/div[12]/a').click()==False:
+            if self.driver.find_element_by_xpath('//*[@id="ext-gen3"]/div[12]/a').click() == False:
                 self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '刷新按钮', '操作输出', 0, '功能正常')
                 print('0000')
         except Exception as e:
@@ -386,7 +385,7 @@ class TestSystem():
         except Exception as e:
             print('sql语句错误', e)
 
-    def read_mysql(self, start_date,end_date, text):
+    def read_mysql(self, start_date, end_date, text):
         count = 1
         try:
             sql_date = """select * from ATT_LOG WHERE START_DATE BETWEEN '%s' AND '%s' """ % (
@@ -401,28 +400,24 @@ class TestSystem():
                              " SEQ_ID = 1 GROUP BY B.PARENT_RESOURCE_ID".format(start_date)
             self.cursor.execute(sql_date_total)
             ls = self.cursor.fetchall()
+            # 获取数组
             self.cursor.execute(sql_date)
             ls1 = self.cursor.fetchall()
-            # 监管报送系统
-            # 敏捷报表平台
-            # (('super', '监管报送系统', 328, 295, 33, 0),
-            #  ('report', '敏捷报表平台', 10, 10, 0, 0))
-            # 读取错误内容
             time_str = str(self.get_time())
             path = '/DV_link/DV_link_Test/Supervisory_Report_SyS/' + time_str + '_Test_report.xls'
             list_name = ['日期', '总计', '成功', '失败']
             list_name01 = ['LOG_ID', 'SEQ_ID', 'RESOURCE_ID', 'OP_NAME', 'OP_INPUT', 'OP_OUTPUT', 'START_DATE',
                            'END_DATE', 'OP_STATUS', 'OP_DESC']
-            list_name02 = ['监管报送系统', '敏捷开发平台', '智能数据平台', '科技']
+            list_name02 = ['监管报送系统', '敏捷报表平台', '智能分析平台', '金融数据中台']
             with open(path, 'w')as f:
                 workbook = xlwt.Workbook(encoding='utf-8')
                 worksheet = workbook.add_sheet('汇总')
                 worksheet02 = workbook.add_sheet('测试详细')
                 for x in range(len(list_name)):
                     worksheet.write(0, x + 1, label=list_name[x])
-                    if x >=1:
-                        worksheet.write(1,1+x,label = ls[0][1+x])
-                        worksheet.write(2,1+x,label = ls[1][1+x])
+                    if x >= 1:
+                        worksheet.write(1, 1 + x, label=ls[0][1 + x])
+                        worksheet.write(2, 1 + x, label=ls[1][1 + x])
                 for y in range(len(list_name01)):
                     worksheet02.write(0, y, label=list_name01[y])
                 for i in range(len(list_name02)):
@@ -441,9 +436,7 @@ class TestSystem():
 
         with open('/DV_link/DV_link_Test/Supervisory_Report_SyS/list_name.txt')as f:
             ls = f.read()
-            receivers=ls.split(',')
-        # receivers = ['823178484@qq.com', 'czz_zhenzhen@sina.com','18375836065@163.com']
-        # 添加发件人
+            receivers = ls.split(',')
         message = MIMEMultipart()
         subject = 'Python SMTP 邮件测试'
         # mes = MIMEText('<html><h1>测试附件功能</h1><h2>自动测试邮件发送</h2></html>', 'html', 'utf-8')
@@ -521,6 +514,7 @@ class TestSystem():
         except Exception as e:
             S_txt = '报送管理_创建任务:' + str(e)
             self.write_error_excel(S_txt)
+
     def main(self):
         # self.open_page()
         self.test_first(2, 1)
