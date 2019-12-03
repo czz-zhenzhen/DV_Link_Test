@@ -1,6 +1,7 @@
 from DV_link_Test.main import *
 import datetime
 
+
 class Custom_riosk:
     def __init__(self):
         self.page = TestSystem()
@@ -89,7 +90,7 @@ class Custom_riosk:
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '刷新按钮', '操作输出', 1, S_txt)
 
-        self.page.task_list(number1,number2)
+        self.page.task_list(number1, number2)
         count += 1
 
     def second_message(self, number1, number2):
@@ -246,7 +247,7 @@ class Custom_riosk:
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文报送', '查询按钮', '操作输出', 1, S_txt)
 
         try:
-            self.page.task_list(number1,number2)
+            self.page.task_list(number1, number2)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文报送', '任务列表', '操作输出', 0, '功能正常')
 
         except Exception as e:
@@ -432,7 +433,7 @@ class Custom_riosk:
             self.page.write_error_excel('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
             print('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
             text = ('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
-            self.page.read_mysql(self.page.get_time(),endow,text)
+            self.page.read_mysql(self.page.get_time(), endow, text)
         self.page.db.close()
 
 
