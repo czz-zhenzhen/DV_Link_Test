@@ -47,7 +47,6 @@ class Custom_riosk:
         except Exception as e:
             S_txt = '任务状态:' + str(e)
             self.page.write_error_excel(S_txt)
-
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '任务状态', '操作输出', 1, S_txt)
         try:
             self.page.messsage_arg(
