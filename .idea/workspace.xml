@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c93c91e8-a24e-4bc6-9acc-ea8869e7af93" name="Default Changelist" comment="Default Changelist">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DV_link_Test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DV_link_Test/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +19,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="318" column="60" selection-start-line="318" selection-start-column="60" selection-end-line="318" selection-end-column="60" />
+            <state relative-caret-position="50">
+              <caret line="318" column="64" lean-forward="true" selection-start-line="318" selection-start-column="64" selection-end-line="318" selection-end-column="64" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -342,7 +339,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" weight="0.32838285" />
       <window_info id="DB Browser" order="3" weight="0.11755952" />
@@ -351,7 +347,7 @@
       <window_info anchor="bottom" id="Run" order="4" weight="0.24257426" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.31683168" />
       <window_info anchor="bottom" id="Python Console" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19471948" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32013202" />
       <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4976744" visible="true" weight="0.13244048" />
       <window_info id="Project Explorer" order="0" weight="0.3296131" />
       <window_info id="Job Explorer" order="1" />
@@ -573,8 +569,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="318" column="60" selection-start-line="318" selection-start-column="60" selection-end-line="318" selection-end-column="60" />
+        <state relative-caret-position="50">
+          <caret line="318" column="64" lean-forward="true" selection-start-line="318" selection-start-column="64" selection-end-line="318" selection-end-column="64" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>

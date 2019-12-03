@@ -315,8 +315,9 @@ class TestSystem():
                     self.write_error_mysql(count, RESOURCE_ID_name1, '监管报送系', '获取列表', '查询按钮', 1, S_txt)
 
                 if len(details_num) < 0:
-                    try:
-                        self.driver.find_elements_by_xpath('')
+                    # try:
+                    #     self.driver.find_elements_by_xpath('')
+
                     return
                 else:
                     for y in range(1, len(details_num) + 1):

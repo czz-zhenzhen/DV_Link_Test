@@ -34,3 +34,6 @@
 2019-12-03:16:48
 报表查询_查询:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/td[1]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/em/button"}
   (Session info: chrome=78.0.3904.87)
+2019-12-03:17:16
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
