@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c93c91e8-a24e-4bc6-9acc-ea8869e7af93" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,58 +10,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="DV_link" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9875">
-              <caret line="395" column="32" selection-start-line="395" selection-start-column="32" selection-end-line="395" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Area_manage.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-              <folding>
-                <element signature="e#1#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="finacial_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,69 +26,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="E:/Python工具安装包/最后项目/003" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/DV_link_Test/dvlink/001.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/DV_link_CRC.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Customerrisk.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/DV_link_EAST.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Customer_risk.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Report_message/report_test.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/Create_Message.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/test001.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/additional_record.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/1111.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Test_main.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Report_message/1111.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Report_message/test.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Report_message/list_name.txt" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Report_message/recove_name_list.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/recove_name_list.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/main.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="318" />
-    <option name="y" value="12" />
-    <option name="width" value="805" />
-    <option name="height" value="728" />
-  </component>
   <component name="ProjectId" id="1TGlWJ5c6lFT9g7IPSPa9lIBLGF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DV_link" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DV_link" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DV_link" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DV_link" type="462c0819:PsiDirectoryNode" />
-              <item name="DV_link_Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DV_link" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DV_link" type="462c0819:PsiDirectoryNode" />
-              <item name="DV_link_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Supervisory_Report_SyS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -151,7 +37,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -191,6 +77,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Area_manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DV_link" />
@@ -209,6 +98,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DV_link" />
@@ -227,6 +119,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="recove_name_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DV_link" />
@@ -245,6 +140,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DV_link" />
@@ -263,6 +161,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.main" />
@@ -282,7 +183,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
-    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <configuration>C:\Users\czz_zhenzhen\AppData\Roaming\Subversion</configuration>
     <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
@@ -318,38 +219,8 @@
       <configuration name="Unittests in additional_record.py" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info id="DB Browser" order="3" weight="0.11755952" />
-      <window_info anchor="bottom" id="DB Execution Console" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.29372936" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.31746033" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4976744" visible="true" weight="0.16815476" />
-      <window_info id="Project Explorer" order="0" weight="0.3296131" />
-      <window_info id="Job Explorer" order="1" />
-      <window_info anchor="bottom" id="Console" order="0" />
-      <window_info id="Structure" order="4" sideWeight="0.5023256" side_tool="true" weight="0.15080526" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.2866557" />
-      <window_info id="Favorites" order="5" sideWeight="0.5023148" side_tool="true" weight="0.16815476" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="3" weight="0.32784185" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -365,201 +236,9 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DV_link$001.coverage" NAME="001 Coverage Results" MODIFIED="1573102240721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DV_link_Test/dvlink" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/DV_link_CRC.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/DV_link_CRC.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/dvlink/001.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/webdriver.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/service.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/service.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/webdriver.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/pointer_actions.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/dvlink/001.py" />
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" />
-    <entry file="file://E:/python3.65/Lib/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="202" column="25" lean-forward="true" selection-start-line="202" selection-start-column="25" selection-end-line="202" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/main_ment.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/DV_link_EAST.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/base_page.py" />
-    <entry file="file://$USER_HOME$/Desktop/base_page.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Customer_risk.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/DV_link_CRC.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/report_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
-    <entry file="file://D:/Program Files/feiq/Recv Files/test00.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/test00.py" />
-    <entry file="file://D:/Program Files/feiq/Recv Files/test00(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="12" lean-forward="true" selection-end-line="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/Create_Message.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/record_form" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/test001.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/record_form" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/record_form" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/record_form">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="59" column="37" lean-forward="true" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/record_form.txt" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/record_form_2019-11-21.txt" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/additional_record.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="110" column="55" selection-start-line="110" selection-start-column="55" selection-end-line="110" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/pymysql/connections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="515" selection-start-line="515" selection-end-line="515" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/excel_test" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Test_report.xls_2019-11-27.txt" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/email/mime/nonmultipart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/record_test/record_form_2019-11-27.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="167" column="36" selection-start-line="167" selection-start-column="36" selection-end-line="167" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/1111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/pymysql/cursors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="169" selection-start-line="169" selection-end-line="169" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/pymysql/err.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Test_main.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/record_test/ecord_form_2019-12-02.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20683">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/list_name.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/recove_name_list.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9875">
-          <caret line="395" column="32" selection-start-line="395" selection-start-column="32" selection-end-line="395" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
