@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c93c91e8-a24e-4bc6-9acc-ea8869e7af93" name="Default Changelist" comment="" />
+    <list default="true" id="c93c91e8-a24e-4bc6-9acc-ea8869e7af93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DV_link_Test/Report_message/1111.py" beforeDir="false" afterPath="$PROJECT_DIR$/DV_link_Test/Report_message/1111.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +28,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="E:/Python工具安装包/最后项目/003" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TGlWJ5c6lFT9g7IPSPa9lIBLGF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -197,6 +201,14 @@
       <workItem from="1573096677651" duration="1299000" />
       <workItem from="1573101053108" duration="974000" />
     </task>
+    <task id="LOCAL-00001" summary="czz 修改文档">
+      <created>1575384257130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575384257131</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -226,6 +238,8 @@
     <ignored-roots>
       <path value="E:/Python工具安装包/最后项目/003" />
     </ignored-roots>
+    <MESSAGE value="czz 修改文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="czz 修改文档" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
