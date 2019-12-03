@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c93c91e8-a24e-4bc6-9acc-ea8869e7af93" name="Default Changelist" comment="" />
+    <list default="true" id="c93c91e8-a24e-4bc6-9acc-ea8869e7af93" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DV_link_Test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DV_link_Test/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9875">
-              <caret line="395" column="32" selection-start-line="395" selection-start-column="32" selection-end-line="395" selection-end-column="32" />
+            <state relative-caret-position="200">
+              <caret line="318" column="60" selection-start-line="318" selection-start-column="60" selection-end-line="318" selection-end-column="60" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -26,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Area_manage.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Area_manage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+            <state relative-caret-position="359">
+              <caret line="429" column="27" lean-forward="true" selection-start-line="429" selection-start-column="27" selection-end-line="429" selection-end-column="27" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -39,10 +44,10 @@
         </entry>
       </file>
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/test.py">
+        <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="195">
+              <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
               <folding>
                 <element signature="e#1#12#0" expanded="true" />
               </folding>
@@ -77,7 +82,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="E:/Python工具安装包/最后项目/003" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -95,11 +100,11 @@
         <option value="$PROJECT_DIR$/DV_link_Test/Test_main.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Report_message/1111.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Report_message/test.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Report_message/list_name.txt" />
         <option value="$PROJECT_DIR$/DV_link_Test/Report_message/recove_name_list.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/recove_name_list.py" />
+        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/main.py" />
       </list>
     </option>
@@ -129,12 +134,6 @@
               <item name="DV_link" type="462c0819:PsiDirectoryNode" />
               <item name="DV_link_Test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DV_link" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DV_link" type="462c0819:PsiDirectoryNode" />
-              <item name="DV_link_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Supervisory_Report_SyS" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -151,7 +150,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -192,7 +191,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Area_manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Area_manage" type="PythonConfigurationType" factoryName="Python">
       <module name="DV_link" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,22 +257,21 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DV_link_Test/Report_message/test.py" />
+      <option name="SCRIPT_NAME" value="E:\DV_link\DV_link_Test\Supervisory_Report_SyS\test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.Area_manage" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.1111 (1)" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.recove_name_list" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Area_manage" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.recove_name_list" />
         <item itemvalue="Python.test" />
@@ -296,6 +294,21 @@
       <workItem from="1573096677651" duration="1299000" />
       <workItem from="1573101053108" duration="974000" />
     </task>
+    <task id="LOCAL-00001" summary="格式问题">
+      <created>1575360725043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575360725043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改删除测试案列">
+      <created>1575363089430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575363089430</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -318,18 +331,28 @@
       <configuration name="Unittests in additional_record.py" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32838285" />
       <window_info id="DB Browser" order="3" weight="0.11755952" />
       <window_info anchor="bottom" id="DB Execution Console" order="1" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.29372936" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.31746033" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.24257426" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.31683168" />
       <window_info anchor="bottom" id="Python Console" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4976744" visible="true" weight="0.16815476" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19471948" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4976744" visible="true" weight="0.13244048" />
       <window_info id="Project Explorer" order="0" weight="0.3296131" />
       <window_info id="Job Explorer" order="1" />
       <window_info anchor="bottom" id="Console" order="0" />
@@ -342,7 +365,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="3" weight="0.32784185" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32673267" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,6 +378,9 @@
     <ignored-roots>
       <path value="E:/Python工具安装包/最后项目/003" />
     </ignored-roots>
+    <MESSAGE value="格式问题" />
+    <MESSAGE value="修改删除测试案列" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改删除测试案列" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -417,13 +443,6 @@
     <entry file="file://$USER_HOME$/Desktop/base_page.py" />
     <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Customer_risk.py" />
     <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/DV_link_CRC.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/report_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
     <entry file="file://D:/Program Files/feiq/Recv Files/test00.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -484,13 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/1111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/pymysql/cursors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -506,29 +518,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DV_link_Test/Test_main.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/record_test/ecord_form_2019-12-02.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20683">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DV_link_Test/record_test/ecord_form_2019-12-02.txt" />
     <entry file="file://$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -541,22 +537,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/recove_name_list.py" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
+    <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/1111.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9875">
-          <caret line="395" column="32" selection-start-line="395" selection-start-column="32" selection-end-line="395" selection-end-column="32" />
+        <state relative-caret-position="25">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DV_link_Test/Report_message/report_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1330">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#1#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state relative-caret-position="359">
+          <caret line="429" column="27" lean-forward="true" selection-start-line="429" selection-start-column="27" selection-end-line="429" selection-end-column="27" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="318" column="60" selection-start-line="318" selection-start-column="60" selection-end-line="318" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>

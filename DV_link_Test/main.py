@@ -176,8 +176,6 @@ class TestSystem():
         self.driver.find_element_by_xpath('//*[@id="search_task_name"]').send_keys('123')
         time.sleep(5)
         self.task_list(number1, number2)
-        # 填报详细
-        # self.report_detail()
 
     def report_detail(self, number1, number2):
         count = 1
@@ -317,6 +315,8 @@ class TestSystem():
                     self.write_error_mysql(count, RESOURCE_ID_name1, '监管报送系', '获取列表', '查询按钮', 1, S_txt)
 
                 if len(details_num) < 0:
+                    try:
+                        self.driver.find_elements_by_xpath('')
                     return
                 else:
                     for y in range(1, len(details_num) + 1):
