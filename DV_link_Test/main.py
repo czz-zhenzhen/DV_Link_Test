@@ -221,15 +221,13 @@ class TestSystem():
             S_txt = '报表填报__填报__计算公式:' + str(e)
             self.write_error_excel(S_txt)
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '导入数据', '操作输出', 1, S_txt)
-        print('123')
         try:
             time.sleep(1)
-            print('345')
-            # self.driver.find_element_by_tag_name('x-btn-text').click()
-            self.driver.find_element_by_tag_name('//*[@id="ext-gen267"]').click()
+            self.driver.find_element_by_xpath('//*[@id="ext-comp-1078"]/tbody/tr[2]/td[2]').click()
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填报__导入数据', '关闭按钮', '操作输出', 0, '功能正常')
         except Exception as e:
             S_txt = '报表填报__导入数据__关闭按钮:' + str(e)
+            print(e)
             self.write_error_excel(S_txt)
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '关闭按钮', '操作输出', 1, S_txt)
         try:
@@ -249,7 +247,6 @@ class TestSystem():
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '报表导出', '操作输出', 1, S_txt)
         try:
             self.driver.find_element_by_xpath('//*[@id="ext-gen213"]').click()
-            self.driver.find_element_by_xpath('//*[@id="ext-gen430"]')
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表_填报', '刷新按钮', '操作输出', 0, '功能正常')
         except Exception as e:
             S_txt = '报表填表_刷新按钮:' + str(e)
@@ -257,15 +254,13 @@ class TestSystem():
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表_填报', '刷新按钮', '操作输出', 1, S_txt)
             time.sleep(2)
         try:
-            self.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
-                                '/html/body/div[1]/div[2]/div/div/div/div/iframe')
-            self.driver.find_element_by_xpath('/html/body/div[25]/a').click()
-            self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '完成按钮', '操作输出', 0, '功能正常')
-
+            self.driver.find_element_by_xpath('//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]').click()
+            self.write_error_mysql(count, RESOURCE_ID_name1, '报表填报__填报', '刷新按钮_否', '操作输出', 0, '功能正常')
         except Exception as e:
-            S_txt = '报表填表_刷新按钮:' + str(e)
+            S_txt = '报表填报__导入数据__关闭按钮:' + str(e)
             self.write_error_excel(S_txt)
-            self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '完成按钮', '操作输出', 1, S_txt)
+            print(e)
+            self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表__填报', '刷新按钮_否', '操作输出', 1, S_txt)
         try:
             self.driver.find_element_by_xpath('//*[@id="ext-gen217"]').click()
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '重新校验', '操作输出', 0, '功能正常')
@@ -274,7 +269,24 @@ class TestSystem():
             self.write_error_excel(S_txt)
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '重新校验', '操作输出', 1, S_txt)
         try:
-            self.driver.find_element_by_xpath('//*[@id="ext-gen229"]"]').click()
+            time.sleep(1)
+            self.driver.find_element_by_xpath('//*[@id="finish"]/tbody/tr[2]/td[2]').click()
+            self.write_error_mysql(count, RESOURCE_ID_name1, '报表填报__填报', '完成', '操作输出', 0, '功能正常')
+        except Exception as e:
+            S_txt = '报表填报__导入数据__关闭按钮:' + str(e)
+            self.write_error_excel(S_txt)
+            self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表__填报', '完成', '操作输出', 1, S_txt)
+        try:
+            time.sleep(1)
+            self.driver.find_element_by_xpath('//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]').click()
+            self.write_error_mysql(count, RESOURCE_ID_name1, '报表填报__填报', '完成_否', '操作输出', 0, '功能正常')
+        except Exception as e:
+            S_txt = '报表填报__导入数据__关闭按钮:' + str(e)
+            self.write_error_excel(S_txt)
+            print(e)
+            self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表__填报', '完成_否', '操作输出', 1, S_txt)
+        try:
+            self.driver.find_element_by_xpath('//*[@id="ext-gen229"]').click()
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '关闭按钮', '操作输出', 0, '功能正常')
         except Exception as e:
             S_txt = '报表填表_关闭按钮:' + str(e)
