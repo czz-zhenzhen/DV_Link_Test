@@ -132,12 +132,12 @@ class TestSystem():
         self.driver.switch_to.frame(self.driver.find_element_by_xpath(elems))
         self.driver.find_element_by_xpath(
             '/html/body/div[1]/div[1]/div[1]/ul/li[%s]/a[2]/em/span/span' % str(num)).click()
-        self.driver.switch_to_default_content()
+        self.driver.switch_to.default_content()
 
     def sencond_iframe(self, elem1, elem2):
         elems1 = str(elem1)
         elems2 = str(elem2)
-        self.driver.switch_to_default_content()
+        self.driver.switch_to.default_content()
         time.sleep(1)
         self.driver.switch_to.frame(self.driver.find_element_by_xpath(elems1))
         time.sleep(2)
@@ -165,7 +165,7 @@ class TestSystem():
 
     def return_page(self):
         time.sleep(1)
-        self.driver.switch_to_default_content()
+        self.driver.switch_to.default_content()
 
     def test_first(self, number1, number2):
         self.first_supervise(1, number1, number2)
@@ -221,9 +221,12 @@ class TestSystem():
             S_txt = '报表填报__填报__计算公式:' + str(e)
             self.write_error_excel(S_txt)
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '导入数据', '操作输出', 1, S_txt)
+        print('123')
         try:
-            time.sleep(2)
-            self.driver.find_element_by_xpath('//*[@id="ext-gen398"]').click()
+            time.sleep(1)
+            print('345')
+            # self.driver.find_element_by_tag_name('x-btn-text').click()
+            self.driver.find_element_by_tag_name('//*[@id="ext-gen267"]').click()
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填报__导入数据', '关闭按钮', '操作输出', 0, '功能正常')
         except Exception as e:
             S_txt = '报表填报__导入数据__关闭按钮:' + str(e)
@@ -315,9 +318,10 @@ class TestSystem():
                     self.write_error_mysql(count, RESOURCE_ID_name1, '监管报送系', '获取列表', '查询按钮', 1, S_txt)
 
                 if len(details_num) < 0:
-                    # try:
-                    #     self.driver.find_elements_by_xpath('')
-
+                    try:
+                        self.driver.find_element_by_tag_name('c-message-close-btn').click()
+                    except Exception as e:
+                        print(e)
                     return
                 else:
                     for y in range(1, len(details_num) + 1):
@@ -517,7 +521,7 @@ class TestSystem():
             self.write_error_excel(S_txt)
 
     def main(self):
-        # self.open_page()
+        self.open_page()
         self.test_first(2, 1)
         # self.test_second_message()
         # self.read_mysql('2019-11-28', '2019-11-29','123')
