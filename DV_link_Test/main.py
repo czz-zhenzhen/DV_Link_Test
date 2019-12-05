@@ -539,7 +539,7 @@ class TestSystem():
             self.write_error_excel(S_txt)
 
     def main(self):
-        self.open_page()
+        # self.open_page()
         self.test_first(2, 1)
         # self.test_second_message()
         # self.read_mysql('2019-11-28', '2019-11-29','123')

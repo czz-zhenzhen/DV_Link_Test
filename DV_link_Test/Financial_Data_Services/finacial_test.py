@@ -140,22 +140,14 @@ class Finacial_Data:
             S_txt = '报送任务_创建任务__关闭按钮:' + str(e)
             self.openpage.write_error_excel(S_txt)
 
-    def open_create(self, elem, elem2):
-        time.sleep(1)
-        elems1 = str(elem)
-        elems2 = str(elem2)
-        self.openpage.driver.find_element_by_xpath(elems1).click()
-
-        self.openpage.driver.find_element_by_xpath(elems2).click()
-        time.sleep(2)
 
     def get_message_list(self):
         list01 = self.openpage.driver.find_elements_by_xpath('/html/body/div[1]/div[1]/div[1]/ul/li')
         return len(list01)
 
     def write_message(self):
-        self.openpage.fist_iframe(1, '/html/body/div[2]/div/div[2]/div[2]/div/div/iframe')
-        self.openpage.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
+        self.openpage.fist_iframe(1, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
+        self.openpage.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div/div/div/iframe')
         self.openpage.driver.find_element_by_xpath(
             '/html/body/div[1]/div/div/div/div[2]/form/div/div[1]/div/div/div/div[1]/input').send_keys('123')
@@ -175,7 +167,7 @@ class Finacial_Data:
             S_txt = '填报管理_查询:' + str(e)
             self.openpage.write_error_excel(S_txt)
             self.openpage.create_message()
-            self.open_create('//*[@id="ext-gen125"]', '/html/body/div[21]/ul/li/a/span')
+            self.openpage.driver.find_element_by_xpath('//*[@id="ext-gen125"]').click()
         try:
             self.openpage.driver.find_element_by_xpath('//*[@id="ext-gen125"]').click()
             self.openpage.driver.find_element_by_xpath('//*[@id="ext-comp-1050"]').click()
@@ -214,11 +206,17 @@ class Finacial_Data:
         try:
             self.openpage.driver.find_element_by_xpath('//*[@id="is_temp1"]').click()
             print('000')
-            self.openpage.driver.find_element_by_xpath('//*[@id="ext-gen295"]/div[1]').click()
-            print('12121')
         except Exception as e:
             S_txt = '报送管理_创建任务_是否是临时任务:' + str(e)
             self.openpage.write_error_excel(S_txt)
+        try:
+            self.openpage.driver.find_element_by_xpath('//*[@id="ext-gen295"]/div[1]').click()
+
+        except Exception as e:
+            S_txt = '报送管理_创建任务_是否是临时任务:' + str(e)
+            self.openpage.write_error_excel(S_txt)
+            print(e)
+            print('12121')
         try:
             self.openpage.driver.find_element_by_xpath('//*[@id="ext-comp-1088"]').send_keys('测试创建报表任务')
         except Exception as e:
