@@ -169,12 +169,12 @@ class TestSystem():
 
     def test_first(self, number1, number2):
         self.first_supervise(1, number1, number2)
-        self.fist_iframe(1, '/html/body/div[2]/div/div[2]/div[2]/div/div/iframe')
-        self.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
+        self.fist_iframe(1, '//*[@id="mainTab_CBRC1"]/div/iframe')
+        self.sencond_iframe('//*[@id="mainTab_CBRC1"]/div/iframe',
                             '/html/body/div[1]/div[2]/div/div/div/div/iframe')
 
         self.driver.find_element_by_xpath('//*[@id="search_task_name"]').send_keys('123')
-        time.sleep(5)
+        time.sleep(2)
         self.task_list(number1, number2)
 
     def report_detail(self, number1, number2):
@@ -194,8 +194,16 @@ class TestSystem():
         time.sleep(2)
         self.return_page()
         try:
-            self.fist_iframe(1, '/html/body/div[2]/div/div[2]/div[2]/div/div/iframe')
-            self.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
+            self.driver.switch_to.frame(self.driver.find_element_by_xpath('//*[@id="mainTab_CBRC1"]/div/iframe'))
+            self.driver.switch_to.frame(self.driver.find_element_by_xpath('/html/body/div[1]/div[2]/div/div/div/div/iframe'))
+            self.driver.switch_to.frame(self.driver.find_element_by_id('showDataI'))
+            self.driver.find_element_by_xpath('//*[@id="ext-gen3"]/div[12]/div[3]/button').click()
+        except Exception as e:
+            print('没有按钮' + str(e))
+        self.return_page()
+        try:
+            self.fist_iframe(1, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
+            self.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
                                 '/html/body/div[1]/div[2]/div/div/div/div/iframe')
             self.driver.find_element_by_xpath(
                 '/html/body/div[23]/div[2]/div[1]/div/div/div[1]/div/table/tbody/tr/td[2]/table/tbody/tr/td[1]/'
@@ -205,16 +213,16 @@ class TestSystem():
             S_txt = '报表填报__进入iframe层:' + str(e)
             self.write_error_excel(S_txt)
             self.write_error_mysql(count, RESOURCE_ID, '报表填表', '进入iframe层', '操作输出', 1, S_txt)
-        time.sleep(2)
-        # 关闭按钮
+
         try:
             if self.driver.find_element_by_xpath('//*[@id="ext-gen3"]/div[12]/a').click() == False:
                 self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '刷新按钮', '操作输出', 0, '功能正常')
-                print('0000')
         except Exception as e:
             S_txt = '报表填报__填报__返回确认按钮:' + str(e)
             self.write_error_excel(S_txt)
+
         try:
+            time.sleep(2)
             self.driver.find_element_by_xpath('//*[@id="ext-gen201"]').click()
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '导入数据', '操作输出', 0, '功能正常')
         except Exception as e:
@@ -222,14 +230,16 @@ class TestSystem():
             self.write_error_excel(S_txt)
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '导入数据', '操作输出', 1, S_txt)
         try:
-            time.sleep(1)
             self.driver.find_element_by_xpath('//*[@id="ext-comp-1078"]/tbody/tr[2]/td[2]').click()
+
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填报__导入数据', '关闭按钮', '操作输出', 0, '功能正常')
         except Exception as e:
             S_txt = '报表填报__导入数据__关闭按钮:' + str(e)
             print(e)
             self.write_error_excel(S_txt)
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '关闭按钮', '操作输出', 1, S_txt)
+        time.sleep(2)
+
         try:
             self.driver.find_element_by_xpath('//*[@id="ext-gen398"]').click()
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填报__计算公式', '计算公式', '操作输出', 0, '功能正常')
@@ -301,6 +311,7 @@ class TestSystem():
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '刷新按钮', '操作输出', 1, S_txt)
 
     def task_list(self, number1, number2):
+
         count = 1
         if number1 == 2:
             RESOURCE_ID_name1 = 'CBRC%d1' % number2
@@ -317,6 +328,7 @@ class TestSystem():
         details_num = self.driver.find_elements_by_xpath(
             '/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div')
         num = len(lists)
+
         if num > 0:
             for x in range(1, num + 1):
                 try:
@@ -353,26 +365,20 @@ class TestSystem():
 
     def test_second_message(self):
         self.return_page()
-        self.fist_iframe(2, '/html/body/div[2]/div/div[2]/div[2]/div/div/iframe')
-        self.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
+        self.fist_iframe(2, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
+        self.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
                             '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
         self.driver.find_element_by_xpath(
             '/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/td[1]'
             '/table/tbody/tr/td[1]/input').send_keys(
             '存折信息')
-        time.sleep(2)
         try:
             self.driver.find_element_by_xpath('/html/body/div[15]/a').click()
         except Exception as e:
             print(e)
         time.sleep(2)
-        list02 = self.driver.find_elements_by_xpath(
-            '/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[2]/div/div[1]/div[2]/div')
-        nums = len(list02)
-        for x in range(nums):
-            self.driver.find_element_by_xpath(
-                '/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[2]/div/div[1]/div[2]/div'
-                '/div[%s]/table/tbody/tr/td[1]/div' % str(x))
+        list02 = self.driver.find_elements_by_xpath('/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[2]/div/div[1]/div[2]/div')
+
 
     def write_error_excel(self, text):
         time_str2 = time.strftime('%Y-%m-%d:%H:%M', time.localtime())

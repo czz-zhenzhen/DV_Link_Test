@@ -20,8 +20,8 @@ class Custom_riosk:
             RESOURCE_ID_name1 = 'SAFE%d2' % number2
 
         try:
-            self.page.fist_iframe(1, '/html/body/div[2]/div/div[2]/div[2]/div/div/iframe')
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
+            self.page.fist_iframe(1, '//*[@id="mainTab_CBRC1"]/div/iframe')
+            self.page.sencond_iframe('//*[@id="mainTab_CBRC1"]/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div/div/div/iframe')
             count += 1
             self.page.write_error_mysql(count, RESOURCE_ID, '报表填表', '操作输入', '进入iframe层', 0, '功能正常')
@@ -29,6 +29,12 @@ class Custom_riosk:
             S_txt = '进入iframe层:' + str(e)
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '操作输入', '进入iframe层', 1, S_txt)
+
+        try:
+            time.sleep(1)
+            self.page.driver.find_element_by_xpath('//*[@id="ext-gen5"]/div[25]/div[3]/button').click()
+        except Exception as e:
+            print('没有按钮' + str(e))
         try:
             self.page.driver.find_element_by_xpath('//*[@id="search_task_name"]').send_keys('')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '输入框', '操作输出', 0, '功能正常')
@@ -37,7 +43,7 @@ class Custom_riosk:
             self.page.write_error_excel(S_txt)
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '输入框', '操作输出', 1, S_txt)
-        time.sleep(3)
+        time.sleep(2)
         try:
             self.page.driver.find_element_by_xpath(
                 '/html/body/div[1]/div[2]/div/div/div/form/div/div[4]/div/div/div/div[1]/input').send_keys('')
@@ -103,8 +109,8 @@ class Custom_riosk:
             RESOURCE_ID_name1 = 'SAFE%d2' % number2
         count = 1
         try:
-            self.page.fist_iframe(2, '/html/body/div[2]/div/div[2]/div[2]/div/div/iframe')
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
+            self.page.fist_iframe(2, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
+            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '操作输入', '进入iframe层', 0, '功能正常')
 
@@ -112,6 +118,11 @@ class Custom_riosk:
             S_txt = '报表查询_进入iframe层:' + str(e)
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '操作输入', '进入iframe层', 1, S_txt)
+        try:
+            time.sleep(1)
+            self.page.driver.find_element_by_xpath('//*[@id="ext-gen5"]/div[25]/div[3]/button').click()
+        except Exception as e:
+            print('没有按钮:' + str(e))
 
         try:
             self.page.driver.find_element_by_xpath('//*[@id="search"]').send_keys('存折信息')
@@ -178,8 +189,8 @@ class Custom_riosk:
         count = 1
         self.page.return_page()
         try:
-            self.page.fist_iframe(3, '/html/body/div[2]/div/div[2]/div[2]/div/div/iframe')
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
+            self.page.fist_iframe(3, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
+            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div[3]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '操作输入', '进入iframe层', 0, '功能正常')
 
@@ -187,6 +198,11 @@ class Custom_riosk:
             S_txt = '报文发送_进入iframe层:' + str(e)
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '操作输入', '进入iframe层', 1, S_txt)
+        try:
+            time.sleep(1)
+            self.page.driver.find_element_by_xpath('//*[@id="ext-gen5"]/div[25]/div[3]/button').click()
+        except Exception as e:
+            print('没有按钮' + str(e))
 
         try:
             self.page.task_name('/html/body/div[1]/div[2]/div/div/div/form/div/div[1]/div/div/div/div[1]/input', '1104')
@@ -265,8 +281,8 @@ class Custom_riosk:
             RESOURCE_ID_name1 = 'SAFE%d2' % number2
         count = 1
         try:
-            self.page.fist_iframe(4, '/html/body/div[2]/div/div[2]/div[2]/div/div/iframe')
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
+            self.page.fist_iframe(4, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
+            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div[4]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文下载', '操作输入', '进入iframe层', 0, '功能正常')
 
@@ -274,6 +290,11 @@ class Custom_riosk:
             S_txt = '报文下载_进入iframe层:' + str(e)
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文下载', '操作输入', '进入iframe层', 1, S_txt)
+        try:
+            time.sleep(1)
+            self.page.driver.find_element_by_xpath('//*[@id="ext-gen5"]/div[25]/div[3]/button').click()
+        except Exception as e:
+            print('没有按钮' + str(e))
 
         try:
             self.page.messsage_arg(
@@ -317,11 +338,16 @@ class Custom_riosk:
         self.page.driver.find_element_by_xpath(
             '/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[%s]/div[2]/h3' % str(number)).click()
         time.sleep(2)
+
     def start_test(self, number1, number):
         self.page.chioce_manage(2)
         count = 1
-        RESOURCE_ID = 'report%d' % number1
-        RESOURCE_ID_name1 = 'report1%d1' % number
+        if number1 >9:
+            RESOURCE_ID = 'report1%d' % number1
+            RESOURCE_ID_name1 = 'report2%d1'%number
+        else:
+            RESOURCE_ID = 'report1%d' % number1
+            RESOURCE_ID_name1 = 'report1%d1' % number
         try:
             self.chioce_report(number)
         except Exception as e:
@@ -422,6 +448,7 @@ class Custom_riosk:
                     self.three_message(i, x)
                     self.message_down(i, x)
                     self.page.driver.refresh()
+                    self.page.db.close()
             self.main_report()
             self.page.driver.refresh()
             end_time = time.time()
@@ -429,7 +456,7 @@ class Custom_riosk:
             print('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
             text = ('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
             self.page.read_mysql(self.page.get_time(), endow, text)
-        self.page.db.close()
+
 
 
 if __name__ == "__main__":

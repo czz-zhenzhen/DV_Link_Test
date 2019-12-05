@@ -1,7 +1,6 @@
 from DV_link_Test.main import *
 import random
 
-
 class Finacial_Data:
     def __init__(self):
         self.openpage = TestSystem()
@@ -145,7 +144,6 @@ class Finacial_Data:
         elems1 = str(elem)
         elems2 = str(elem2)
         self.openpage.driver.find_element_by_xpath(elems1).click()
-
         self.openpage.driver.find_element_by_xpath(elems2).click()
         time.sleep(2)
 
@@ -213,9 +211,7 @@ class Finacial_Data:
             self.openpage.write_error_excel(S_txt)
         try:
             self.openpage.driver.find_element_by_xpath('//*[@id="is_temp1"]').click()
-            print('000')
             self.openpage.driver.find_element_by_xpath('//*[@id="ext-gen295"]/div[1]').click()
-            print('12121')
         except Exception as e:
             S_txt = '报送管理_创建任务_是否是临时任务:' + str(e)
             self.openpage.write_error_excel(S_txt)
@@ -235,8 +231,8 @@ class Finacial_Data:
         #     time.sleep(1)
         #     self.openpage.first_supervise(4,3,x)
         self.openpage.first_supervise(4, 3, 4)
-        self.write_message()
-        # self.send_management()
+        # self.write_message()
+        self.send_management()
 
     def main(self):
         self.start_test()

@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c93c91e8-a24e-4bc6-9acc-ea8869e7af93" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DV_link_Test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DV_link_Test/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DV_link_Test/record_test/ecord_form_2019-12-03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DV_link_Test/record_test/ecord_form_2019-12-03.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +23,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="330" column="24" lean-forward="true" selection-start-line="330" selection-start-column="24" selection-end-line="330" selection-end-column="24" />
+            <state relative-caret-position="174">
+              <caret line="229" column="34" selection-start-line="229" selection-start-column="34" selection-end-line="229" selection-end-column="34" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -32,22 +35,10 @@
       <file leaf-file-name="Area_manage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="420" column="30" lean-forward="true" selection-start-line="420" selection-start-column="30" selection-end-line="420" selection-end-column="30" />
+            <state relative-caret-position="146">
+              <caret line="450" column="39" selection-start-line="450" selection-start-column="39" selection-end-line="450" selection-end-column="40" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
-              <folding>
-                <element signature="e#1#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,8 +47,8 @@
       <file leaf-file-name="finacial_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="190">
+              <caret line="155" column="72" selection-start-line="155" selection-start-column="72" selection-end-line="155" selection-end-column="72" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -96,12 +87,12 @@
         <option value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/additional_record.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/1111.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Test_main.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Report_message/1111.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Report_message/test.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Report_message/list_name.txt" />
         <option value="$PROJECT_DIR$/DV_link_Test/Report_message/recove_name_list.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/recove_name_list.py" />
+        <option value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py" />
         <option value="$PROJECT_DIR$/DV_link_Test/main.py" />
       </list>
@@ -132,6 +123,12 @@
               <item name="DV_link" type="462c0819:PsiDirectoryNode" />
               <item name="DV_link_Test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DV_link" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV_link" type="462c0819:PsiDirectoryNode" />
+              <item name="DV_link_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Supervisory_Report_SyS" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -141,14 +138,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/python 笔记01" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -202,6 +199,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="finacial_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DV_link" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,10 +282,12 @@
       <item itemvalue="Python.1111 (1)" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.recove_name_list" />
+      <item itemvalue="Python.finacial_test" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.finacial_test" />
         <item itemvalue="Python.recove_name_list" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.1111 (1)" />
@@ -313,7 +330,28 @@
       <option name="project" value="LOCAL" />
       <updated>1575364812698</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1575365288061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575365288061</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Default Changelist">
+      <created>1575421881629</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575421881629</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Default Changelist">
+      <created>1575439889231</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575439889231</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -353,16 +391,17 @@
       <window_info id="DB Browser" order="3" weight="0.11755952" />
       <window_info anchor="bottom" id="DB Execution Console" order="1" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.40924093" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.37953794" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.31683168" />
       <window_info anchor="bottom" id="Python Console" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32013202" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4976744" visible="true" weight="0.119791664" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.22937293" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4976744" visible="true" weight="0.140625" />
       <window_info id="Project Explorer" order="0" weight="0.3296131" />
       <window_info id="Job Explorer" order="1" />
       <window_info anchor="bottom" id="Console" order="0" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32673267" />
       <window_info id="Structure" order="4" sideWeight="0.5023256" side_tool="true" weight="0.15080526" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.2866557" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.28547856" />
       <window_info id="Favorites" order="5" sideWeight="0.5023148" side_tool="true" weight="0.16815476" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -370,7 +409,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="3" weight="0.32673267" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,16 +564,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DV_link_Test/Test_main.py" />
     <entry file="file://$PROJECT_DIR$/DV_link_Test/record_test/ecord_form_2019-12-02.txt" />
-    <entry file="file://$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/list_name.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -560,7 +588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="1900">
           <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
           <folding>
             <element signature="e#1#12#0" expanded="true" />
@@ -568,10 +596,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="155" column="72" selection-start-line="155" selection-start-column="72" selection-end-line="155" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="420" column="30" lean-forward="true" selection-start-line="420" selection-start-column="30" selection-end-line="420" selection-end-column="30" />
+        <state relative-caret-position="146">
+          <caret line="450" column="39" selection-start-line="450" selection-start-column="39" selection-end-line="450" selection-end-column="40" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -580,8 +618,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="330" column="24" lean-forward="true" selection-start-line="330" selection-start-column="24" selection-end-line="330" selection-end-column="24" />
+        <state relative-caret-position="174">
+          <caret line="229" column="34" selection-start-line="229" selection-start-column="34" selection-end-line="229" selection-end-column="34" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
