@@ -403,11 +403,6 @@ class TestSystem():
             ls = self.cursor.fetchall()
             self.cursor.execute(sql_date)
             ls1 = self.cursor.fetchall()
-            # 监管报送系统
-            # 敏捷报表平台
-            # (('super', '监管报送系统', 328, 295, 33, 0),
-            #  ('report', '敏捷报表平台', 10, 10, 0, 0))
-            # 读取错误内容
             time_str = str(self.get_time())
             path = '/DV_link/DV_link_Test/Supervisory_Report_SyS/' + time_str + '_Test_report.xls'
             list_name = ['日期', '总计', '成功', '失败']

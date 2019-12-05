@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c93c91e8-a24e-4bc6-9acc-ea8869e7af93" name="Default Changelist" comment="" />
+    <list default="true" id="c93c91e8-a24e-4bc6-9acc-ea8869e7af93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DV_link_Test/Report_message/1111.py" beforeDir="false" afterPath="$PROJECT_DIR$/DV_link_Test/Report_message/1111.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,7 @@
   <component name="FavoritesManager">
     <favorites_list name="DV_link" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
@@ -52,6 +56,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> ed4df7b69766d8f8465be4601829709d5f8a09ff
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -65,71 +71,10 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="E:/Python工具安装包/最后项目/003" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/DV_link_Test/dvlink/001.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/DV_link_CRC.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Customerrisk.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/DV_link_EAST.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Customer_risk.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Report_message/report_test.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/Create_Message.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/test001.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/additional_record.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/1111.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Test_main.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Financial_Data_Services/finacial_test.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Report_message/1111.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/Area_manage.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Report_message/test.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Report_message/list_name.txt" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Report_message/recove_name_list.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/Supervisory_Report_SyS/recove_name_list.py" />
-        <option value="$PROJECT_DIR$/DV_link_Test/main.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="318" />
-    <option name="y" value="12" />
-    <option name="width" value="805" />
-    <option name="height" value="728" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TGlWJ5c6lFT9g7IPSPa9lIBLGF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DV_link" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DV_link" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DV_link" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DV_link" type="462c0819:PsiDirectoryNode" />
-              <item name="DV_link_Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DV_link" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DV_link" type="462c0819:PsiDirectoryNode" />
-              <item name="DV_link_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Supervisory_Report_SyS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -139,7 +84,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -179,6 +124,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Area_manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DV_link" />
@@ -197,6 +145,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DV_link" />
@@ -215,6 +166,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="recove_name_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DV_link" />
@@ -233,6 +187,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DV_link" />
@@ -251,6 +208,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.main" />
@@ -270,7 +230,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
-    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <configuration>C:\Users\czz_zhenzhen\AppData\Roaming\Subversion</configuration>
     <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
@@ -284,6 +244,14 @@
       <workItem from="1573096677651" duration="1299000" />
       <workItem from="1573101053108" duration="974000" />
     </task>
+    <task id="LOCAL-00001" summary="czz 修改文档">
+      <created>1575384257130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575384257131</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -306,6 +274,7 @@
       <configuration name="Unittests in additional_record.py" configurationId="tests" />
     </history-entry>
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
@@ -349,16 +318,17 @@
       <window_info anchor="bottom" id="Python Console" order="11" />
     </layout>
   </component>
+=======
+>>>>>>> ed4df7b69766d8f8465be4601829709d5f8a09ff
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="E:/Python工具安装包/最后项目/003" />
     </ignored-roots>
+    <MESSAGE value="czz 修改文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="czz 修改文档" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -369,12 +339,12 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DV_link$001.coverage" NAME="001 Coverage Results" MODIFIED="1573102240721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DV_link_Test/dvlink" />
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DV_link_Test/main.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -557,4 +527,6 @@
       </provider>
     </entry>
   </component>
+=======
+>>>>>>> ed4df7b69766d8f8465be4601829709d5f8a09ff
 </project>
