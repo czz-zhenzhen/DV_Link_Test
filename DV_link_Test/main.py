@@ -191,7 +191,7 @@ class TestSystem():
             RESOURCE_ID_name1 = 'SAFE%d1' % number2
             RESOURCE_ID = 'SAFE%d' % number2
             self.write_error_mysql(count, "SAFE", '报表填表', '刷新按钮', '操作输出', 0, '功能正常')
-        time.sleep(2)
+        time.sleep(1)
         self.return_page()
         try:
             self.driver.switch_to.frame(self.driver.find_element_by_xpath('//*[@id="mainTab_CBRC1"]/div/iframe'))
