@@ -17,3 +17,6 @@ t1 = time.time()
 # cursor.execute(sql)
 # db.commit()
 # db.close()
+
+ls = [1,2,3]
+print(ls[-1])

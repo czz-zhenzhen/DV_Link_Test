@@ -424,14 +424,14 @@ class Custom_riosk:
                     self.three_message(i, x)
                     self.message_down(i, x)
                     self.page.driver.refresh()
-            self.main_report()
-            self.page.driver.refresh()
-            end_time = time.time()
-            self.page.write_error_excel('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
-            print('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
-            text = ('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
-            self.page.read_mysql(self.page.get_time(),endow,text)
-            self.page.db.close()
+                self.main_report()
+                self.page.driver.refresh()
+                end_time = time.time()
+                self.page.write_error_excel('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
+                print('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
+                text = ('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
+                self.page.read_mysql(self.page.get_time(),endow,text)
+                self.page.db.close()
 
 
 if __name__ == "__main__":
