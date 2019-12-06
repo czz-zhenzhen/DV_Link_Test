@@ -61,7 +61,6 @@ class Finacial_Data:
             self.openpage.write_error_excel(S_txt)
         # 创建任务
         self.openpage.create_message()
-        self.open_create('//*[@id="ext-gen125"]', '/html/body/div[21]/ul/li/a/span')
         try:
             self.openpage.driver.find_element_by_xpath(
                 '/html/body/div[23]/div[2]/div[2]/div/div/div/div[1]/table/tbody/tr/td[1]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/em/button').click()
@@ -97,7 +96,6 @@ class Finacial_Data:
             S_txt = '报送任务_确认按钮:' + str(e)
             self.openpage.write_error_excel(S_txt)
         time.sleep(2)
-        self.open_create('//*[@id="ext-gen122"]', '/html/body/div[21]/ul/li/a/span')
         # 创建任务
         try:
             self.openpage.driver.find_element_by_xpath('//*[@id="ext-comp-1078"]').send_keys('test1104')
