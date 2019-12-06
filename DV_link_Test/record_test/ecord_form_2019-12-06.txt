@@ -1,0 +1,1533 @@
+2019-12-06:09:26
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:26
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:26
+报表查询_输入框:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:27
+报表查询_查询:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/td[1]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:27
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="bankCombo"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:27
+报表查询_机构管理:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:27
+报表查询_提示按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[15]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:27
+报文发送_任务名称:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:27
+报文发送_任务状态:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:46
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:46
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:46
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:46
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:48
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:48
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:55
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:55
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:55
+报表填报__导入数据__关闭按钮:Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:56
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:56
+报表填报__报表导出:Message: element click intercepted: Element <button type="button" id="ext-gen209" class=" x-btn-text export">...</button> is not clickable at point (1054, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:56
+报表填表_刷新按钮:Message: element click intercepted: Element <button type="button" id="ext-gen213" class=" x-btn-text refresh">...</button> is not clickable at point (1134, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:56
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:56
+报表填表_重新校验:Message: element click intercepted: Element <button type="button" id="ext-gen217" class=" x-btn-text salary">...</button> is not clickable at point (1214, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:56
+报表填报__导入数据__关闭按钮:Message: element click intercepted: Element <td class="x-btn-mc">...</td> is not clickable at point (1282, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:57
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:57
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:57
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:57
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:58
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:58
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:58
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:58
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:58
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:58
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:58
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:58
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:58
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:58
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:59
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:59
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:59
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:59
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:59
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:09:59
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:04
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:04
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:04
+报表填报__导入数据__关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen53" class=" x-btn-text search">...</button> is not clickable at point (1109, 45). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:04
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:04
+报表填报__报表导出:Message: element click intercepted: Element <button type="button" id="ext-gen209" class=" x-btn-text export">...</button> is not clickable at point (1054, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:04
+报表填表_刷新按钮:Message: element click intercepted: Element <button type="button" id="ext-gen213" class=" x-btn-text refresh">...</button> is not clickable at point (1134, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+报表填表_重新校验:Message: element click intercepted: Element <button type="button" id="ext-gen217" class=" x-btn-text salary">...</button> is not clickable at point (1214, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+报表填报__导入数据__关闭按钮:Message: element click intercepted: Element <td class="x-btn-mc">...</td> is not clickable at point (1282, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:05
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:06
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:06
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:06
+报表填报__导入数据__关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen53" class=" x-btn-text search">...</button> is not clickable at point (1109, 45). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+报表填报__报表导出:Message: element click intercepted: Element <button type="button" id="ext-gen209" class=" x-btn-text export">...</button> is not clickable at point (1054, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+报表填表_刷新按钮:Message: element click intercepted: Element <button type="button" id="ext-gen213" class=" x-btn-text refresh">...</button> is not clickable at point (1134, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+报表填表_重新校验:Message: element click intercepted: Element <button type="button" id="ext-gen217" class=" x-btn-text salary">...</button> is not clickable at point (1214, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+报表填报__导入数据__关闭按钮:Message: element click intercepted: Element <td class="x-btn-mc">...</td> is not clickable at point (1282, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:07
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:08
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:08
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:08
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:10
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:10
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:10
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:10
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:10
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:10
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:11
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:11
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:11
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:11
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:11
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:11
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:12
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:12
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:12
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:12
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:12
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:13
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:13
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:13
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:36
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:36
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:36
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"css selector","selector":"addTemplateWin.button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:45
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:45
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:45
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"css selector","selector":"addTemplateWin>button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:52
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:52
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:52
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"css selector","selector":" x-window x-resizable-pinned>button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+报表填报__报表导出:Message: element click intercepted: Element <button type="button" id="ext-gen209" class=" x-btn-text export">...</button> is not clickable at point (1054, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+报表填表_刷新按钮:Message: element click intercepted: Element <button type="button" id="ext-gen213" class=" x-btn-text refresh">...</button> is not clickable at point (1134, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+报表填表_重新校验:Message: element click intercepted: Element <button type="button" id="ext-gen217" class=" x-btn-text salary">...</button> is not clickable at point (1214, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+报表填报__导入数据__关闭按钮:Message: element click intercepted: Element <td class="x-btn-mc">...</td> is not clickable at point (1282, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:10:53
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:11:27
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:11:27
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:11:27
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="addTemplateWin"]//div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:05
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:06
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:06
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[type="button"][id="ext-gen271"][class=" x-btn-text"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:07
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:07
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:07
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"css selector","selector":"addTemplateWin[type="button"][id="ext-gen271"][class=" x-btn-text"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:09
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:09
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:09
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ext-gen271"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:11
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:11
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:11
+报表填报__导入数据__关闭按钮:Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填报__导入数据__关闭按钮:Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填报__报表导出:Message: element click intercepted: Element <button type="button" id="ext-gen209" class=" x-btn-text export">...</button> is not clickable at point (1054, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填表_刷新按钮:Message: element click intercepted: Element <button type="button" id="ext-gen213" class=" x-btn-text refresh">...</button> is not clickable at point (1134, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填表_重新校验:Message: element click intercepted: Element <button type="button" id="ext-gen217" class=" x-btn-text salary">...</button> is not clickable at point (1214, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填报__导入数据__关闭按钮:Message: element click intercepted: Element <td class="x-btn-mc">...</td> is not clickable at point (1282, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:20
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:21
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:21
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:21
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:21
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:21
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:21
+报表填报__导入数据__关闭按钮:Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:22
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:22
+报表填报__报表导出:Message: element click intercepted: Element <button type="button" id="ext-gen209" class=" x-btn-text export">...</button> is not clickable at point (1054, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:22
+报表填表_刷新按钮:Message: element click intercepted: Element <button type="button" id="ext-gen213" class=" x-btn-text refresh">...</button> is not clickable at point (1134, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:23
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:23
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:23
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:23
+报表填报__报表导出:Message: element click intercepted: Element <button type="button" id="ext-gen209" class=" x-btn-text export">...</button> is not clickable at point (1054, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:23
+报表填表_刷新按钮:Message: element click intercepted: Element <button type="button" id="ext-gen213" class=" x-btn-text refresh">...</button> is not clickable at point (1134, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:24
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:24
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:24
+报表填报__导入数据__关闭按钮:'WebElement' object is not iterable2019-12-06:14:25
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:25
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:25
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:25
+报表填报__报表导出:Message: element click intercepted: Element <button type="button" id="ext-gen209" class=" x-btn-text export">...</button> is not clickable at point (1054, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:25
+报表填表_刷新按钮:Message: element click intercepted: Element <button type="button" id="ext-gen213" class=" x-btn-text refresh">...</button> is not clickable at point (1134, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:28
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:28
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:28
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:28
+报表填报__报表导出:Message: element click intercepted: Element <button type="button" id="ext-gen209" class=" x-btn-text export">...</button> is not clickable at point (1054, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:28
+报表填表_刷新按钮:Message: element click intercepted: Element <button type="button" id="ext-gen213" class=" x-btn-text refresh">...</button> is not clickable at point (1134, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:28
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:28
+报表填表_重新校验:Message: element click intercepted: Element <button type="button" id="ext-gen217" class=" x-btn-text salary">...</button> is not clickable at point (1214, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:28
+报表填报__导入数据__关闭按钮:Message: element click intercepted: Element <td class="x-btn-mc">...</td> is not clickable at point (1282, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:28
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:28
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:30
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:30
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:30
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:30
+报表填报__报表导出:Message: element click intercepted: Element <button type="button" id="ext-gen209" class=" x-btn-text export">...</button> is not clickable at point (1054, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:30
+报表填表_刷新按钮:Message: element click intercepted: Element <button type="button" id="ext-gen213" class=" x-btn-text refresh">...</button> is not clickable at point (1134, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:32
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:32
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:32
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:32
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:32
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:32
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:33
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:33
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:34
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:34
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:40
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:40
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:49
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:14:49
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:00
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:00
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:00
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:00
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:00
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:00
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:00
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:00
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:00
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:00
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:01
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:06
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:06
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:06
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:13
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:13
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:13
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:13
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:13
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:14
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:14
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:14
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:14
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:14
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:14
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:14
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:18
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:18
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:18
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:18
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:24
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:24
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:24
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:27
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:27
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:28
+报表填报__导入数据__关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen225" class=" x-btn-text pass">...</button> is not clickable at point (1282, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:28
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:28
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:28
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:28
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:28
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:28
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:28
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:30
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:30
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:30
+报表填表_重新校验:Message: element click intercepted: Element <button type="button" id="ext-gen217" class=" x-btn-text salary">...</button> is not clickable at point (1214, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:30
+报表填报__导入数据__关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen225" class=" x-btn-text pass">...</button> is not clickable at point (1282, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:30
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:31
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:36
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:36
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:37
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:37
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:37
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:37
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:37
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:37
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:37
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:37
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:37
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:38
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:38
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:38
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:42
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:42
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:42
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:42
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:42
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:42
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:46
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:46
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:46
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:47
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:47
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:47
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:47
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:47
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:47
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:47
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:47
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:54
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:54
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:55
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:55
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:55
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:55
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:55
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:58
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:58
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:58
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:58
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:58
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:58
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:59
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:59
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:15:59
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:02
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:02
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:02
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:02
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:02
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:02
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:03
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:03
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:03
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:03
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:03
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:05
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:05
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:05
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:08
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:08
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:08
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:08
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:09
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:09
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:09
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:09
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:09
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:09
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:09
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:12
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:12
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:12
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:12
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:12
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:12
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:13
+监管报送系统__获取列表:'NoneType' object has no attribute 'click'2019-12-06:16:13
+任务列表__判断任务明细:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:13
+监管报送系统__获取列表:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:13
+任务列表__判断任务明细:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:18
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:18
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:18
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:18
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:18
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:18
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:18
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:18
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:18
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:19
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:19
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:30
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:30
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:30
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen225" class=" x-btn-text pass">...</button> is not clickable at point (1282, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:30
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:30
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:30
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:30
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:32
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:32
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:32
+报表填表_关闭按钮:Message: element click intercepted: Element <button type="button" id="ext-gen229" class=" x-btn-text cross">...</button> is not clickable at point (1338, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen297" style="display: block; width: 1364px; height: 499px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:32
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:32
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:32
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:32
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:32
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:32
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:33
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:33
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:44
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:44
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:45
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (43, 193). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="93ec6a2b3ae971cf5abb02725c26c6c3"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:45
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="93ec6a2b3ae971cf5abb02725c26c6c3"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:45
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (50, 218). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="93ec6a2b3ae971cf5abb02725c26c6c3"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:45
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="93ec6a2b3ae971cf5abb02725c26c6c3"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:45
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (43, 243). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="93ec6a2b3ae971cf5abb02725c26c6c3"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:45
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="93ec6a2b3ae971cf5abb02725c26c6c3"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:45
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (43, 268). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="93ec6a2b3ae971cf5abb02725c26c6c3"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:45
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="93ec6a2b3ae971cf5abb02725c26c6c3"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:47
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:47
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:47
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (43, 193). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="5a8954f7c11fd9d8840b94c76b300f4f"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:47
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="5a8954f7c11fd9d8840b94c76b300f4f"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:47
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (50, 218). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="5a8954f7c11fd9d8840b94c76b300f4f"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:47
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="5a8954f7c11fd9d8840b94c76b300f4f"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:47
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (43, 243). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="5a8954f7c11fd9d8840b94c76b300f4f"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:47
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="5a8954f7c11fd9d8840b94c76b300f4f"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:47
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (43, 268). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="5a8954f7c11fd9d8840b94c76b300f4f"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:47
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="5a8954f7c11fd9d8840b94c76b300f4f"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:51
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:51
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:51
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (43, 193). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="a1969754c5a650810c8c6970393fbaf8"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:51
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="a1969754c5a650810c8c6970393fbaf8"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:51
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (50, 218). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="a1969754c5a650810c8c6970393fbaf8"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:51
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="a1969754c5a650810c8c6970393fbaf8"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:51
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (43, 243). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="a1969754c5a650810c8c6970393fbaf8"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:51
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="a1969754c5a650810c8c6970393fbaf8"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:51
+监管报送系统__获取列表:Message: element click intercepted: Element <span>...</span> is not clickable at point (43, 268). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="a1969754c5a650810c8c6970393fbaf8"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:51
+任务列表__判断任务明细:Message: element click intercepted: Element <a href="javascript:showData(1,'T1004','201905151033400002','B000000000','2019-09-30','资产负债项目统计表')">...</a> is not clickable at point (1268, 139). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="a1969754c5a650810c8c6970393fbaf8"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:56
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:56
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:56
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:56
+任务列表__判断任务明细:'NoneType' object has no attribute 'click'2019-12-06:16:56
+监管报送系统__获取列表:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:56
+任务列表__判断任务明细:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:56
+监管报送系统__获取列表:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:56
+任务列表__判断任务明细:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:56
+监管报送系统__获取列表:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:56
+任务列表__判断任务明细:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:59
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:59
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:59
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:59
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:59
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:16:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:00
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:00
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:00
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:02
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:02
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:02
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:02
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:02
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:02
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:02
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:02
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:02
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:03
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:04
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:04
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:04
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:04
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:05
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:05
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:05
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:05
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:05
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:05
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:15
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:15
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:15
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:15
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:15
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:15
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:15
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:15
+任务列表__判断任务明细:'NoneType' object has no attribute 'click'2019-12-06:17:15
+监管报送系统__获取列表:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:15
+任务列表__判断任务明细:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:16
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:16
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:17
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:17
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:17
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:17
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:17
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:17
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:17
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:17
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:18
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:18
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:19
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:19
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:19
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:31
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:31
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:31
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:31
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (942, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen348" style="display: block; width: 1364px; height: 458px; z-index: 9020;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:31
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:32
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:32
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:32
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:32
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:32
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (906, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen401" style="display: block; width: 1364px; height: 458px; z-index: 9020;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:32
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:32
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:33
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:33
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:33
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (942, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen450" style="display: block; width: 1364px; height: 458px; z-index: 9020;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:33
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:33
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:33
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:42
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:42
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:43
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:43
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (942, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen348" style="display: block; width: 1364px; height: 458px; z-index: 9020;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:43
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:43
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:43
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:43
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:43
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:43
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (906, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen401" style="display: block; width: 1364px; height: 458px; z-index: 9020;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:44
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:44
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:44
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:44
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:44
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (942, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen450" style="display: block; width: 1364px; height: 458px; z-index: 9020;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:44
+报表填报__导入数据__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:45
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-06:17:45
+报表填报__完成__关闭按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
