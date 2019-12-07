@@ -1,0 +1,417 @@
+2019-12-05:17:07
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:07
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:07
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:07
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:07
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div[2]/div[2]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search_task_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search_task_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:08
+任务状态:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[4]/div/div/div/div[1]/input"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:09
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[6]/div/div/div/div[1]/div/input[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:09
+报表填表_输入时间:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1022"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:09
+报表填表_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/table/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:09
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:09
+报表查询_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div[2]/div[2]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:09
+报表查询_输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:09
+报表查询_查询:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/td[1]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:09
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="bankCombo"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:10
+报表查询_机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen83"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:10
+报表查询_提示按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div[2]/div[2]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:10
+报文发送_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div[2]/div[2]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:10
+报文发送_任务名称:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[1]/div/div/div/div[1]/input"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:10
+报文发送_任务状态:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="taskStatus"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:10
+报文发送_报文代码:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="queryKey"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:10
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[6]/div/div/div/div[1]/div/input[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:10
+报文发送_日期输入:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[7]/div/div/div/div[1]/div/input"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:10
+报文发送_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen53"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:11
+报文下载_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div[2]/div[2]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:11
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/form/div/div[1]/div/div/div/div[1]/div/input[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:11
+报表发送_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/form/div/table/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:11
+报表报送_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div[2]/div[2]/div/div[1]/div[1]/div[1]/div/table/thead/tr/td[1]/div/div"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:11
+进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div[2]/div[2]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:11
+输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search_task_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:11
+输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search_task_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:12
+任务状态:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[4]/div/div/div/div[1]/input"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:12
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[6]/div/div/div/div[1]/div/input[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:12
+报表填表_输入时间:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1022"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:12
+报表填表_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/table/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:12
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:17
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:17
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:17
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:17
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:17
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:17
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:17
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:17
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:18
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:18
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:18
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:18
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:20
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:20
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen261" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:20
+报表填报__导入数据__关闭按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen398"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:21
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen174"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:21
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:21
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:21
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[3]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:21
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:21
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[4]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:21
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:21
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[5]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:21
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:22
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:22
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:22
+报表查询_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:22
+报表查询_输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:22
+报表查询_查询:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/td[1]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:22
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="bankCombo"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:23
+报表查询_机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen83"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:23
+报表查询_提示按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[15]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:29
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:29
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:29
+报表查询_输入框:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:29
+报表查询_查询:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/td[1]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:30
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="bankCombo"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:30
+报表查询_机构管理:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:30
+报表查询_提示按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[15]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:30
+报文发送_任务名称:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:30
+报文发送_任务状态:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:30
+报文发送_报文代码:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:30
+机构管理:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:30
+报文发送_日期输入:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:30
+报文发送_查询按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:31
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/form/div/div[1]/div/div/div/div[1]/div/input[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:31
+报表发送_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/form/div/table/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:31
+报表报送_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div[2]/div[2]/div/div[1]/div[1]/div[1]/div/table/thead/tr/td[1]/div/div"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:31
+进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[1]/div[1]/ul/li[1]/a[2]/em/span/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:31
+输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search_task_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:31
+输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search_task_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:31
+任务状态:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[4]/div/div/div/div[1]/input"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:31
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[6]/div/div/div/div[1]/div/input[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:32
+报表填表_输入时间:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1022"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:32
+报表填表_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/table/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:32
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:32
+报表查询_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[1]/div[1]/ul/li[2]/a[2]/em/span/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:32
+报表查询_输入框:'NoneType' object has no attribute 'send_keys'2019-12-05:17:32
+报表查询_查询:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:32
+机构管理:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:32
+报表查询_机构管理:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:32
+报表查询_提示按钮:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:41
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:41
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:41
+报表查询_输入框:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:41
+报表查询_查询:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/td[1]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:42
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="bankCombo"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:42
+报表查询_机构管理:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:42
+报表查询_提示按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[15]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:42
+报文发送_任务名称:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:42
+报文发送_任务状态:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:42
+报文发送_报文代码:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:42
+机构管理:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:42
+报文发送_日期输入:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:42
+报文发送_查询按钮:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:43
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/form/div/div[1]/div/div/div/div[1]/div/input[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:43
+报表发送_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[1]/div[2]/form/div/table/tbody/tr[2]/td[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:43
+报表报送_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div[2]/div[2]/div/div[1]/div[1]/div[1]/div/table/thead/tr/td[1]/div/div"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:43
+进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[1]/div[1]/ul/li[1]/a[2]/em/span/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:43
+输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search_task_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:43
+输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search_task_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:43
+任务状态:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[4]/div/div/div/div[1]/input"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:43
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[6]/div/div/div/div[1]/div/input[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:44
+报表填表_输入时间:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1022"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:44
+报表填表_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/table/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:44
+报表填表_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:44
+报表查询_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[1]/div[1]/ul/li[2]/a[2]/em/span/span"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:50
+填报管理_创建任务:Message: element click intercepted: Element <table id="ext-comp-1050" cellspacing="0" class="x-btn  x-btn-text-icon" style="width: auto;">...</table> is not clickable at point (119, 125). Other element would receive the click: <div class="ext-el-mask" id="ext-gen181" style="display: block; width: 1364px; height: 499px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:50
+报送管理_创建任务_频度获取列:empty range for randrange() (1, 1, 0)2019-12-05:17:50
+报送管理_创建任务_启动方式:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen292"]/div[2]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:50
+报送管理_创建任务_完成天数:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:50
+机构管理:Message: element click intercepted: Element <input type="text" size="24" autocomplete="off" id="execute_org_combo" class="x-form-text x-form-field x-trigger-noedit" readonly="" title="" style="width: 147px;"> is not clickable at point (562, 174). Other element would receive the click: <div class="x-combo-list-item x-combo-selected">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:50
+报送管理_创建任务_是否是临时任务:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen295"]/div[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-05:17:50
+报送管理_创建任务_任务描述:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
