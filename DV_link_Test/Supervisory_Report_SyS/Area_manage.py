@@ -79,7 +79,7 @@ class Custom_riosk:
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '查询按钮', '操作输出', 1, S_txt)
 
         try:
-            self.page.driver.find_element_by_xpath('//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span').click()
+            self.page.driver.find_element_by_xpath('//*[@id="ext-comp-1031"]/tbody/tr[2]/td[3]').click()
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '刷新按钮', '操作输出', 0, '功能正常')
 
         except Exception as e:
@@ -87,7 +87,7 @@ class Custom_riosk:
             S_txt = '报表填表_刷新按钮:' + str(e)
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '刷新按钮', '操作输出', 1, S_txt)
-
+        time.sleep(2)
         self.page.task_list(number1,number2)
         count += 1
 
@@ -103,7 +103,7 @@ class Custom_riosk:
         try:
             self.page.fist_iframe(2, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
             self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
-                                     '/html/body/div[1]/div[2]/div/div/div/div/iframe')
+                                     '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '操作输入', '进入iframe层', 0, '功能正常')
 
         except Exception as e:
@@ -178,7 +178,7 @@ class Custom_riosk:
         try:
             self.page.fist_iframe(3, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
             self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
-                                     '/html/body/div[1]/div[2]/div/div/div/div/iframe')
+                                     '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '操作输入', '进入iframe层', 0, '功能正常')
 
         except Exception as e:
@@ -265,7 +265,7 @@ class Custom_riosk:
         try:
             self.page.fist_iframe(4, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
             self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
-                                     '/html/body/div[1]/div[2]/div/div/div/div/iframe')
+                                     '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文下载', '操作输入', '进入iframe层', 0, '功能正常')
 
         except Exception as e:
