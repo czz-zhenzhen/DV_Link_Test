@@ -334,3 +334,24 @@
 2019-12-09:18:05
 报文发送_报文代码:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="task_name"]"}
   (Session info: chrome=78.0.3904.87)
+2019-12-09:21:06
+进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[1]/div[1]/ul/li[1]/a[2]/em/span/span"}
+  (Session info: chrome=77.0.3865.120)
+2019-12-09:21:06
+输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search_task_name"]"}
+  (Session info: chrome=77.0.3865.120)
+2019-12-09:21:06
+输入框:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="search_task_name"]"}
+  (Session info: chrome=77.0.3865.120)
+2019-12-09:21:06
+任务状态:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div/div/form/div/div[4]/div/div/div/div[1]/input"}
+  (Session info: chrome=77.0.3865.120)
+2019-12-09:21:06
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=77.0.3865.120)
+2019-12-09:21:06
+报表填表_输入时间:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1022"]"}
+  (Session info: chrome=77.0.3865.120)
+2019-12-09:21:18
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=77.0.3865.120)

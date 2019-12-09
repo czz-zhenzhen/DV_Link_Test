@@ -19,8 +19,8 @@ class Custom_riosk:
             RESOURCE_ID_name1 = 'SAFE%d2' % number2
 
         try:
-            self.page.fist_iframe(1, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
+            self.page.fist_iframe(1, '//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe')
+            self.page.sencond_iframe('//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div/div/div/iframe')
             count += 1
             self.page.write_error_mysql(count, RESOURCE_ID, '报表填表', '操作输入', '进入iframe层', 0, '功能正常')
@@ -99,8 +99,8 @@ class Custom_riosk:
             RESOURCE_ID_name1 = 'SAFE%d2' % number2
         count = 1
         try:
-            self.page.fist_iframe(2, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
+            self.page.fist_iframe(2, '//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe')
+            self.page.sencond_iframe('//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '操作输入', '进入iframe层', 0, '功能正常')
 
@@ -151,7 +151,7 @@ class Custom_riosk:
         try:
             self.page.return_page()
 
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
+            self.page.sencond_iframe('//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             time.sleep(2)
             self.page.driver.find_element_by_xpath('/html/body/div[15]/a').click()
@@ -262,8 +262,8 @@ class Custom_riosk:
             RESOURCE_ID_name1 = 'SAFE%d2' % number2
         count = 1
         try:
-            self.page.fist_iframe(4, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
+            self.page.fist_iframe(4, '//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe')
+            self.page.sencond_iframe('//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文下载', '操作输入', '进入iframe层', 0, '功能正常')
 
@@ -328,8 +328,8 @@ class Custom_riosk:
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, 'report', '点击按钮', '操作输入', '操作输出', 1, S_txt)
         try:
-            self.page.fist_iframe(1, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
+            self.page.fist_iframe(1, '//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe')
+            self.page.sencond_iframe('//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID, '点击按钮', '操作输入', '操作输出', 0, '功能正常')
 
