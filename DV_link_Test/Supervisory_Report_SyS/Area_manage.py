@@ -49,9 +49,7 @@ class Custom_riosk:
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '任务状态', '操作输出', 1, S_txt)
         try:
-            self.page.messsage_arg(
-                '/html/body/div[1]/div[2]/div/div/div/form/div/div[6]/div/div/div/div[1]/div/input[2]',
-                '/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
+            self.page.messsage_arg('/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
                 '/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/ul/li')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '填报机构', '操作输出', 0, '功能正常')
 
@@ -79,7 +77,7 @@ class Custom_riosk:
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '查询按钮', '操作输出', 1, S_txt)
 
         try:
-            self.page.driver.find_element_by_xpath('//*[@id="ext-gen138"]/div[1]/table/tbody/tr/td[2]/div/span').click()
+            self.page.driver.find_element_by_xpath('//*[@id="ext-comp-1031"]/tbody/tr[2]/td[3]').click()
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '刷新按钮', '操作输出', 0, '功能正常')
 
         except Exception as e:
@@ -87,7 +85,7 @@ class Custom_riosk:
             S_txt = '报表填表_刷新按钮:' + str(e)
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '刷新按钮', '操作输出', 1, S_txt)
-
+        time.sleep(2)
         self.page.task_list(number1,number2)
         count += 1
 
@@ -103,7 +101,7 @@ class Custom_riosk:
         try:
             self.page.fist_iframe(2, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
             self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
-                                     '/html/body/div[1]/div[2]/div/div/div/div/iframe')
+                                     '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '操作输入', '进入iframe层', 0, '功能正常')
 
         except Exception as e:
@@ -133,8 +131,7 @@ class Custom_riosk:
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '查询', '操作输出', 1, S_txt)
 
         try:
-            self.page.messsage_arg('//*[@id="bankCombo"]',
-                                   '/html/body/div[14]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
+            self.page.messsage_arg('/html/body/div[14]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
                                    '/html/body/div[14]/ul/li/div/div/div/ul/li/ul/li[2]/ul/li')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '机构管理', '操作输出', 0, '功能正常')
 
@@ -176,9 +173,9 @@ class Custom_riosk:
         count = 1
         self.page.return_page()
         try:
-            self.page.fist_iframe(3, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
-                                     '/html/body/div[1]/div[2]/div/div/div/div/iframe')
+            self.page.fist_iframe(3, '//*[@id="mainTab_CBRC1"]/div/iframe')
+            self.page.sencond_iframe('//*[@id="mainTab_CBRC1"]/div/iframe',
+                                     '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '操作输入', '进入iframe层', 0, '功能正常')
 
         except Exception as e:
@@ -186,8 +183,12 @@ class Custom_riosk:
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '操作输入', '进入iframe层', 1, S_txt)
 
+        # ls = self.page.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
+        # for y in ls:
+        #     if y.text == "任务名称:":
+        #         y.click()
         try:
-            self.page.task_name('/html/body/div[1]/div[2]/div/div/div/form/div/div[1]/div/div/div/div[1]/input', '1104')
+            self.page.task_name()
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '任务名称', '操作输出', 0, '功能正常')
 
         except Exception as e:
@@ -196,7 +197,7 @@ class Custom_riosk:
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '任务名称', '操作输出', 1, S_txt)
 
         try:
-            self.page.text_status('//*[@id="taskStatus"]', '/html/body/div[26]/div/div')
+            self.page.text_status('//*[@id="taskStatus"]', '/html/body/div[27]/div/div')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '任务状态', '操作输出', 0, '功能正常')
 
         except Exception as e:
@@ -205,7 +206,7 @@ class Custom_riosk:
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '任务状态', '操作输出', 1, S_txt)
 
         try:
-            self.page.task_name('//*[@id="queryKey"]', '123')
+            self.page.task_name('123')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '报文代码', '操作输出', 0, '功能正常')
 
         except Exception as e:
@@ -215,9 +216,7 @@ class Custom_riosk:
 
         # 报送机构
         try:
-            self.page.messsage_arg(
-                '/html/body/div[1]/div[2]/div/div/div/form/div/div[6]/div/div/div/div[1]/div/input[2]',
-                '/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
+            self.page.messsage_arg('/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
                 '/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/ul/li')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '机构管理', '操作输出', 0, '功能正常')
 
@@ -265,7 +264,7 @@ class Custom_riosk:
         try:
             self.page.fist_iframe(4, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
             self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
-                                     '/html/body/div[1]/div[2]/div/div/div/div/iframe')
+                                     '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文下载', '操作输入', '进入iframe层', 0, '功能正常')
 
         except Exception as e:
@@ -274,9 +273,7 @@ class Custom_riosk:
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文下载', '操作输入', '进入iframe层', 1, S_txt)
 
         try:
-            self.page.messsage_arg(
-                '/html/body/div[1]/div/div/div[1]/div[2]/form/div/div[1]/div/div/div/div[1]/div/input[2]',
-                '/html/body/div[9]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
+            self.page.messsage_arg('/html/body/div[9]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
                 '/html/body/div[9]/ul/li/div/div/div/ul/li/ul/li[2]/ul/li')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文下载', '机构管理', '操作输出', 0, '功能正常')
 
@@ -331,8 +328,8 @@ class Custom_riosk:
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, 'report', '点击按钮', '操作输入', '操作输出', 1, S_txt)
         try:
-            self.page.fist_iframe(1, '/html/body/div[2]/div/div[2]/div[2]/div/div/iframe')
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
+            self.page.fist_iframe(1, '/html/body/div[2]/div/div[2]/div/div/div/iframe')
+            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID, '点击按钮', '操作输入', '操作输出', 0, '功能正常')
 
@@ -362,10 +359,7 @@ class Custom_riosk:
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '机构管理', 1, S_txt)
         try:
-            self.page.messsage_arg(
-                '/html/body/div[1]/div/div/div[2]/div/div/div[1]/div[2]/div/div[1]/div/form/'
-                'div/div/div/div/div[1]/div/div/div/div[1]/div/input[2]',
-                '/html/body/div[14]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
+            self.page.messsage_arg('/html/body/div[14]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
                 '/html/body/div[14]/ul/li/div/div/div/ul/li/ul/li[2]/ul/li')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '机构管理', 0, '功能正常')
 
@@ -387,8 +381,9 @@ class Custom_riosk:
 
         self.page.return_page()
         try:
-            self.page.sencond_iframe('/html/body/div[2]/div/div[2]/div[2]/div/div/iframe',
-                                     '/html/body/div[1]/div[2]/div/div/div/div/iframe')
+            self.page.driver.find_element_by_xpath('//*[@id="mainTab_report11"]/div/iframe')
+            self.page.driver.find_element_by_xpath('//*[@id="ext-gen24"]/iframe')
+            self.page.driver.find_element_by_xpath('//*[@id="dynamicRpeortIframe"]')
             self.page.driver.find_element_by_xpath('/html/body/div[15]/a').click()
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '返回', '确认按钮', 0, '功能正常')
 

@@ -80,18 +80,16 @@ class TestSystem():
         time.sleep(1)
         self.driver.find_element_by_xpath(elem).click()
 
-    def task_name(self, elem1, elem2):
+    def task_name(self):
         """
         任务名称
         :param elem1: 节点
         :param elem2: 内容
         :return:
         """
-        elems1 = str(elem1)
-        elems2 = str(elem2)
-        self.driver.find_element_by_xpath(elems1).send_keys(elems2)
+        self.driver.find_element_by_name('task_name').send_keys("1104")
 
-    def messsage_arg(self, elem1, elem2, elem3):
+    def messsage_arg(self, elem2, elem3):
         """
          # 填报机构
         :param elem1: 获取点击元素
@@ -100,13 +98,15 @@ class TestSystem():
         :return:
         """
         try:
-            elems1 = str(elem1)
             elems2 = str(elem2)
             elems3 = str(elem3)
-            self.driver.find_element_by_xpath(elems1).click()
-            time.sleep(3)
+            ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
+            for y in ls:
+                if y.text == "填报机构:":
+                    y.click()
+            time.sleep(1)
             self.driver.find_element_by_xpath(elems2).click()  # 点击图片
-            time.sleep(3)
+            time.sleep(2)
             list01 = self.driver.find_elements_by_xpath(elems3)
             num01 = random.randint(1, len(list01))
             time.sleep(2)
@@ -177,6 +177,25 @@ class TestSystem():
         self.driver.find_element_by_name('task_name').send_keys('1222')
         time.sleep(2)
         self.task_list(number1, number2)
+    def test(self):
+        self.first_supervise(1, 2, 1)
+        self.fist_iframe(3, '//*[@id="mainTab_CBRC1"]/div/iframe')
+        self.sencond_iframe('//*[@id="mainTab_CBRC1"]/div/iframe',
+                            '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
+
+        # self.driver.find_element_by_xpath('//*[@id="search_task_name"]').send_keys('123')
+        self.driver.find_element_by_name('task_name').send_keys('1222')
+        ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
+        for y in ls:
+            if y.text == "报送机构:":
+                y.click()
+        # first = ls[0]
+        # first.send_keys('121')
+        # print('ok')
+
+
+
+
 
     def report_detail(self, number1, number2):
         count = 1
@@ -525,8 +544,7 @@ class TestSystem():
             self.driver.find_element_by_xpath('//*[@id="ext-comp-1084"]').send_keys(self.get_time())
             time.sleep(1)
             self.driver.find_element_by_xpath('//*[@id="ext-comp-1087"]').send_keys(random.randint(1, 5))
-            self.messsage_arg('//*[@id="execute_org_combo"]',
-                              '/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
+            self.messsage_arg('/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
                               '/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/ul/li')
             time.sleep(1)
             self.driver.find_element_by_xpath('//*[@id="ext-comp-1085"]').send_keys(self.get_time())
@@ -546,9 +564,10 @@ class TestSystem():
             self.write_error_excel(S_txt)
 
     def main(self):
-        self.open_page()
+        # self.open_page()
         self.test_first(2, 1)
         # self.test_second_message()
+        # self.test()
         # self.read_mysql('2019-11-28', '2019-11-29','123')
 
 
