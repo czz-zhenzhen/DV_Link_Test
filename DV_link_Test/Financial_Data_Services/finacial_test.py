@@ -144,8 +144,8 @@ class Finacial_Data:
         return len(list01)
 
     def write_message(self):
-        self.openpage.fist_iframe(1, '//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe')
-        self.openpage.sencond_iframe('//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe',
+        self.openpage.fist_iframe(1, '//*[@class="panel panel-htop"]/div/div/iframe')
+        self.openpage.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div/div/div/iframe')
         self.openpage.driver.find_element_by_xpath(
             '/html/body/div[1]/div/div/div/div[2]/form/div/div[1]/div/div/div/div[1]/input').send_keys('123')
