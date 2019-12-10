@@ -19,9 +19,9 @@ class TestSystem():
         self.driver.maximize_window()
         self.db = pymysql.connect('101.201.73.80', 'dvlink', 'Lrdata_2019', db='dvlink')
         self.cursor = self.db.cursor()
-        # self.driver.get("http://192.168.0.98:8080/dvlink/")
+        self.driver.get("http://192.168.0.98:8080/dvlink/")
         # 云环境
-        self.driver.get("http://cloud.shuhaosoft.com/dvlink/")
+        # self.driver.get("http://cloud.shuhaosoft.com/dvlink/")
         self.smtp = 'smtp.qq.com'
         self.mail_user = "823178484@qq.com"
         self.mail_pass = "zfhaqkkzpnqhbbbd"
@@ -169,8 +169,8 @@ class TestSystem():
 
     def test_first(self, number1, number2):
         self.first_supervise(1, number1, number2)
-        self.fist_iframe(1, '//*[@id="mainTab_CBRC1"]/div/iframe')
-        self.sencond_iframe('//*[@id="mainTab_CBRC1"]/div/iframe',
+        self.fist_iframe(1, '//*[@class="panel panel-htop"]/div/div/iframe')
+        self.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
                             '/html/body/div[1]/div[2]/div/div/div/div/iframe')
 
         # self.driver.find_element_by_xpath('//*[@id="search_task_name"]').send_keys('123')
@@ -178,19 +178,19 @@ class TestSystem():
         time.sleep(2)
         self.task_list(number1, number2)
     def test(self):
-        self.first_supervise(1, 2, 1)
-        self.fist_iframe(3, '//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe')
-        self.sencond_iframe('//*[@id="mainTab_CBRC1"]/div/iframe',
+        self.first_supervise(1, 2, 3)
+        self.fist_iframe(3, '//*[@class="panel panel-htop"]/div/div/iframe')
+        self.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
                             '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
-        self.driver.find_element_by_name('task_name').send_keys('1222')
-        # self.driver.find_element_by_xpath('//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe')
+        self.task_name()
         ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
         for y in ls:
             if y.text == "报送机构:":
                 y.click()
-
-
-
+        ul = self.driver.find_elements_by_class_name('x-tree-node-indent')
+        print(ul)
+        for i in ul:
+            print(i.text)
 
     def report_detail(self, number1, number2):
         count = 1
@@ -209,7 +209,7 @@ class TestSystem():
         time.sleep(1)
         self.return_page()
         try:
-            self.driver.switch_to.frame(self.driver.find_element_by_xpath('//*[@id="mainTab_CBRC1"]/div/iframe'))
+            self.driver.switch_to.frame(self.driver.find_element_by_xpath('//*[@class="panel panel-htop"]/div/div/iframe'))
             self.driver.switch_to.frame(
                 self.driver.find_element_by_xpath('/html/body/div[1]/div[2]/div/div/div/div/iframe'))
             self.driver.switch_to.frame(self.driver.find_element_by_id('showDataI'))
@@ -218,8 +218,8 @@ class TestSystem():
             print('没有按钮' + str(e))
         self.return_page()
         try:
-            self.fist_iframe(1, '//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe')
-            self.sencond_iframe('//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe',
+            self.fist_iframe(1, '//*[@class="panel panel-htop"]/div/div/iframe')
+            self.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
                                 '/html/body/div[1]/div[2]/div/div/div/div/iframe')
             self.driver.find_element_by_xpath(
                 '/html/body/div[23]/div[2]/div[1]/div/div/div[1]/div/table/tbody/tr/td[2]/table/tbody/tr/td[1]/'
@@ -363,7 +363,7 @@ class TestSystem():
 
                 if len(details_num) < 0:
                     try:
-                        self.sencond_iframe('//*[@id="mainTab_CBRC1"]/div/iframe', '//*[@id="ext-gen30"]/iframe')
+                        self.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe', '//*[@id="ext-gen30"]/iframe')
                         self.driver.find_element_by_xpath('//*[@id="ext-gen5"]/div[29]/div[3]/button').click()
                     except Exception as e:
                         print(e)
@@ -386,8 +386,8 @@ class TestSystem():
 
     def test_second_message(self):
         self.return_page()
-        self.fist_iframe(2, '//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe')
-        self.sencond_iframe('//*[@id="mainPanle"]/div/div[2]/div[2]/div/div/iframe',
+        self.fist_iframe(2, '//*[@class="panel panel-htop"]/div/div/iframe')
+        self.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
                             '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
         self.driver.find_element_by_xpath(
             '/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/td[1]'
@@ -404,7 +404,7 @@ class TestSystem():
     def write_error_excel(self, text):
         time_str2 = time.strftime('%Y-%m-%d:%H:%M', time.localtime())
         time_str = time.strftime('%Y-%m-%d', time.localtime())
-        path = '/DV_link_Test/DV_link_Test/record_test/ecord_form_' + time_str + '.txt'
+        path = '/DV_link/DV_link_Test/record_test/ecord_form_' + time_str + '.txt'
         with open(path, 'a', encoding='utf-8')as f:
             f.write(str(time_str2) + '\n')
             f.write(text)
