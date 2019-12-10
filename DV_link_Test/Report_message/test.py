@@ -1,3 +1,68 @@
+from DV_link_Test.main import *
+import random
+class Test:
+    def __init__(self):
+        self.open = TestSystem()
+
+    def test(self):
+        self.open.first_supervise(1, 2, 1)
+        self.open.fist_iframe(1, '//*[@class="panel panel-htop"]/div/div/iframe')
+        self.open.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
+                            '/html/body/div[1]/div[2]/div/div[1]/div/div/iframe')
+        self.open.task_name()
+        ls = self.open.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
+        for y in ls:
+            if y.text == "任务状态:":
+                y.click()
+        lis = self.open.driver.find_elements_by_xpath('//div[@class="x-combo-list-inner"]/div')
+        for x in lis:
+            if x.text=="报表代码:":
+                x.click()
+        for o in ls:
+            if o.text in ["填报机构:","机构:" ,"报送机构:"]:
+                o.click()
+        time.sleep(2)
+        # city_name = self.open.driver.find_elements_by_xpath('//div[@class="x-tree-node-el x-unselectable x-tree-node-collapsed"]//span/img')
+        self.open.driver.find_element_by_xpath('//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]').click()
+        time.sleep(2)
+        city_name = self.open.driver.find_elements_by_xpath('//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/ul//li/div/a/span')
+        list_name = []
+        for a in city_name:
+            names = a.text
+            list_name.append(names)
+        time.sleep(1)
+        for c in city_name:
+            length_num = random.randint(1, len(list_name))
+            on_link = list_name[length_num]
+            if c.text==on_link:
+                c.click()
+        print(list_name)
+    def main_test(self):
+        self.open.open_page()
+        self.test()
+
+if __name__ == "__main__":
+    test = Test()
+    test.main_test()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 import xlwt
 # import xlrd
@@ -7,13 +72,13 @@ from email.header import Header
 from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 #
-import pymysql
-import time
-today_time = time.strftime('%Y-%m-%d', time.localtime(time.time()))
-db = pymysql.connect('101.201.73.80', 'dvlink', 'Lrdata_2019', db='dvlink')
-cursor = db.cursor()
-# sql_date  = "SELECT B.PARENT_RESOURCE_ID,B.PARENT_RESOURCE_NAME,COUNT(A.LOG_ID) AS ZS,COUNT(CASE WHEN A.OP_STATUS = 0 THEN A.LOG_ID END) AS CG,COUNT(CASE WHEN A.OP_STATUS = 1 THEN A.LOG_ID END) AS SB,COUNT(CASE WHEN A.OP_STATUS = 2 THEN A.LOG_ID END) AS CS FROM ATT_LOG A INNER JOIN mmc_sys_resource_info_relation B ON A.RESOURCE_ID = B.RESOURCE_ID WHERE B.PARENT_RESOURCE_ID IN('analyse','platform','report','super') AND STR_TO_DATE('{}','%Y-%m-%d') BETWEEN DATE(A.START_DATE) AND DATE(A.END_DATE) AND SEQ_ID = 1 GROUP BY B.PARENT_RESOURCE_ID".format(today_time)
-sql_date = """select * from ATT_LOG WHERE START_DATE BETWEEN '%s' AND '%s' """ % ('2019-12-3', '2019-12-4')
+# import pymysql
+# import time
+# today_time = time.strftime('%Y-%m-%d', time.localtime(time.time()))
+# db = pymysql.connect('101.201.73.80', 'dvlink', 'Lrdata_2019', db='dvlink')
+# cursor = db.cursor()
+# # sql_date  = "SELECT B.PARENT_RESOURCE_ID,B.PARENT_RESOURCE_NAME,COUNT(A.LOG_ID) AS ZS,COUNT(CASE WHEN A.OP_STATUS = 0 THEN A.LOG_ID END) AS CG,COUNT(CASE WHEN A.OP_STATUS = 1 THEN A.LOG_ID END) AS SB,COUNT(CASE WHEN A.OP_STATUS = 2 THEN A.LOG_ID END) AS CS FROM ATT_LOG A INNER JOIN mmc_sys_resource_info_relation B ON A.RESOURCE_ID = B.RESOURCE_ID WHERE B.PARENT_RESOURCE_ID IN('analyse','platform','report','super') AND STR_TO_DATE('{}','%Y-%m-%d') BETWEEN DATE(A.START_DATE) AND DATE(A.END_DATE) AND SEQ_ID = 1 GROUP BY B.PARENT_RESOURCE_ID".format(today_time)
+# sql_date = """select * from ATT_LOG WHERE START_DATE BETWEEN '%s' AND '%s' """ % ('2019-12-3', '2019-12-4')
 # cursor.execute(sql_date)
 # ls = cursor.fetchall()
 # for x in ls:
@@ -24,23 +89,23 @@ sql_date = """select * from ATT_LOG WHERE START_DATE BETWEEN '%s' AND '%s' """ %
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
-with open('/DV_link/DV_link_Test/excel_test21.xls','w')as f :
-    workbook = xlwt.Workbook(encoding='utf-8')
-    worksheet = workbook.add_sheet('汇总')
-    worksheet02 = workbook.add_sheet('详细情况')
-    worksheet.write(0,1,label='剧烈')
-    worksheet.write(1,1,label='剧烈')
-    worksheet.write(2,1,label='剧烈')
-    workbook.save('excel_test21.xls')
-import smtplib
-from email.mime.text import MIMEText
-from email.header import Header
-import os
-import datetime
-now = datetime.datetime.now()
-date = now + datetime.timedelta(days = -1)
-endow = date.strftime('%Y-%m-%d')
-print(endow)
+# with open('/DV_link/DV_link_Test/excel_test21.xls','w')as f :
+#     workbook = xlwt.Workbook(encoding='utf-8')
+#     worksheet = workbook.add_sheet('汇总')
+#     worksheet02 = workbook.add_sheet('详细情况')
+#     worksheet.write(0,1,label='剧烈')
+#     worksheet.write(1,1,label='剧烈')
+#     worksheet.write(2,1,label='剧烈')
+#     workbook.save('excel_test21.xls')
+# import smtplib
+# from email.mime.text import MIMEText
+# from email.header import Header
+# import os
+# import datetime
+# now = datetime.datetime.now()
+# date = now + datetime.timedelta(days = -1)
+# endow = date.strftime('%Y-%m-%d')
+# print(endow)
 """
 smtpserver = 'smtp.qq.com'
 mail_user = "823178484@qq.com"
@@ -79,3 +144,25 @@ smtp.quit()
 #     list_name = os.listdir(filename)
 #     last_filename = list_name[-1]
 #     return last_filename
+import pymysql
+# import time
+# t1 = time.time()
+# time_str2 = time.strftime('%Y-%m-%d:%H:%M', time.localtime())
+# time_str = time.strftime('%Y-%m-%d', time.localtime())
+# path = '/DV_link/DV_link_Test/record_form_'+time_str+'.txt'
+# with open(path, 'a', encoding='utf-8')as f:
+#     f.write(str(time_str2)+'\n')
+# time.sleep(3)
+# t2 = time.time()
+#
+# print(t2-t1)
+
+# db = pymysql.connect('101.201.73.80','dvlink','Lrdata_2019',db='dvlink')
+# cursor = db.cursor()
+# sql = """insert into ATT_LOG(SEQ_ID,RESOURCE_ID,OP_NAME,OP_INPUT,OP_OUTPUT,START_DATE,END_DATE,OP_STATUS,OP_DESC) values (2,'2','操作步骤','操作输入','操作输出',sysdate(),sysdate(),1,'描述')"""
+# cursor.execute(sql)
+# db.commit()
+# db.close()
+
+# ls = [1,2,3]
+# print(ls[-1])

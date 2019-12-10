@@ -7,8 +7,6 @@ import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
 from email.mime.multipart import MIMEMultipart
-import os
-
 
 class TestSystem():
     def __init__(self):
@@ -59,16 +57,16 @@ class TestSystem():
         time.sleep(1)
         self.driver.find_element_by_xpath(ele_text).click()
 
-    def text_status(self, elem1, elem2):
-        # 点击显示列表
-        elems1 = str(elem1)
-        elems2 = str(elem2)
-        self.driver.find_element_by_xpath(elems1).click()
-        time.sleep(1)
-        lists = self.driver.find_elements_by_xpath(elems2)
-        num = random.randint(1, len(lists))
-        time.sleep(1)
-        self.driver.find_element_by_xpath(elems2 + '[%s]' % str(num)).click()
+    def text_status(self):
+        ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
+        for y in ls:
+            if y.text == "任务状态:":
+                y.click()
+        lis = self.driver.find_elements_by_xpath('//div[@class="x-combo-list-inner"]/div')
+        for x in lis:
+            print(x.text)
+            if x.text == "完成":
+                x.click()
 
     def check_button(self, elem):
         self.driver.find_element_by_xpath(str(elem)).click()
@@ -83,9 +81,6 @@ class TestSystem():
     def task_name(self):
         """
         任务名称
-        :param elem1: 节点
-        :param elem2: 内容
-        :return:
         """
         self.driver.find_element_by_name('task_name').send_keys("1104")
 
@@ -102,7 +97,7 @@ class TestSystem():
             elems3 = str(elem3)
             ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
             for y in ls:
-                if y.text == "填报机构:":
+                if y.text in ["填报机构:","机构:" ,"报送机构:"]:
                     y.click()
             time.sleep(1)
             self.driver.find_element_by_xpath(elems2).click()  # 点击图片
@@ -115,7 +110,27 @@ class TestSystem():
         except Exception as e:
             S_txt = '机构管理:' + str(e)
             self.write_error_excel(S_txt)
-
+    def get_city_name(self):
+        ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
+        for o in ls:
+            if o.text in ["填报机构:", "机构:", "报送机构:"]:
+                o.click()
+        time.sleep(2)
+        self.driver.find_element_by_xpath(
+            '//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]').click()
+        time.sleep(2)
+        city_name = self.driver.find_elements_by_xpath(
+            '//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/ul//li/div/a/span')
+        list_name = []
+        for a in city_name:
+            names = a.text
+            list_name.append(names)
+        time.sleep(1)
+        for c in city_name:
+            length_num = random.randint(1, len(list_name))
+            on_link = list_name[length_num]
+            if c.text == on_link:
+                c.click()
     def save_butom(self, elem):
         elems = str(elem)
         time.sleep(1)
@@ -177,20 +192,6 @@ class TestSystem():
         self.driver.find_element_by_name('task_name').send_keys('1222')
         time.sleep(2)
         self.task_list(number1, number2)
-    def test(self):
-        self.first_supervise(1, 2, 3)
-        self.fist_iframe(3, '//*[@class="panel panel-htop"]/div/div/iframe')
-        self.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
-                            '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
-        self.task_name()
-        ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
-        for y in ls:
-            if y.text == "报送机构:":
-                y.click()
-        ul = self.driver.find_elements_by_class_name('x-tree-node-indent')
-        print(ul)
-        for i in ul:
-            print(i.text)
 
     def report_detail(self, number1, number2):
         count = 1
@@ -535,7 +536,7 @@ class TestSystem():
                 'div/div/div[1]/div/div/div[1]/div[1]/input').send_keys(
                 'test')
             time.sleep(1)
-            self.text_status('//*[@id="frequency_code1"]', '/html/body/div[26]/div/div')
+            self.text_status()
             self.driver.find_element_by_xpath('//*[@id="ext-comp-1084"]').send_keys(self.get_time())
             time.sleep(1)
             self.driver.find_element_by_xpath('//*[@id="ext-comp-1087"]').send_keys(random.randint(1, 5))
@@ -562,7 +563,6 @@ class TestSystem():
         self.open_page()
         # self.test_first(2, 1)
         # self.test_second_message()
-        self.test()
         # self.read_mysql('2019-11-28', '2019-11-29','123')
 
 

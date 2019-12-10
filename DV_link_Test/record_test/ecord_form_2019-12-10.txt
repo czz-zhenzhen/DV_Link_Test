@@ -840,3 +840,112 @@
 报文发送_任务状态:empty range for randrange() (1, 1, 0)2019-12-10:14:49
 机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
   (Session info: chrome=78.0.3904.87)
+2019-12-10:15:24
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[14]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:24
+报表查询_提示按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:24
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:24
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:24
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:24
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:24
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:24
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:25
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:25
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:25
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:25
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:25
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:25
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:25
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:25
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:25
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:25
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:15:26
+机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[9]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:02
+填报机构:list index out of range2019-12-10:17:07
+报表查询_机构管理:list index out of range2019-12-10:17:11
+填报机构:list index out of range2019-12-10:17:12
+报表查询_机构管理:list index out of range2019-12-10:17:12
+报表查询_提示按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:12
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:12
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:12
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:12
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-10:17:13
+任务列表__判断任务明细:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[1]/table/tbody/tr/td[4]/div/a"}
+  (Session info: chrome=78.0.3904.87)
