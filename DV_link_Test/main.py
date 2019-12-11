@@ -77,12 +77,65 @@ class TestSystem():
     def check_box(self, elem):
         time.sleep(1)
         self.driver.find_element_by_xpath(elem).click()
-
+    def close_buttons(self):
+        time.sleep(1)
+        self.driver.find_element_by_xpath('//*[@class="c-message "]/div/button').click()
+        time.sleep(1)
     def task_name(self):
         """
         任务名称
         """
         self.driver.find_element_by_name('task_name').send_keys("1104")
+    def report_check_button(self, count, RESOURCE_ID_name1, report_name):
+
+        try:
+            self.driver.find_element_by_name('search').send_keys('存折信息')
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '输入框', '返回按钮', 0, '功能正常')
+        except Exception as e:
+            S_txt = '{}__输入框:'.format(report_name) + str(e)
+            self.write_error_excel(S_txt)
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '输入框', '返回按钮', 1, S_txt)
+    def report_check(self,count, RESOURCE_ID_name1, report_name):
+        try:
+            self.driver.find_element_by_xpath(
+                '//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button').click()
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '点击', '查询按钮', 0, '功能正常')
+        except Exception as e:
+            S_txt = '{}__关闭:'.format(report_name) + str(e)
+            self.write_error_excel(S_txt)
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '点击', '查询按钮', 1, S_txt)
+
+    def report_messages(self,count, RESOURCE_ID_name1, report_name):
+        try:
+            self.get_city_name()
+            self.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '机构管理', 0, '功能正常')
+        except Exception as e:
+            S_txt = '{}__机构管理:'.format(report_name) + str(e)
+            if str(e) == "list index out of range":
+                self.write_error_excel(S_txt)
+                self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '点击', '机构管理', 0, '功能正常')
+            else:
+                self.write_error_excel(S_txt)
+                self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '点击', '机构管理', 1, S_txt)
+
+    def report_onlink_button(self,count, RESOURCE_ID_name1, report_name):
+        try:
+            self.check_button('//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button')
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '点击', '查询按钮', 0, '功能正常')
+        except Exception as e:
+            S_txt = '{}__查询按钮:'.format(report_name) + str(e)
+            self.write_error_excel(S_txt)
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '返回', '查询按钮', 1, S_txt)
+    def report_return_onlink(self,count, RESOURCE_ID_name1, report_name):
+        ls12 = self.driver.find_elements_by_xpath('//*[@class="x-grid3-scroller"]//div')
+        if len(ls12) < 0:
+            try:
+                self.return_page()
+            except Exception as e:
+                S_txt = '{}__查询按钮:'.format(report_name) + str(e)
+                self.write_error_excel(S_txt)
+                self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '返回', '查询按钮', 1, S_txt)
+
     def get_city_name(self):
         ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
         for o in ls:
@@ -234,8 +287,6 @@ class TestSystem():
             self.write_error_excel(S_txt)
             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '关闭按钮', '操作输出', 1, S_txt)
         ls = self.driver.find_elements_by_xpath('//*[@id="dataWin"]//button')
-        for o in ls:
-            print(o.text)
         for x in ls:
             if x.text == "计算公式":
                 try:
@@ -262,7 +313,6 @@ class TestSystem():
                     time.sleep(1)
                     ls1 = self.driver.find_elements_by_xpath('//*[@class=" x-window x-window-plain x-window-dlg"]//button')
                     for y in ls1:
-                        print(y.text)
                         time.sleep(1)
                         if y == ls1[1]:
                             try:
@@ -361,28 +411,17 @@ class TestSystem():
                                     self.report_detail(number1,number2)
                             except Exception as e:
                                 print(e)
+                        else:
+                            try:
+                                self.driver.find_element_by_xpath('//*[@class="c-message "]/div/button').click()
+                            except Exception as e:
+                                S_txt = '监管报送系统__获取列表:' + str(e)
+                                self.write_error_excel(S_txt)
         except Exception as e:
             S_txt = '监管报送系统__获取列表:' + str(e)
             self.write_error_excel(S_txt)
             self.write_error_mysql(count, RESOURCE_ID_name1, '监管报送系', '获取列表', '查询按钮', 1, S_txt)
 
-
-    def test_second_message(self):
-        self.return_page()
-        self.fist_iframe(2, '//*[@class="panel panel-htop"]/div/div/iframe')
-        self.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
-                            '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
-        self.driver.find_element_by_xpath(
-            '/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/td[1]'
-            '/table/tbody/tr/td[1]/input').send_keys(
-            '存折信息')
-        try:
-            self.driver.find_element_by_xpath('/html/body/div[15]/a').click()
-        except Exception as e:
-            print(e)
-        time.sleep(2)
-        list02 = self.driver.find_elements_by_xpath(
-            '/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[2]/div/div[1]/div[2]/div')
 
     def write_error_excel(self, text):
         time_str2 = time.strftime('%Y-%m-%d:%H:%M', time.localtime())
@@ -543,7 +582,6 @@ class TestSystem():
     def main(self):
         self.open_page()
         # self.test_first(2, 1)
-        # self.test_second_message()
         # self.read_mysql('2019-11-28', '2019-11-29','123')
 
 

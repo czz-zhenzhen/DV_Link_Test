@@ -1,6 +1,7 @@
 from DV_link_Test.main import *
 import datetime
 
+
 class Custom_riosk:
     def __init__(self):
         self.page = TestSystem()
@@ -92,7 +93,7 @@ class Custom_riosk:
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '刷新按钮', '操作输出', 1, S_txt)
         time.sleep(2)
-        self.page.task_list(number1,number2)
+        self.page.task_list(number1, number2)
         count += 1
 
     def second_message(self, number1, number2):
@@ -104,62 +105,27 @@ class Custom_riosk:
         else:
             RESOURCE_ID_name1 = 'SAFE%d2' % number2
         count = 1
+        report_name = "报表查询"
         try:
             self.page.fist_iframe(2, '//*[@class="panel panel-htop"]/div/div/iframe')
             self.page.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
                                      '/html/body/div[1]/div[2]/div/div[2]/div/div/iframe')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '操作输入', '进入iframe层', 0, '功能正常')
-
         except Exception as e:
             S_txt = '报表查询_进入iframe层:' + str(e)
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '操作输入', '进入iframe层', 1, S_txt)
-
-
-        try:
-            self.page.driver.find_element_by_xpath('//*[@id="search"]').send_keys('存折信息')
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '输入框', '操作输出', 0, '功能正常')
-        except Exception as e:
-            S_txt = '报表查询_输入框:' + str(e)
-            self.page.write_error_excel(S_txt)
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '输入框', '操作输出', 1, S_txt)
-        try:
-            self.page.get_city_name()
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '机构管理', '操作输出', 0, '功能正常')
-
-        except Exception as e:
-            S_txt = '报表查询_机构管理:' + str(e)
-            self.page.write_error_excel(S_txt)
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '机构管理', '操作输出', 1, S_txt)
-
-        # 查询
-        try:
-            self.page.driver.find_element_by_xpath('//*[@id="ext-gen83"]').click()
-        except Exception as e:
-            S_txt = '报表查询_机构管理:' + str(e)
-            self.page.write_error_excel(S_txt)
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '机构管理', '操作输出', 1, S_txt)
-        try:
-            self.page.on_link(
-                '/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/td[1]/table/'
-                'tbody/tr/td[2]/table/tbody/tr[2]/td[2]/em/button')
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '查询', '操作输出', 0, '功能正常')
-
-
-        except Exception as e:
-            S_txt = '报表查询_查询:' + str(e)
-            self.page.write_error_excel(S_txt)
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表查询', '查询', '操作输出', 1, S_txt)
-        time.sleep(2)
-        try:
-            self.page.return_page()
-            self.page.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
-                                     '/html/body/div[1]/div[2]/div/div[3]/div/div/iframe')
-            self.page.driver.find_element_by_class_name('c-message--close c-message-close-btn').click()
-        except Exception as e:
-            S_txt = '报表查询_提示按钮:' + str(e)
-            self.page.write_error_excel(S_txt)
-
+        # 输入字符串
+        self.page.report_check_button(count, RESOURCE_ID_name1, report_name)
+        # 点击查询按钮
+        self.page.report_check(count, RESOURCE_ID_name1, report_name)
+        # 机构管理
+        self.page.report_messages(count, RESOURCE_ID_name1, report_name)
+        self.page.report_onlink_button(count, RESOURCE_ID_name1, report_name)
+        self.page.close_buttons()
+        # 返回确认
+        self.page.report_return_onlink(count, RESOURCE_ID_name1, report_name)
+        count += 1
 
     def three_message(self, number1, number2):
         self.page.return_page()
@@ -235,7 +201,7 @@ class Custom_riosk:
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文报送', '查询按钮', '操作输出', 1, S_txt)
 
         try:
-            self.page.task_list(number1,number2)
+            self.page.task_list(number1, number2)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文报送', '任务列表', '操作输出', 0, '功能正常')
 
         except Exception as e:
@@ -309,8 +275,15 @@ class Custom_riosk:
     def start_test(self, number1, number):
         self.page.chioce_manage(2)
         count = 1
-        RESOURCE_ID = 'report%d' % number1
-        RESOURCE_ID_name1 = 'report1%d1' % number
+        report_name = '敏捷报表平台'
+        if number1 <= 9:
+            RESOURCE_ID = 'report%d' % number1
+            RESOURCE_ID_name1 = 'report1%d1' % number
+        else:
+            counts = 1
+            RESOURCE_ID = 'report2' % number1
+            RESOURCE_ID_name1 = 'report2%d1' % counts
+            counts+=1
         try:
             self.chioce_report(number)
         except Exception as e:
@@ -327,66 +300,24 @@ class Custom_riosk:
             S_txt = '敏捷报表平台__进入iframe层:' + str(e)
             self.page.write_error_excel(S_txt)
             self.page.write_error_mysql(count, RESOURCE_ID, '敏捷报表平台', '进入iframe层', '操作输出', 1, S_txt)
-
-        try:
-            self.page.driver.find_element_by_xpath(
-                '/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]'
-                '/div/table/tbody/tr/td[1]/table/tbody/tr/td[1]/input').send_keys(
-                '123')
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '返回按钮', 0, '功能正常')
-        except Exception as e:
-            S_txt = '敏捷报表平台__输入框:' + str(e)
-            self.page.write_error_excel(S_txt)
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '返回按钮', 1, S_txt)
-
-        try:
-            self.page.check_button(
-                '/html/body/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/table/tbody/tr/'
-                'td[1]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/em/button')
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '机构管理', 0, '功能正常')
-        except Exception as e:
-            S_txt = '敏捷报表平台__关闭:' + str(e)
-            self.page.write_error_excel(S_txt)
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '机构管理', 1, S_txt)
-        try:
-            self.page.get_city_name()
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '机构管理', 0, '功能正常')
-
-        except Exception as e:
-            S_txt = '敏捷报表平台__机构管理:' + str(e)
-            self.page.write_error_excel(S_txt)
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '机构管理', 1, S_txt)
-
-        try:
-            self.page.check_button(
-                '/html/body/div[1]/div/div/div[2]/div/div/div[1]/div[2]/div/div[1]'
-                '/div/form/div/div/div/div/table[1]/tbody/tr[2]/td[2]/em/button')
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '机构管理', 0, '功能正常')
-
-        except Exception as e:
-            S_txt = '敏捷报表平台__查询按钮:' + str(e)
-            self.page.write_error_excel(S_txt)
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '返回', '查询按钮', 1, S_txt)
-
-        self.page.return_page()
-        try:
-            self.page.driver.find_element_by_xpath('//*[@id="mainTab_report11"]/div/iframe')
-            self.page.driver.find_element_by_xpath('//*[@id="ext-gen24"]/iframe')
-            self.page.driver.find_element_by_xpath('//*[@id="dynamicRpeortIframe"]')
-            self.page.driver.find_element_by_xpath('/html/body/div[15]/a').click()
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '返回', '确认按钮', 0, '功能正常')
-
-        except Exception as e:
-            S_txt = '敏捷报表平台__返回确认按钮:' + str(e)
-            self.page.write_error_excel(S_txt)
-            self.page.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '返回', '确认按钮', 1, S_txt)
+        # 输入字符串
+        self.page.report_check_button(count, RESOURCE_ID_name1, report_name)
+        # 点击查询按钮
+        self.page.report_check(count, RESOURCE_ID_name1, report_name)
+        # 机构管理
+        self.page.report_messages(count, RESOURCE_ID_name1, report_name)
+        # 点击查询
+        self.page.report_onlink_button(count, RESOURCE_ID_name1, report_name)
+        self.page.close_buttons()
+        # 返回确认
+        self.page.report_return_onlink(count, RESOURCE_ID_name1, report_name)
         count += 1
 
     def main_report(self):
         # self.test_report()
         time.sleep(2)
         self.page.return_page()
-        lens = self.page.driver.find_elements_by_xpath('/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a')
+        lens = self.page.driver.find_elements_by_xpath('//*[@class="menu_top"]//div[@class="list"]/a')
         for x in range(1, len(lens) + 1):
             self.page.driver.refresh()
             self.start_test(1, x)
@@ -414,7 +345,7 @@ class Custom_riosk:
             self.page.write_error_excel('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
             print('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
             text = ('第%s次运行时间为:' % mun + str(end_time - start_time) + '\n')
-            self.page.read_mysql(self.page.get_time(),endow,text)
+            self.page.read_mysql(self.page.get_time(), endow, text)
         self.page.db.close()
 
 
