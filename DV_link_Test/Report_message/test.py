@@ -21,22 +21,43 @@ class Test:
         for o in ls:
             if o.text in ["填报机构:","机构:" ,"报送机构:"]:
                 o.click()
-        time.sleep(2)
+        # time.sleep(2)
         # city_name = self.open.driver.find_elements_by_xpath('//div[@class="x-tree-node-el x-unselectable x-tree-node-collapsed"]//span/img')
-        self.open.driver.find_element_by_xpath('//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]').click()
-        time.sleep(2)
-        city_name = self.open.driver.find_elements_by_xpath('//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/ul//li/div/a/span')
-        list_name = []
-        for a in city_name:
-            names = a.text
-            list_name.append(names)
-        time.sleep(1)
-        for c in city_name:
-            length_num = random.randint(1, len(list_name))
-            on_link = list_name[length_num]
-            if c.text==on_link:
-                c.click()
-        print(list_name)
+        # self.open.driver.find_element_by_xpath('//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]').click()
+        # time.sleep(2)
+        # city_name = self.open.driver.find_elements_by_xpath('//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/ul//li/div/a/span')
+        # list_name = []
+        # for a in city_name:
+        #     names = a.text
+        #     list_name.append(names)
+        # time.sleep(1)
+        # for c in city_name:
+        #     length_num = random.randint(1, len(list_name))
+        #     on_link = list_name[length_num]
+        #     if c.text==on_link:
+        #         c.click()
+        td_list = self.open.driver.find_elements_by_xpath('//*[@id="mainPanel"]//div[@class="x-grid3-body"]/div')
+        ls01 = []
+        for t in td_list:
+            print(t)
+            t.click()
+            s = t.text
+            ls01.append(s)
+            print(ls01)
+            # 获取详细
+            ts_list = self.open.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-body"]/div')
+            time.sleep(1)
+            for p in ts_list:
+                print(p.text)
+                p.click()
+                onlink = self.open.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-body"]/div/div/table/tbody/tr/td[4]/div/a/href')
+                for lin in onlink:
+                    print(lin)
+                # p.find_element_by_xpath('/table/tbody/tr/td[4]/div/a/href').click()
+                return
+            return
+
+
     def main_test(self):
         self.open.open_page()
         self.test()
