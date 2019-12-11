@@ -348,18 +348,19 @@ class TestSystem():
                     ls01.append(s)
                     # 获取详细
                     ts_list = self.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-body"]/div')
-                    time.sleep(2)
-
+                    time.sleep(1)
                     length_ts = len(ts_list)
                     # 点击查看
                     if length_ts>0:
                         for p in ts_list:
                             p.click()
                             onlink = self.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-cell-inner x-grid3-col-3"]/a')
-                            for lin in onlink:
-                                lin.click()
-                                self.report_detail(number1,number2)
-                                return
+                            try:
+                                for lin in onlink:
+                                    lin.click()
+                                    self.report_detail(number1,number2)
+                            except Exception as e:
+                                print(e)
         except Exception as e:
             S_txt = '监管报送系统__获取列表:' + str(e)
             self.write_error_excel(S_txt)
