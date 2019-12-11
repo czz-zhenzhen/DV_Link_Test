@@ -348,7 +348,6 @@ class Custom_riosk:
             self.page.read_mysql(self.page.get_time(), endow, text)
         self.page.db.close()
 
-
 if __name__ == "__main__":
     Test01 = Custom_riosk()
     Test01.main_Area()
