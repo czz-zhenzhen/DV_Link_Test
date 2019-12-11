@@ -33,10 +33,9 @@ class TestSystem():
         # self.driver.find_element_by_xpath('/html/body/div/form/div[1]/div/div[2]/div/input').send_keys('00000')
         self.driver.find_element_by_id('username').send_keys('00000')
         time.sleep(2)
-        # self.driver.find_element_by_xpath('/html/body/div/form/div[1]/div/div[4]/div/input').send_keys("demo123.com")
         self.driver.find_element_by_id('password').send_keys("demo123.com")
         self.driver.find_element_by_class_name('blue_button').click()
-        time.sleep(3)
+        time.sleep(2)
 
     def first_supervise(self, number1, number2, number3):
         """
