@@ -57,12 +57,7 @@ class Test:
                         for lin in onlink:
                             lin.click()
                             self.open.report_detail(1,2)
-
-
-
-
-
-
+                            return
     def main_test(self):
         self.open.open_page()
         self.test()
