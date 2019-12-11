@@ -83,33 +83,6 @@ class TestSystem():
         任务名称
         """
         self.driver.find_element_by_name('task_name').send_keys("1104")
-
-    def messsage_arg(self, elem2, elem3):
-        """
-         # 填报机构
-        :param elem1: 获取点击元素
-        :param elem2: 加号图片元素
-        :param elem3: 省市元素
-        :return:
-        """
-        try:
-            elems2 = str(elem2)
-            elems3 = str(elem3)
-            ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
-            for y in ls:
-                if y.text in ["填报机构:","机构:" ,"报送机构:"]:
-                    y.click()
-            time.sleep(1)
-            self.driver.find_element_by_xpath(elems2).click()  # 点击图片
-            time.sleep(2)
-            list01 = self.driver.find_elements_by_xpath(elems3)
-            num01 = random.randint(1, len(list01))
-            time.sleep(2)
-            self.driver.find_element_by_xpath(
-                elems3 + '[%s]/div/a/span' % str(num01)).click()
-        except Exception as e:
-            S_txt = '机构管理:' + str(e)
-            self.write_error_excel(S_txt)
     def get_city_name(self):
         ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
         for o in ls:
@@ -343,47 +316,37 @@ class TestSystem():
         else:
             RESOURCE_ID_name1 = 'SAFE%d1' % number2
             self.write_error_mysql(count, "SAFE", '报表填表', '刷新按钮', '操作输出', 0, '功能正常')
-        time.sleep(3)
-        lists = self.driver.find_elements_by_xpath(
-            '/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div')
-        details_num = self.driver.find_elements_by_xpath(
-            '/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div')
-        num = len(lists)
+        time.sleep(2)
+        try:
+            td_list = self.driver.find_elements_by_xpath('//*[@id="mainPanel"]//div[@class="x-grid3-body"]/div')
+            ls01 = []
+            length_list = len(td_list)
 
-        if num > 0:
-            for x in range(1, num + 1):
-                try:
-                    txt = '/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/div/div[%s]' \
-                          '/table/tbody/tr/td[2]/div/span' % str(x)
-                    self.driver.find_element_by_xpath(txt).click()
-                    self.write_error_mysql(count, RESOURCE_ID_name1, '监管报送系', '获取列表', '查询按钮', 0, '功能正常')
-                except Exception as e:
-                    S_txt = '监管报送系统__获取列表:' + str(e)
-                    self.write_error_excel(S_txt)
-                    self.write_error_mysql(count, RESOURCE_ID_name1, '监管报送系', '获取列表', '查询按钮', 1, S_txt)
+        # 获取列表
+            if length_list > 0:
+                for t in td_list:
+                    t.click()
+                    s = t.text
+                    ls01.append(s)
+                    # 获取详细
+                    ts_list = self.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-body"]/div')
+                    time.sleep(2)
 
-                if len(details_num) < 0:
-                    try:
-                        self.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe', '//*[@id="ext-gen30"]/iframe')
-                        self.driver.find_element_by_xpath('//*[@id="ext-gen5"]/div[29]/div[3]/button').click()
-                    except Exception as e:
-                        print(e)
-                    return
-                else:
-                    for y in range(1, len(details_num) + 1):
-                        try:
-                            self.driver.find_element_by_xpath(
-                                '/html/body/div[3]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div/div[%s]'
-                                '/table/tbody/tr/td[4]/div/a' % str(
-                                    y)).click()
-                            self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '判断任务明细', '操作输出', 0, '功能正常')
-                        except Exception as e:
-                            S_txt = '任务列表__判断任务明细:' + str(e)
-                            self.write_error_excel(S_txt)
-                            self.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '判断任务明细', '操作输出', 1, S_txt)
-                            continue
-                        self.report_detail(number1, number2)
-                        time.sleep(1)
+                    length_ts = len(ts_list)
+                    # 点击查看
+                    if length_ts>0:
+                        for p in ts_list:
+                            p.click()
+                            onlink = self.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-cell-inner x-grid3-col-3"]/a')
+                            for lin in onlink:
+                                lin.click()
+                                self.report_detail(number1,number2)
+                                return
+        except Exception as e:
+            S_txt = '监管报送系统__获取列表:' + str(e)
+            self.write_error_excel(S_txt)
+            self.write_error_mysql(count, RESOURCE_ID_name1, '监管报送系', '获取列表', '查询按钮', 1, S_txt)
+
 
     def test_second_message(self):
         self.return_page()
@@ -540,8 +503,7 @@ class TestSystem():
             self.driver.find_element_by_xpath('//*[@id="ext-comp-1084"]').send_keys(self.get_time())
             time.sleep(1)
             self.driver.find_element_by_xpath('//*[@id="ext-comp-1087"]').send_keys(random.randint(1, 5))
-            self.messsage_arg('/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]',
-                              '/html/body/div[28]/ul/li/div/div/div/ul/li/ul/li[2]/ul/li')
+            self.get_city_name()
             time.sleep(1)
             self.driver.find_element_by_xpath('//*[@id="ext-comp-1085"]').send_keys(self.get_time())
             self.driver.find_element_by_xpath('//*[@id="flowSelector"]').click()

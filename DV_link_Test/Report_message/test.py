@@ -38,24 +38,29 @@ class Test:
         #         c.click()
         td_list = self.open.driver.find_elements_by_xpath('//*[@id="mainPanel"]//div[@class="x-grid3-body"]/div')
         ls01 = []
-        for t in td_list:
-            print(t)
-            t.click()
-            s = t.text
-            ls01.append(s)
-            print(ls01)
-            # 获取详细
-            ts_list = self.open.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-body"]/div')
-            time.sleep(1)
-            for p in ts_list:
-                print(p.text)
-                p.click()
-                onlink = self.open.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-body"]/div/div/table/tbody/tr/td[4]/div/a/href')
-                for lin in onlink:
-                    print(lin)
-                # p.find_element_by_xpath('/table/tbody/tr/td[4]/div/a/href').click()
-                return
-            return
+        length_list = len(td_list)
+        # 获取列表
+        if length_list > 0:
+            for t in td_list:
+                t.click()
+                s = t.text
+                ls01.append(s)
+                # 获取详细
+                ts_list = self.open.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-body"]/div')
+                time.sleep(2)
+                length_ts = len(ts_list)
+                # 点击查看
+                if length_ts>0:
+                    for p in ts_list:
+                        p.click()
+                        onlink = self.open.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-cell-inner x-grid3-col-3"]/a')
+                        for lin in onlink:
+                            lin.click()
+                            self.open.report_detail(1,2)
+
+
+
+
 
 
     def main_test(self):
