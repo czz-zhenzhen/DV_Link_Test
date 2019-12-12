@@ -1,0 +1,24 @@
+2019-12-12:16:56
+填报管理_频度获取列:text_status() takes 1 positional argument but 3 were given2019-12-12:16:56
+填报管理_创建任务:Message: element click intercepted: Element <button type="button" id="ext-gen125" class=" x-btn-text add">...</button> is not clickable at point (39, 125). Other element would receive the click: <div class="ext-el-mask" id="ext-gen164"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:56
+报送管理_创建任务_频度获取列:text_status() takes 1 positional argument but 3 were given2019-12-12:16:56
+报送管理_创建任务_启动方式:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="startup_mode1"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:56
+报送管理_创建任务_完成天数:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1086"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:56
+报送管理_创建任务_执行机构:'TestSystem' object has no attribute 'messsage_arg'2019-12-12:16:57
+报送管理_创建任务_是否是临时任务:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="is_temp1"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:57
+报送管理_创建任务_是否是临时任务:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen295"]/div[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:57
+报送管理_创建任务_任务描述:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-comp-1088"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:57
+报送管理_创建任务_保存按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen186"]"}
+  (Session info: chrome=78.0.3904.87)
