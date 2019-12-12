@@ -43,8 +43,6 @@ class Finacial_Data:
             if x.text == "创建任务":
                 x.click()
                 self.tasek_name()
-
-
     def start_test(self):
         self.openpage.open_page()
         self.openpage.first_supervise(4, 3, 4)
