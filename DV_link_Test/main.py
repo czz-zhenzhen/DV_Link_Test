@@ -63,7 +63,6 @@ class TestSystem():
                 y.click()
         lis = self.driver.find_elements_by_xpath('//div[@class="x-combo-list-inner"]/div')
         for x in lis:
-            print(x.text)
             if x.text == "完成":
                 x.click()
 
