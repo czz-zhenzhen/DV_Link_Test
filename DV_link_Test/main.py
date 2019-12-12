@@ -70,9 +70,6 @@ class TestSystem():
     def check_button(self, elem):
         self.driver.find_element_by_xpath(str(elem)).click()
 
-    def put_time(self, elem):
-        self.driver.find_element_by_xpath(str(elem)).send_keys(self.get_time())
-
     def check_box(self, elem):
         time.sleep(1)
         self.driver.find_element_by_xpath(elem).click()
@@ -106,7 +103,7 @@ class TestSystem():
 
     def report_messages(self,count, RESOURCE_ID_name1, report_name):
         try:
-            self.get_city_name()
+            self.get_city_name(count, RESOURCE_ID_name1)
             self.write_error_mysql(count, RESOURCE_ID_name1, '敏捷报表平台', '点击', '机构管理', 0, '功能正常')
         except Exception as e:
             S_txt = '{}__机构管理:'.format(report_name) + str(e)
@@ -135,27 +132,45 @@ class TestSystem():
                 self.write_error_excel(S_txt)
                 self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '返回', '查询按钮', 1, S_txt)
 
-    def get_city_name(self):
-        ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
-        for o in ls:
-            if o.text in ["填报机构:", "机构:", "报送机构:"]:
-                o.click()
-        time.sleep(2)
-        self.driver.find_element_by_xpath(
-            '//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]').click()
-        time.sleep(2)
-        city_name = self.driver.find_elements_by_xpath(
-            '//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/ul//li/div/a/span')
-        list_name = []
-        for a in city_name:
-            names = a.text
-            list_name.append(names)
-        time.sleep(1)
-        for c in city_name:
-            length_num = random.randint(1, len(list_name))
-            on_link = list_name[length_num]
-            if c.text == on_link:
-                c.click()
+    def all_check_button(self):
+        ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/table')
+        for x in ls:
+            l_str = x.text
+            strs = l_str.strip()
+            if strs=="查询":
+                x.click()
+    def get_city_name(self,count, RESOURCE_ID_name1):
+        report_name = "机构"
+        try:
+            ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
+            for o in ls:
+                if o.text in ["填报机构:", "机构:", "报送机构:"]:
+                    o.click()
+            time.sleep(2)
+            self.driver.find_element_by_xpath(
+                '//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]').click()
+            time.sleep(2)
+            city_name = self.driver.find_elements_by_xpath(
+                '//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/ul//li/div/a/span')
+            list_name = []
+            for a in city_name:
+                names = a.text
+                list_name.append(names)
+            time.sleep(1)
+            for c in city_name:
+                length_num = random.randint(1, len(list_name))
+                on_link = list_name[length_num]
+                if c.text == on_link:
+                    c.click()
+                    self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '点击', '机构管理', 0, '功能正常')
+        except Exception as e:
+            S_txt = '{}__机构管理:'.format(report_name) + str(e)
+            if str(e) == "list index out of range":
+                self.write_error_excel(S_txt)
+                self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '点击', '机构管理', 0, '功能正常')
+            else:
+                self.write_error_excel(S_txt)
+                self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '点击', '机构管理', 1, S_txt)
     def save_butom(self, elem):
         elems = str(elem)
         time.sleep(1)
@@ -348,12 +363,9 @@ class TestSystem():
                 try:
                     # 获取是，否
                     ls_fo = self.driver.find_elements_by_xpath('//*[@class="x-window-footer x-panel-btns"]//button')
-                    print(ls_fo)
                     for ls in ls_fo:
-                        print(ls.text)
                         if ls.text=="否":
                             ls.click()
-                            # self.driver.find_element_by_xpath('//*[@id="ext-comp-1081"]/tbody/tr[2]/td[2]').click()
                             self.write_error_mysql(count, RESOURCE_ID_name1, '报表填报__填报', '完成_否', '操作输出', 0, '功能正常')
                 except Exception as e:
                     S_txt = '报表填报__完成__关闭按钮:' + str(e)
@@ -397,7 +409,6 @@ class TestSystem():
                     ls01.append(s)
                     # 获取详细
                     ts_list = self.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-body"]/div')
-                    time.sleep(1)
                     length_ts = len(ts_list)
                     # 点击查看
                     if length_ts>0:
@@ -420,12 +431,15 @@ class TestSystem():
             S_txt = '监管报送系统__获取列表:' + str(e)
             self.write_error_excel(S_txt)
             self.write_error_mysql(count, RESOURCE_ID_name1, '监管报送系', '获取列表', '查询按钮', 1, S_txt)
+    def input_date(self):
+        self.driver.find_element_by_name('data_date').send_keys(self.get_time())
+
 
 
     def write_error_excel(self, text):
         time_str2 = time.strftime('%Y-%m-%d:%H:%M', time.localtime())
         time_str = time.strftime('%Y-%m-%d', time.localtime())
-        path = '/DV_link/DV_link_Test/record_test/ecord_form_' + time_str + '.txt'
+        path = '/DV_link/DV_link_Test/record_test/record_form_' + time_str + '.txt'
         with open(path, 'a', encoding='utf-8')as f:
             f.write(str(time_str2) + '\n')
             f.write(text)

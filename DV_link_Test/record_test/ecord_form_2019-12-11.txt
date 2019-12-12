@@ -295,4 +295,71 @@
 报表查询_提示按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div/div/iframe"}
   (Session info: chrome=78.0.3904.87)
 2019-12-11:17:34
-报表查询__机构管理:list index out of range
+报表查询__机构管理:list index out of range2019-12-11:18:07
+填报机构:list index out of range2019-12-11:18:08
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:09
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:10
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:10
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:11
+报表查询__机构管理:list index out of range2019-12-11:18:11
+报文发送_机构管理:Message: element click intercepted: Element <div id="ext-comp-1014" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 230px;">...</div> is not clickable at point (746, 47). Other element would receive the click: <div class="c-message--tip" style="max-height: 399px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:12
+报文下载_机构管理:list index out of range2019-12-11:18:12
+填报机构:Message: element click intercepted: Element <div id="ext-comp-1020" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 230px;">...</div> is not clickable at point (746, 47). Other element would receive the click: <div class="c-message--tip" style="max-height: 399px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:13
+报文发送_机构管理:Message: element click intercepted: Element <div id="ext-comp-1014" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 230px;">...</div> is not clickable at point (746, 47). Other element would receive the click: <div class="c-message--tip" style="max-height: 399px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:13
+报文下载_机构管理:list index out of range2019-12-11:18:13
+填报机构:Message: element click intercepted: Element <div id="ext-comp-1020" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 230px;">...</div> is not clickable at point (746, 47). Other element would receive the click: <div class="c-message--tip" style="max-height: 399px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:14
+报表查询__机构管理:list index out of range2019-12-11:18:14
+报文发送_机构管理:Message: element click intercepted: Element <div id="ext-comp-1014" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 230px;">...</div> is not clickable at point (746, 47). Other element would receive the click: <div class="c-message--tip" style="max-height: 399px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:14
+填报机构:Message: element click intercepted: Element <div id="ext-comp-1020" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 230px;">...</div> is not clickable at point (746, 47). Other element would receive the click: <div class="c-message--tip" style="max-height: 399px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:15
+报表查询__机构管理:list index out of range2019-12-11:18:15
+报文发送_机构管理:Message: element click intercepted: Element <div id="ext-comp-1014" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 230px;">...</div> is not clickable at point (746, 47). Other element would receive the click: <div class="c-message--tip" style="max-height: 399px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:15
+报文下载_机构管理:list index out of range2019-12-11:18:16
+敏捷报表平台__机构管理:list index out of range2019-12-11:18:16
+敏捷报表平台__机构管理:list index out of range2019-12-11:18:17
+敏捷报表平台__机构管理:list index out of range2019-12-11:18:17
+敏捷报表平台__机构管理:list index out of range2019-12-11:18:18
+敏捷报表平台__机构管理:list index out of range2019-12-11:18:18
+敏捷报表平台__机构管理:list index out of range2019-12-11:18:19
+敏捷报表平台__机构管理:list index out of range2019-12-11:18:19
+敏捷报表平台__机构管理:list index out of range2019-12-11:18:19
+敏捷报表平台__机构管理:list index out of range2019-12-11:18:20
+敏捷报表平台__机构管理:list index out of range2019-12-11:18:20
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[14]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:20
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:20
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:20
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:21
+敏捷报表平台__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-11:18:21
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
