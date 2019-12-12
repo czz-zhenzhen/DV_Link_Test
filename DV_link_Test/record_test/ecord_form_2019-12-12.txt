@@ -1,0 +1,1041 @@
+2019-12-12:10:10
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:10
+报表查询__机构管理:get_city_name() missing 2 required positional arguments: 'count' and 'RESOURCE_ID_name1'2019-12-12:10:10
+填报机构__机构管理:list index out of range2019-12-12:10:11
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:11
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:11
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:17
+填报机构__机构管理:list index out of range2019-12-12:10:18
+填报机构__机构管理:list index out of range2019-12-12:10:38
+机构__机构管理:list index out of range2019-12-12:10:38
+报表填表_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-column-inner"]/table/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:38
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:42
+机构__机构管理:list index out of range2019-12-12:10:42
+报表填表_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-column-inner"]/table/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:44
+机构__机构管理:list index out of range2019-12-12:10:45
+报表填表_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-column-inner"]//table/button[@class=" x-btn-text search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:48
+机构__机构管理:list index out of range2019-12-12:10:48
+报表填表_查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-body x-panel-body-noheader x-border-layout-ct"]//div[@class="x-column-inner"]/table/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:51
+机构__机构管理:list index out of range2019-12-12:10:54
+机构__机构管理:list index out of range2019-12-12:10:57
+报文下载_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:57
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:57
+报文下载_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:58
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:58
+报表报送_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div[2]/div[2]/div/div[1]/div[1]/div[1]/div/table/thead/tr/td[1]/div/div"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:58
+报文下载_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:58
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:58
+报表报送_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div[2]/div[2]/div/div[1]/div[1]/div[1]/div/table/thead/tr/td[1]/div/div"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:59
+报文下载_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:59
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:59
+报表报送_刷新按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div/div[2]/div[2]/div[2]/div/div[1]/div[1]/div[1]/div/table/thead/tr/td[1]/div/div"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:10:59
+报文下载_进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:00
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:01
+机构__机构管理:list index out of range2019-12-12:11:01
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:02
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:02
+机构__机构管理:list index out of range2019-12-12:11:13
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:13
+机构__机构管理:list index out of range2019-12-12:11:13
+机构__机构管理:list index out of range2019-12-12:11:14
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:14
+机构__机构管理:list index out of range2019-12-12:11:14
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:15
+机构__机构管理:list index out of range2019-12-12:11:15
+机构__机构管理:list index out of range2019-12-12:11:15
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:16
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:16
+机构__机构管理:list index out of range2019-12-12:11:17
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:17
+机构__机构管理:list index out of range2019-12-12:11:17
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:18
+机构__机构管理:list index out of range2019-12-12:11:18
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:19
+机构__机构管理:list index out of range2019-12-12:11:19
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:19
+机构__机构管理:list index out of range2019-12-12:11:20
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:20
+机构__机构管理:list index out of range2019-12-12:11:21
+机构__机构管理:list index out of range2019-12-12:11:21
+机构__机构管理:list index out of range2019-12-12:11:21
+机构__机构管理:list index out of range2019-12-12:11:22
+机构__机构管理:list index out of range2019-12-12:11:22
+机构__机构管理:list index out of range2019-12-12:11:23
+机构__机构管理:list index out of range2019-12-12:11:23
+机构__机构管理:list index out of range2019-12-12:11:25
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[14]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:25
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:25
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:25
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:25
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:25
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:25
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:26
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[15]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:26
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:26
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:26
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:26
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:26
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:26
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:26
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[16]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:27
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:27
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:27
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:27
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:27
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:27
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:27
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[17]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:11:27
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:10
+机构__机构管理:list index out of range2019-12-12:14:11
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:11
+机构__机构管理:list index out of range2019-12-12:14:13
+机构__机构管理:list index out of range2019-12-12:14:13
+机构__机构管理:list index out of range2019-12-12:14:14
+机构__机构管理:list index out of range2019-12-12:14:14
+机构__机构管理:list index out of range2019-12-12:14:15
+机构__机构管理:list index out of range2019-12-12:14:15
+机构__机构管理:list index out of range2019-12-12:14:16
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[14]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:16
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:16
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:16
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:17
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:17
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:17
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:17
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[15]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:38
+机构__机构管理:list index out of range2019-12-12:14:38
+机构__机构管理:list index out of range2019-12-12:14:39
+机构__机构管理:list index out of range2019-12-12:14:39
+机构__机构管理:list index out of range2019-12-12:14:40
+机构__机构管理:list index out of range2019-12-12:14:40
+机构__机构管理:list index out of range2019-12-12:14:40
+机构__机构管理:list index out of range2019-12-12:14:41
+机构__机构管理:list index out of range2019-12-12:14:41
+机构__机构管理:list index out of range2019-12-12:14:41
+机构__机构管理:list index out of range2019-12-12:14:42
+机构__机构管理:list index out of range2019-12-12:14:42
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[14]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:42
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:42
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:42
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:42
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:43
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:43
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:43
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[15]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:43
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:43
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:43
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:43
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:43
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:44
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:44
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[16]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:44
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:44
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:44
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:44
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:44
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:44
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:45
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[17]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:45
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:45
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:45
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:45
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:45
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:45
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:46
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[18]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:46
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:46
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:46
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:46
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:46
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:46
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:46
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[19]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:47
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:47
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:47
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:47
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:47
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:47
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:47
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[20]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:47
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:48
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:48
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:48
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:48
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:48
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:48
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[21]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:48
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:48
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:48
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:49
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:49
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:49
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:49
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[22]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:49
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:49
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:49
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:50
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:50
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:50
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:50
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[23]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:50
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:50
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:50
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:50
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:51
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:51
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:51
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[24]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:51
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:51
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:51
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:51
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:51
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:52
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:52
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[25]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:52
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:52
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:52
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:52
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:52
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:52
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:53
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[26]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:53
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:53
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:53
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:53
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:53
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:53
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:54
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[27]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:54
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:54
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:54
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:54
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:54
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:54
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:54
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[28]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:55
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:55
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:55
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:55
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:55
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:55
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:55
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[29]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:55
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:56
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:56
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:56
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:56
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:56
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:56
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[30]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:56
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:56
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:56
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:57
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:57
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:57
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:57
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[31]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:57
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:57
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:57
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:58
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:58
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:58
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:58
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[32]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:58
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:58
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:58
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:58
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:59
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:59
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:59
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[33]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:59
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:59
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:59
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:59
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:14:59
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:00
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:00
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[34]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:00
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:00
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:00
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:00
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:00
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:00
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:01
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[35]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:01
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:01
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:01
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:01
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:01
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:01
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:02
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[36]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:02
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:02
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:02
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:02
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:05
+机构__机构管理:list index out of range2019-12-12:15:06
+机构__机构管理:list index out of range2019-12-12:15:06
+机构__机构管理:list index out of range2019-12-12:15:07
+机构__机构管理:list index out of range2019-12-12:15:07
+机构__机构管理:list index out of range2019-12-12:15:07
+机构__机构管理:list index out of range2019-12-12:15:08
+机构__机构管理:list index out of range2019-12-12:15:09
+机构__机构管理:list index out of range2019-12-12:15:09
+机构__机构管理:list index out of range2019-12-12:15:10
+机构__机构管理:list index out of range2019-12-12:15:10
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[14]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:10
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:10
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:10
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:10
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:10
+敏捷报表平台__查询按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-column-inner"]/table[1]/tbody/tr[2]/td[2]/em/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:11
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:11
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[15]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:11
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:11
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:11
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:15
+机构__机构管理:list index out of range2019-12-12:15:15
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:16
+机构__机构管理:list index out of range2019-12-12:15:16
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:16
+机构__机构管理:list index out of range2019-12-12:15:17
+机构__机构管理:list index out of range2019-12-12:15:17
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:18
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:18
+机构__机构管理:list index out of range2019-12-12:15:18
+机构__机构管理:list index out of range2019-12-12:15:19
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:19
+机构__机构管理:list index out of range2019-12-12:15:19
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:20
+机构__机构管理:list index out of range2019-12-12:15:20
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:20
+机构__机构管理:list index out of range2019-12-12:15:21
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:22
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:22
+机构__机构管理:list index out of range2019-12-12:15:22
+机构__机构管理:list index out of range2019-12-12:15:23
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:23
+机构__机构管理:list index out of range2019-12-12:15:23
+机构__机构管理:list index out of range2019-12-12:15:23
+机构__机构管理:list index out of range2019-12-12:15:24
+机构__机构管理:list index out of range2019-12-12:15:25
+机构__机构管理:list index out of range2019-12-12:15:25
+机构__机构管理:list index out of range2019-12-12:15:26
+机构__机构管理:list index out of range2019-12-12:15:26
+机构__机构管理:list index out of range2019-12-12:15:26
+机构__机构管理:list index out of range2019-12-12:15:27
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[14]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:28
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:28
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:34
+机构__机构管理:list index out of range2019-12-12:15:34
+机构__机构管理:list index out of range2019-12-12:15:34
+机构__机构管理:list index out of range2019-12-12:15:35
+机构__机构管理:list index out of range2019-12-12:15:36
+机构__机构管理:list index out of range2019-12-12:15:36
+机构__机构管理:list index out of range2019-12-12:15:36
+机构__机构管理:list index out of range2019-12-12:15:37
+机构__机构管理:list index out of range2019-12-12:15:37
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[14]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:37
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:37
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:37
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:45
+机构__机构管理:list index out of range2019-12-12:15:45
+机构__机构管理:list index out of range2019-12-12:15:46
+机构__机构管理:list index out of range2019-12-12:15:47
+机构__机构管理:list index out of range2019-12-12:15:47
+机构__机构管理:list index out of range2019-12-12:15:48
+机构__机构管理:list index out of range2019-12-12:15:48
+机构__机构管理:list index out of range2019-12-12:15:48
+机构__机构管理:list index out of range2019-12-12:15:49
+机构__机构管理:list index out of range2019-12-12:15:49
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[14]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:49
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:49
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:53
+机构__机构管理:list index out of range2019-12-12:15:53
+机构__机构管理:list index out of range2019-12-12:15:54
+机构__机构管理:list index out of range2019-12-12:15:54
+机构__机构管理:list index out of range2019-12-12:15:55
+机构__机构管理:list index out of range2019-12-12:15:55
+机构__机构管理:list index out of range2019-12-12:15:56
+机构__机构管理:list index out of range2019-12-12:15:57
+机构__机构管理:list index out of range2019-12-12:15:57
+机构__机构管理:list index out of range2019-12-12:15:57
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[14]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:57
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:58
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:58
+敏捷报表平台__关闭:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-bwrap"]//div[@class="x-toolbar x-small-editor x-toolbar-layout-ct"]//button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:15:58
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:00
+机构__机构管理:list index out of range2019-12-12:16:01
+机构__机构管理:list index out of range2019-12-12:16:01
+机构__机构管理:list index out of range2019-12-12:16:02
+机构__机构管理:list index out of range2019-12-12:16:03
+机构__机构管理:list index out of range2019-12-12:16:03
+机构__机构管理:list index out of range2019-12-12:16:04
+机构__机构管理:list index out of range2019-12-12:16:04
+敏捷报表平台Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/ul/li[2]/div/div[2]/div/a[14]/div[2]/h3"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:04
+敏捷报表平台__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="panel panel-htop"]/div/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:04
+敏捷报表平台__输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="search"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:17
+机构__机构管理:list index out of range2019-12-12:16:18
+机构__机构管理:list index out of range2019-12-12:16:19
+机构__机构管理:list index out of range2019-12-12:16:20
+机构__机构管理:list index out of range2019-12-12:16:21
+机构__机构管理:list index out of range2019-12-12:16:21
+机构__机构管理:list index out of range2019-12-12:16:21
+机构__机构管理:list index out of range2019-12-12:16:22
+第1次运行时间为:293.21799993515015
+2019-12-12:16:26
+机构__机构管理:list index out of range2019-12-12:16:26
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:26
+机构__机构管理:list index out of range2019-12-12:16:27
+机构__机构管理:list index out of range2019-12-12:16:27
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:28
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:28
+机构__机构管理:list index out of range2019-12-12:16:28
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:29
+机构__机构管理:list index out of range2019-12-12:16:29
+机构__机构管理:list index out of range2019-12-12:16:29
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:29
+机构__机构管理:list index out of range2019-12-12:16:30
+机构__机构管理:list index out of range2019-12-12:16:30
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:30
+机构__机构管理:list index out of range2019-12-12:16:31
+机构__机构管理:list index out of range2019-12-12:16:31
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:32
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:32
+机构__机构管理:list index out of range2019-12-12:16:32
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:33
+机构__机构管理:list index out of range2019-12-12:16:33
+机构__机构管理:list index out of range2019-12-12:16:33
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:34
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:35
+机构__机构管理:list index out of range2019-12-12:16:35
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:35
+机构__机构管理:list index out of range2019-12-12:16:35
+机构__机构管理:list index out of range2019-12-12:16:36
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:36
+机构__机构管理:list index out of range2019-12-12:16:36
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:37
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:37
+机构__机构管理:list index out of range2019-12-12:16:38
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:38
+机构__机构管理:list index out of range2019-12-12:16:38
+机构__机构管理:list index out of range2019-12-12:16:39
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:39
+机构__机构管理:list index out of range2019-12-12:16:39
+机构__机构管理:list index out of range2019-12-12:16:40
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:40
+机构__机构管理:list index out of range2019-12-12:16:40
+机构__机构管理:list index out of range2019-12-12:16:40
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:41
+机构__机构管理:list index out of range2019-12-12:16:41
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:41
+机构__机构管理:list index out of range2019-12-12:16:42
+机构__机构管理:list index out of range2019-12-12:16:42
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:42
+机构__机构管理:list index out of range2019-12-12:16:43
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:43
+机构__机构管理:list index out of range2019-12-12:16:43
+机构__机构管理:list index out of range2019-12-12:16:43
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:44
+机构__机构管理:list index out of range2019-12-12:16:44
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:45
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:45
+机构__机构管理:list index out of range2019-12-12:16:46
+机构__机构管理:list index out of range2019-12-12:16:46
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:46
+机构__机构管理:list index out of range2019-12-12:16:47
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:47
+机构__机构管理:list index out of range2019-12-12:16:47
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:48
+机构__机构管理:list index out of range2019-12-12:16:48
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-12:16:49
+机构__机构管理:list index out of range2019-12-12:16:49
+机构__机构管理:list index out of range2019-12-12:16:49
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
