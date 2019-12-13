@@ -138,6 +138,11 @@ class TestSystem():
             strs = l_str.strip()
             if strs=="查询":
                 x.click()
+    def onlink_img(self):
+        time.sleep(1)
+        self.driver.find_element_by_xpath(
+            '//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]').click()
+        time.sleep(1)
     def get_city_name(self,count, RESOURCE_ID_name1):
         report_name = "机构"
         try:
@@ -145,10 +150,7 @@ class TestSystem():
             for o in ls:
                 if o.text in ["填报机构:", "机构:", "报送机构:"]:
                     o.click()
-            time.sleep(2)
-            self.driver.find_element_by_xpath(
-                '//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]').click()
-            time.sleep(2)
+            self.onlink_img()
             city_name = self.driver.find_elements_by_xpath(
                 '//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/ul//li/div/a/span')
             list_name = []
@@ -156,9 +158,10 @@ class TestSystem():
                 names = a.text
                 list_name.append(names)
             time.sleep(1)
+            lens = len(list_name)
+            length_num = random.randint(1, lens)
+            on_link = list_name[length_num]
             for c in city_name:
-                length_num = random.randint(1, len(list_name))
-                on_link = list_name[length_num]
                 if c.text == on_link:
                     c.click()
                     self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '点击', '机构管理', 0, '功能正常')
