@@ -1,0 +1,6 @@
+2019-12-13:14:48
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-13:15:03
+机构__机构管理:list index out of range2019-12-13:16:00
+机构__机构管理:list index out of range

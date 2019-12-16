@@ -22,7 +22,7 @@ class Custom_riosk:
         try:
             self.page.fist_iframe(1, '//*[@class="panel panel-htop"]/div/div/iframe')
             self.page.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
-                                     '/html/body/div[1]/div[2]/div/div/div/div/iframe')
+                                     '//*[@class="x-panel-body x-panel-body-noheader x-panel-body-noborder"]/iframe')
             count += 1
             self.page.write_error_mysql(count, RESOURCE_ID, '报表填表', '操作输入', '进入iframe层', 0, '功能正常')
         except Exception as e:
@@ -68,7 +68,7 @@ class Custom_riosk:
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '输入时间', '操作输出', 1, S_txt)
 
         try:
-            self.page.all_check_button()
+            self.page.all_check_button(count, RESOURCE_ID_name1,'查询按钮')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表填表', '查询按钮', '操作输出', 0, '功能正常')
 
         except Exception as e:
@@ -178,7 +178,7 @@ class Custom_riosk:
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文发送', '日期输入', '操作输出', 1, S_txt)
 
         try:
-            self.page.all_check_button()
+            self.page.all_check_button(count, RESOURCE_ID_name1,report_name)
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报文报送', '查询按钮', '操作输出', 0, '功能正常')
 
         except Exception as e:
@@ -217,7 +217,7 @@ class Custom_riosk:
 
         self.page.get_city_name(count, RESOURCE_ID_name1)
         try:
-            self.page.all_check_button()
+            self.page.all_check_button(count, RESOURCE_ID_name1, '查询按钮')
             self.page.write_error_mysql(count, RESOURCE_ID_name1, '报表报送', '查询按钮', '操作输出', 0, '功能正常')
 
         except Exception as e:

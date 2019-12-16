@@ -73,9 +73,15 @@ class TestSystem():
         time.sleep(1)
         self.driver.find_element_by_xpath(elem).click()
     def close_buttons(self):
-        time.sleep(1)
-        self.driver.find_element_by_xpath('//*[@class="c-message "]/div/button').click()
-        time.sleep(1)
+        try:
+            time.sleep(1)
+            self.driver.find_element_by_xpath('//*[@class="c-message "]/div/button').click()
+            time.sleep(1)
+        except Exception as e:
+            print(e)
+            # S_txt = '{}__输入框:'.format(report_name) + str(e)
+            # self.write_error_excel(S_txt)
+            # self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '输入框', '返回按钮', 1, S_txt)
     def task_name(self):
         """
         任务名称
@@ -131,13 +137,19 @@ class TestSystem():
                 self.write_error_excel(S_txt)
                 self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '返回', '查询按钮', 1, S_txt)
 
-    def all_check_button(self):
-        ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/table')
-        for x in ls:
-            l_str = x.text
-            strs = l_str.strip()
-            if strs=="查询":
-                x.click()
+    def all_check_button(self,count, RESOURCE_ID_name1, report_name):
+        try:
+            ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/table')
+            for x in ls:
+                l_str = x.text
+                strs = l_str.strip()
+                if strs=="查询":
+                    x.click()
+        except Exception as e:
+            S_txt = '{}__进入iframe层:'.format(report_name) + str(e)
+            self.write_error_excel(S_txt)
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '进入iframe层', '操作输出', 1, S_txt)
+
     def onlink_img(self):
         time.sleep(1)
         self.driver.find_element_by_xpath(
