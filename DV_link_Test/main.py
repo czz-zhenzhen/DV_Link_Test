@@ -493,6 +493,8 @@ class TestSystem():
                              " SEQ_ID = 1 GROUP BY B.PARENT_RESOURCE_ID".format(start_date)
             self.cursor.execute(sql_date_total)
             ls = self.cursor.fetchall()
+            for y in ls:
+                print(y)
             # 获取数组
             self.cursor.execute(sql_date)
             ls1 = self.cursor.fetchall()
@@ -511,6 +513,7 @@ class TestSystem():
                     if x >= 1:
                         worksheet.write(1, 1 + x, label=ls[0][1 + x])
                         worksheet.write(2, 1 + x, label=ls[1][1 + x])
+                        # worksheet.write(4, 1 + x, label=ls[3][1 + x])
                 for y in range(len(list_name01)):
                     worksheet02.write(0, y, label=list_name01[y])
                 for i in range(len(list_name02)):
@@ -577,39 +580,12 @@ class TestSystem():
                 '/html/body/div[31]/ul/li/div/div/div/ul/li/ul/li[%s]/ul/li[%s]/div/a/span' % (
                     str(mun), str(mun2))).click()
 
-    def create_message(self):
-        try:
-            self.driver.find_element_by_xpath(
-                '/html/body/div[24]/div[2]/div[1]/div/div/div/div/div/div/div/div[2]/form/div[1]/div/'
-                'div/div/div[1]/div/div/div[1]/div[1]/input').send_keys(
-                'test')
-            time.sleep(1)
-            self.text_status()
-            self.driver.find_element_by_xpath('//*[@id="ext-comp-1084"]').send_keys(self.get_time())
-            time.sleep(1)
-            self.driver.find_element_by_xpath('//*[@id="ext-comp-1087"]').send_keys(random.randint(1, 5))
-            self.get_city_name()
-            time.sleep(1)
-            self.driver.find_element_by_xpath('//*[@id="ext-comp-1085"]').send_keys(self.get_time())
-            self.driver.find_element_by_xpath('//*[@id="flowSelector"]').click()
-            self.driver.find_element_by_xpath('/html/body/div[29]/div/div').click()
-            self.driver.find_element_by_xpath('//*[@id="ext-comp-1090"]').send_keys('测试需求')
-            time.sleep(3)
-            # 报表主题
-            self.report_project()
-            time.sleep(1)
-            self.driver.find_element_by_xpath(
-                '/html/body/div[23]/div[2]/div[2]/div/div/div/div[1]/table/tbody/tr/td[1]/table/tbody/tr/td[1]/'
-                'table/tbody/tr[2]/td[2]/em/button').click()
-            time.sleep(2)
-        except Exception as e:
-            S_txt = '报送管理_创建任务:' + str(e)
-            self.write_error_excel(S_txt)
+
 
     def main(self):
         self.open_page()
-        # self.test_first(2, 1)
-        # self.read_mysql('2019-11-28', '2019-11-29','123')
+        self.test_first(2, 1)
+        self.read_mysql('2019-11-28', '2019-11-29','123')
 
 
 if __name__ == "__main__":

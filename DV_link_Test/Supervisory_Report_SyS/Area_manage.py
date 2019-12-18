@@ -312,7 +312,7 @@ class Custom_riosk:
         now = datetime.datetime.now()
         date = now + datetime.timedelta(days=1)
         endow = date.strftime('%Y-%m-%d')
-        for mun in range(1, 5):
+        for mun in range(1, 3):
             start_time = time.time()
             self.page.driver.refresh()
             for i in range(2, 5):

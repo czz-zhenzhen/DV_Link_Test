@@ -86,3 +86,209 @@
 2019-12-16:17:57
 监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
   (Session info: chrome=78.0.3904.87)
+2019-12-16:18:05
+进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-tab-panel-body x-tab-panel-body-top"]/div[2]//div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:06
+输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="task_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:06
+输入框:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="task_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:06
+报表代码:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="query_key"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:06
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:06
+报表填表_输入时间:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="data_date"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:14
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:15
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:15
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:16
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:16
+机构__机构管理:list index out of range2019-12-16:18:17
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:18
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:18
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:19
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:20
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:21
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:21
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:22
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:23
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:24
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:24
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:25
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:26
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:27
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:27
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:28
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:29
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:29
+机构__机构管理:list index out of range2019-12-16:18:30
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:30
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:31
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:32
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:33
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:33
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:34
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:35
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:36
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:41
+第1次运行时间为:1633.3769998550415
+2019-12-16:18:42
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:43
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:44
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:45
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:45
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:46
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:47
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:48
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:48
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:49
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:50
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:51
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:51
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:52
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:53
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:54
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:54
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:55
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:56
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:56
+机构__机构管理:list index out of range2019-12-16:18:57
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:57
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:58
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:18:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:19:00
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:19:00
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:19:01
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:19:01
+机构__机构管理:list index out of range2019-12-16:19:02
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:19:03
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:19:03
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:19:04
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-16:19:09
+第2次运行时间为:1629.9289999008179

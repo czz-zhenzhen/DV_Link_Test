@@ -37,7 +37,7 @@ class Finacial_Data:
         try:
             ls = self.check_result(count, RESOURCE_ID_name1,report_name)
             for x in ls:
-                print(x.text)
+                # print(x.text)
                 if x.text == "创建任务":
                     x.click()
                     self.tasek_name(count, RESOURCE_ID_name1, report_name)
@@ -51,7 +51,7 @@ class Finacial_Data:
         try:
             ls = self.creste_task_datail(count, RESOURCE_ID_name1, report_name)
             for x in ls:
-                print(x.text)
+                # print(x.text)
                 if x.text == "频度*:":
                     x.click()
                     lis = self.openpage.driver.find_elements_by_xpath('//div[@class="x-combo-list-inner"]/div')
@@ -68,7 +68,7 @@ class Finacial_Data:
         try:
             ls = self.creste_task_datail(count, RESOURCE_ID_name1, report_name)
             for x in ls:
-                print(x.text)
+                # print(x.text)
                 if x.text == "自动执行*:":
                     x.click()
                     lis = self.openpage.driver.find_elements_by_xpath('//div[@class="x-combo-list-inner"]/div')
@@ -87,12 +87,13 @@ class Finacial_Data:
             for x in ls:
                 if x.text == "报表主题*:":
                     x.click()
-                    time.sleep(1)
+                    time.sleep(2)
                     self.openpage.onlink_img()
-                    time.sleep(1)
+                    time.sleep(2)
                     city_name = self.openpage.driver.find_elements_by_xpath(
                         '//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/ul//li/div/a/span')
                     list_name = []
+                    time.sleep(2)
                     for a in city_name:
                         names = a.text
                         list_name.append(names)
@@ -109,6 +110,13 @@ class Finacial_Data:
             S_txt = '{}__进入报表主题:'.format(report_name) + str(e)
             self.openpage.write_error_excel(S_txt)
             self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '报表主题', '操作输出', 1, S_txt)
+    def is_or_yes(self,count, RESOURCE_ID_name1, report_name):
+        ls = self.creste_task_datail(count, RESOURCE_ID_name1, report_name)
+        for x in ls:
+            # print(x.text)
+            if x.text=="是否结转*:":
+                x.click()
+                x.click()
 
     def need_date(self,count, RESOURCE_ID_name1,report_name):
         # 操作期限
@@ -126,9 +134,14 @@ class Finacial_Data:
             self.openpage.driver.find_element_by_name('first_startup_time').send_keys(self.openpage.get_time())
             self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '开始时间', '操作输出', 0, "功能正常")
         except Exception as e:
-            S_txt = '{}__进入开始时间:'.format(report_name) + str(e)
-            self.openpage.write_error_excel(S_txt)
-            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '开始时间', '操作输出', 1, S_txt)
+
+            try:
+                self.openpage.driver.find_element_by_name('startup_time').send_keys(self.openpage.get_time())
+                self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '开始时间', '操作输出', 0, "功能正常")
+            except Exception as e1:
+                    S_txt = '{}__进入开始时间:'.format(report_name) + str(e1)
+                    self.openpage.write_error_excel(S_txt)
+                    self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '开始时间', '操作输出', 1, S_txt)
 
     def excetue_message(self, count, RESOURCE_ID_name1,report_name):
         try:
@@ -168,9 +181,13 @@ class Finacial_Data:
             self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '数据日期', '操作输出', 0,
                                             "功能正常")
         except Exception as e:
-            S_txt = '{}__进入数据日期:'.format(report_name) + str(e)
-            self.openpage.write_error_excel(S_txt)
-            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '数据日期', '操作输出', 1, S_txt)
+            try:
+                self.openpage.driver.find_element_by_name('data_date').send_keys(self.openpage.get_time())
+                self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '数据日期', '操作输出', 0, "功能正常")
+            except Exception as e:
+                S_txt = '{}__进入数据日期:'.format(report_name) + str(e)
+                self.openpage.write_error_excel(S_txt)
+                self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '数据日期', '操作输出', 1, S_txt)
 
     def chioce_flow(self,count, RESOURCE_ID_name1,report_name):
         try:
@@ -303,91 +320,150 @@ class Finacial_Data:
             S_txt = '{}__进入取消按钮:'.format(report_name) + str(e)
             self.openpage.write_error_excel(S_txt)
             self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '取消按钮', '操作输出', 1, S_txt)
-
-    def send_management(self):
-        RESOURCE_main = 'businessServices'
-        report_name1 = "填报管理"
-        count1= 1
+    def creat_detail_list(self,count, RESOURCE_ID_name1, report_name):
         try:
-            count = 1
-            RESOURCE_ID_name1 = "businessServices_04"
-            RESOURCE_ID = "TB_0401"
-            report_name ="填报模板"
-
-            try:
-                self.openpage.fist_iframe(1, '//*[@class="panel panel-htop"]/div/div/iframe')
-                self.openpage.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
-                                             '//*[@class="x-panel-body x-panel-body-noheader x-panel-body-noborder"]/iframe')
-            except Exception as e:
-                S_txt = '{}__进入iframe层:'.format(report_name) + str(e)
-                self.openpage.write_error_excel(S_txt)
-                self.openpage.write_error_mysql(count, RESOURCE_ID, report_name, '进入iframe层', '操作输出', 1, S_txt)
-            self.task_name_main(count, RESOURCE_ID_name1, report_name)
-            self.openpage.all_check_button(count, RESOURCE_ID_name1, report_name)
-            self.pindu_status(count, RESOURCE_ID_name1, report_name)
-            # 创建任务
-            self.create_task(count, RESOURCE_ID_name1, report_name)
-            # 创建频度
-            self.create_pindu(count, RESOURCE_ID_name1, report_name)
-            # 创建执行
-            self.create_execute(count, RESOURCE_ID_name1, report_name)
-            # 创建主题
-            self.create_main_report(count, RESOURCE_ID_name1, report_name)
-            # 启动时间
-            self.start_date(count, RESOURCE_ID_name1, report_name)
-            # 完成期限
-            self.need_date(count, RESOURCE_ID_name1,report_name)
-            self.excetue_message(count, RESOURCE_ID_name1,report_name)
-            self.isor_and_false(count, RESOURCE_ID_name1,report_name)
-            # 数据日期
-            self.data_date(count, RESOURCE_ID_name1,report_name)
-            # 选择流程
-            self.chioce_flow(count, RESOURCE_ID_name1,report_name)
-            # 项目描述
-            self.task_description(count, RESOURCE_ID_name1,report_name)
-            self.data_source(count, RESOURCE_ID_name1,report_name)
-            self.report_code_name(count, RESOURCE_ID_name1, report_name)
-            self.check_result_button(count, RESOURCE_ID_name1,report_name)
-            # self.cancel_button(count, RESOURCE_ID_name1, report_name)
-            self.save_button(count, RESOURCE_ID_name1, report_name)
-            time.sleep(2)
-            self.openpage.driver.switch_to.default_content()
-            self.openpage.write_error_mysql(count1, RESOURCE_main, report_name1, '进入iframe层', '操作输出', 0, "功能正常")
-            count += 1
+            ls = self.openpage.driver.find_elements_by_xpath('//*[@class=" x-panel x-grid-panel x-border-panel"]//div[@class="x-grid3-scroller"]/div/div')
+            if len(ls)>=0:
+                for x in ls:
+                    x.click()
+                    ls0 = self.openpage.driver.find_elements_by_xpath('//*[@class="x-panel-body x-panel-body-noheader x-border-layout-ct"]//div[@class="x-grid3-body"]')
+                    if len(ls0)>=0:
+                        for y in ls0:
+                            print(y.text)
+                            time.sleep(1)
+                            y.click()
+                    return
         except Exception as e:
-            S_txt = '{}__进入iframe层:'.format(report_name1) + str(e)
+            S_txt = '{}__进入取消按钮:'.format(report_name) + str(e)
             self.openpage.write_error_excel(S_txt)
-            self.openpage.write_error_mysql(count1, RESOURCE_main, report_name1, '进入iframe层', '操作输出', 1, S_txt)
-        count1 +=1
-    def send_message_task(self,count1, RESOURCE_main, report_name1):
-        count = 1
-        RESOURCE_ID_name1 = "ces"
-        self.openpage.fist_iframe(2, '//*[@class="panel panel-htop"]/div/div/iframe')
-        self.openpage.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
-                                     '//*[@class="x-tab-panel-body x-tab-panel-body-top"]/div[2]//div/iframe')
-        self.task_name_main(count1, RESOURCE_main, report_name1)
-        self.pindu_status(count1, RESOURCE_main, report_name1)
-        self.openpage.all_check_button(count1, RESOURCE_main, report_name1)
-        self.create_task(count1, RESOURCE_main, report_name1)
-        self.need_date(count1, RESOURCE_main, report_name1)
-        self.isor_and_false(count1, RESOURCE_main, report_name1)
-        self.create_main_report(count1, RESOURCE_main, report_name1)
-        self.save_button()
-        # self.cancel_button()
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '取消按钮', '操作输出', 1, S_txt)
 
-    def four_report_messages(self):
-        self.send_management()
-        # self.send_message_task()
+    def amend_task(self,count, RESOURCE_ID_name1, report_name):
+        # 修改任务
+        try:
+            ls = self.openpage.driver.find_elements_by_xpath('//*[@class=" x-panel x-grid-panel x-border-panel"]//div[@class="x-grid3-scroller"]/div/div')
+            if len(ls)>=0:
+                for x in ls:
+                    x.click()
+                    ls = self.check_result(count, RESOURCE_ID_name1, report_name)
+                    for i in ls:
+                        if i.text == "修改任务":
+                            i.click()
+                            self.cancel_button(count, RESOURCE_ID_name1, report_name)
+                            # self.save_button(count, RESOURCE_ID_name1, report_name)
+                            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '取消按钮', '操作输出', 0,"功能正常")
+                    return
+        except Exception as e:
+            S_txt = '{}__进入修改任务:'.format(report_name) + str(e)
+            self.openpage.write_error_excel(S_txt)
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '修改任务', '操作输出', 1, S_txt)
+    def delete_task_is_and_false(self,count, RESOURCE_ID_name1, report_name):
+        try:
+            ls = self.openpage.driver.find_elements_by_xpath('//*[@class="x-panel-fbar x-small-editor x-toolbar-layout-ct"]//button')
+            for i in ls:
+                s = i.text
+                str1 = s.strip()
+                print(str1)
+                if str1 == "否":
+                    i.click()
+                    self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '删除任务_是否', '操作输出', 0, "功能正常")
+        except Exception as e:
+            S_txt = '{}__进入是否删除:'.format(report_name) + str(e)
+            self.openpage.write_error_excel(S_txt)
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '删除任务_是否', '操作输出', 1, S_txt)
 
-    def start_test(self):
-        self.openpage.open_page()
-        self.openpage.first_supervise(4, 3, 4)
-        self.four_report_messages()
+    def delete_task(self,count, RESOURCE_ID_name1, report_name):
+        # 删除任务
+        try:
+            ls = self.openpage.driver.find_elements_by_xpath('//*[@class=" x-panel x-grid-panel x-border-panel"]//div[@class="x-grid3-scroller"]/div/div')
+            if len(ls)>=0:
+                for x in ls:
+                    # print(x.text)
+                    x.click()
+                    ls = self.check_result(count, RESOURCE_ID_name1, report_name)
+                    for i in ls:
+                        if i.text == "删除任务":
+                            i.click()
+                            time.sleep(1)
+                            self.delete_task_is_and_false(count, RESOURCE_ID_name1, report_name)
+                            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '修改任务', '操作输出', 0,"功能正常")
+                    return
+        except Exception as e:
+            S_txt = '{}__进入修改任务:'.format(report_name) + str(e)
+            self.openpage.write_error_excel(S_txt)
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '修改任务', '操作输出', 1, S_txt)
+    def task_start_time(self,count, RESOURCE_ID_name1, report_name):
+        try:
+            self.openpage.driver.find_element_by_name('startDataDate').send_keys(self.openpage.get_time())
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '启动任务__数据时间', '操作输出', 0, "功能正常")
+            ls = self.openpage.driver.find_elements_by_xpath('//*[@class="x-panel-fbar x-small-editor x-toolbar-layout-ct"]//button')
+            print(ls)
+            for x in ls:
+                print(x.text)
+                s = x.text
+                str1 = s.strip()
+                print(str1)
+                if str1 =="取消":
+                    x.click()
+                    self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '启动任务__数据时间', '操作输出', 0, "功能正常")
+        except Exception as e:
+            S_txt = '{}__进入启动任务数据时间:'.format(report_name) + str(e)
+            self.openpage.write_error_excel(S_txt)
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '启动任务__数据时间', '操作输出', 1, S_txt)
+    def create_person(self,count, RESOURCE_ID_name1, report_name):
+        # 创建人
+        try:
+            self.openpage.driver.find_element_by_name('username').send_keys('czz')
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '创建人', '操作输出', 0, "功能正常")
+        except Exception as e:
+            S_txt = '{}__进入创建人:'.format(report_name) + str(e)
+            self.openpage.write_error_excel(S_txt)
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '创建人', '操作输出', 1, S_txt)
 
-    def main(self):
-        self.start_test()
+    def task_start(self,count, RESOURCE_ID_name1, report_name):
+        # 任务启动
+        try:
+            ls = self.openpage.driver.find_elements_by_xpath('//*[@class=" x-panel x-grid-panel x-border-panel"]//div[@class="x-grid3-scroller"]/div/div')
+            if len(ls)>=0:
+                for x in ls:
+                    # print(x.text)
+                    x.click()
+                    ls = self.check_result(count, RESOURCE_ID_name1, report_name)
+                    for i in ls:
+                        if i.text == "任务启动":
+                            i.click()
+                            time.sleep(1)
+                            self.task_start_time(count, RESOURCE_ID_name1, report_name)
+                            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '启动任务', '操作输出', 0,"功能正常")
+                    return
+        except Exception as e:
+            S_txt = '{}__进入启动任务:'.format(report_name) + str(e)
+            self.openpage.write_error_excel(S_txt)
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '启动任务', '操作输出', 1, S_txt)
+
+    def Task_to_cancel(self, count, RESOURCE_ID_name1, report_name):
+        # 任务撤销
+        try:
+            ls = self.openpage.driver.find_elements_by_xpath(
+                '//*[@class=" x-panel x-grid-panel x-border-panel"]//div[@class="x-grid3-scroller"]/div/div')
+            if len(ls) >= 0:
+                for x in ls:
+                    # print(x.text)
+                    x.click()
+                    ls = self.check_result(count, RESOURCE_ID_name1, report_name)
+                    for i in ls:
+                        if i.text == "任务撤销":
+                            i.click()
+                            time.sleep(1)
+                            self.delete_task_is_and_false(count, RESOURCE_ID_name1, report_name)
+                            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '任务撤销', '操作输出', 0, "功能正常")
+                    return
+        except Exception as e:
+            S_txt = '{}__进入任务撤销:'.format(report_name) + str(e)
+            self.openpage.write_error_excel(S_txt)
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '任务撤销', '操作输出', 1, S_txt)
 
 
 if __name__ == "__main__":
     test = Finacial_Data()
-    test.main()
+    # test.main()
