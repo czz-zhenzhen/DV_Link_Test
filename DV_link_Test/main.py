@@ -160,7 +160,7 @@ class TestSystem():
         try:
             ls = self.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
             for o in ls:
-                if o.text in ["填报机构:", "机构:", "报送机构:"]:
+                if o.text in ["填报机构:", "机构:", "报送机构:","管理机构:","管理机构*:"]:
                     o.click()
             self.onlink_img()
             city_name = self.driver.find_elements_by_xpath(
@@ -185,14 +185,6 @@ class TestSystem():
             else:
                 self.write_error_excel(S_txt)
                 self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '点击', '机构管理', 1, S_txt)
-    def save_butom(self, elem):
-        elems = str(elem)
-        time.sleep(1)
-        try:
-            self.driver.find_element_by_xpath(elems).click()
-        except Exception as e:
-            S_txt = '报送管理_创建任务_保存按钮:' + str(e)
-            self.write_error_excel(S_txt)
 
     def fist_iframe(self, num, elem):
         # 第一个功能进入iframe层
@@ -203,6 +195,47 @@ class TestSystem():
             '/html/body/div[1]/div[1]/div[1]/ul/li[%s]/a[2]/em/span/span' % str(num)).click()
         self.driver.switch_to.default_content()
 
+    def save_button(self, count, RESOURCE_ID_name1, report_name):
+        # 保存按钮
+        try:
+            ls = self.driver.find_elements_by_xpath('//*[@class="x-window-footer x-panel-btns"]//button')
+            for x in ls:
+                if x.text == "保存":
+                    x.click()
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '保存按钮', '操作输出', 0, "功能正常")
+            time.sleep(3)
+        except Exception as e:
+            S_txt = '{}__进入保存按钮:'.format(report_name) + str(e)
+            self.write_error_excel(S_txt)
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '保存按钮', '操作输出', 1, S_txt)
+            time.sleep(3)
+
+    def cancel_button(self, count, RESOURCE_ID_name1, report_name):
+        # 取消按钮
+        try:
+            ls = self.driver.find_elements_by_xpath('//*[@class="x-window-footer x-panel-btns"]//button')
+            for x in ls:
+                if x.text == "取消":
+                    x.click()
+                    self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '取消按钮', '操作输出', 0, "功能正常")
+        except Exception as e:
+            S_txt = '{}__进入取消按钮:'.format(report_name) + str(e)
+            self.write_error_excel(S_txt)
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '取消按钮', '操作输出', 1, S_txt)
+    def delete_task_is_and_false(self, count, RESOURCE_ID_name1, report_name):
+        try:
+            ls = self.driver.find_elements_by_xpath(
+                '//*[@class="x-panel-fbar x-small-editor x-toolbar-layout-ct"]//button')
+            for i in ls:
+                s = i.text
+                str1 = s.strip()
+                if str1 == "否":
+                    i.click()
+                    self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '删除任务_是否', '操作输出', 0, "功能正常")
+        except Exception as e:
+            S_txt = '{}__进入是否删除:'.format(report_name) + str(e)
+            self.write_error_excel(S_txt)
+            self.write_error_mysql(count, RESOURCE_ID_name1, report_name, '删除任务_是否', '操作输出', 1, S_txt)
     def sencond_iframe(self, elem1, elem2):
         elems1 = str(elem1)
         elems2 = str(elem2)
@@ -447,8 +480,6 @@ class TestSystem():
             self.write_error_mysql(count, RESOURCE_ID_name1, '监管报送系', '获取列表', '查询按钮', 1, S_txt)
     def input_date(self):
         self.driver.find_element_by_name('data_date').send_keys(self.get_time())
-
-
 
     def write_error_excel(self, text):
         time_str2 = time.strftime('%Y-%m-%d:%H:%M', time.localtime())

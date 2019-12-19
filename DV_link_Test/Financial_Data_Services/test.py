@@ -1,26 +1,26 @@
 from DV_link_Test.main import *
 import random
-class Test:
-    def __init__(self):
-        self.open = TestSystem()
-
-    def test(self):
-        self.open.first_supervise(1, 2, 1)
-        self.open.fist_iframe(1, '//*[@class="panel panel-htop"]/div/div/iframe')
-        self.open.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
-                            '/html/body/div[1]/div[2]/div/div[1]/div/div/iframe')
-        self.open.task_name()
-        ls = self.open.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
-        for y in ls:
-            if y.text == "任务状态:":
-                y.click()
-        lis = self.open.driver.find_elements_by_xpath('//div[@class="x-combo-list-inner"]/div')
-        for x in lis:
-            if x.text=="报表代码:":
-                x.click()
-        for o in ls:
-            if o.text in ["填报机构:","机构:" ,"报送机构:"]:
-                o.click()
+# class Test:
+#     def __init__(self):
+#         self.open = TestSystem()
+#
+#     def test(self):
+#         self.open.first_supervise(1, 2, 1)
+#         self.open.fist_iframe(1, '//*[@class="panel panel-htop"]/div/div/iframe')
+#         self.open.sencond_iframe('//*[@class="panel panel-htop"]/div/div/iframe',
+#                             '/html/body/div[1]/div[2]/div/div[1]/div/div/iframe')
+#         self.open.task_name()
+#         ls = self.open.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
+#         for y in ls:
+#             if y.text == "任务状态:":
+#                 y.click()
+#         lis = self.open.driver.find_elements_by_xpath('//div[@class="x-combo-list-inner"]/div')
+#         for x in lis:
+#             if x.text=="报表代码:":
+#                 x.click()
+#         for o in ls:
+#             if o.text in ["填报机构:","机构:" ,"报送机构:"]:
+#                 o.click()
         # time.sleep(2)
         # city_name = self.open.driver.find_elements_by_xpath('//div[@class="x-tree-node-el x-unselectable x-tree-node-collapsed"]//span/img')
         # self.open.driver.find_element_by_xpath('//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]').click()
@@ -36,39 +36,39 @@ class Test:
         #     on_link = list_name[length_num]
         #     if c.text==on_link:
         #         c.click()
-        td_list = self.open.driver.find_elements_by_xpath('//*[@id="mainPanel"]//div[@class="x-grid3-body"]/div')
-        ls01 = []
-        length_list = len(td_list)
-        # 获取列表
-        if length_list > 0:
-            for t in td_list:
-                t.click()
-                s = t.text
-                ls01.append(s)
-                # 获取详细
-                ts_list = self.open.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-body"]/div')
-                time.sleep(2)
-                length_ts = len(ts_list)
-                # 点击查看
-                if length_ts>0:
-                    for p in ts_list:
-                        p.click()
-                        onlink = self.open.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-cell-inner x-grid3-col-3"]/a')
-                        for lin in onlink:
-                            lin.click()
-                            self.open.report_detail(1,2)
-                            return
-
-    def main_test(self):
-        self.open.open_page()
-        self.test()
-
-
-if __name__ == "__main__":
-    test = Test()
-    test.main_test()
-
-
+#         td_list = self.open.driver.find_elements_by_xpath('//*[@id="mainPanel"]//div[@class="x-grid3-body"]/div')
+#         ls01 = []
+#         length_list = len(td_list)
+#         # 获取列表
+#         if length_list > 0:
+#             for t in td_list:
+#                 t.click()
+#                 s = t.text
+#                 ls01.append(s)
+#                 # 获取详细
+#                 ts_list = self.open.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-body"]/div')
+#                 time.sleep(2)
+#                 length_ts = len(ts_list)
+#                 # 点击查看
+#                 if length_ts>0:
+#                     for p in ts_list:
+#                         p.click()
+#                         onlink = self.open.driver.find_elements_by_xpath('//*[@id="report_list"]//div[@class="x-grid3-cell-inner x-grid3-col-3"]/a')
+#                         for lin in onlink:
+#                             lin.click()
+#                             self.open.report_detail(1,2)
+#                             return
+#
+#     def main_test(self):
+#         self.open.open_page()
+#         self.test()
+#
+#
+# if __name__ == "__main__":
+#     test = Test()
+#     test.main_test()
+#
+#
 
 
 
@@ -95,20 +95,36 @@ from email.header import Header
 from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 #
-# import pymysql
-# import time
-# today_time = time.strftime('%Y-%m-%d', time.localtime(time.time()))
-# db = pymysql.connect('101.201.73.80', 'dvlink', 'Lrdata_2019', db='dvlink')
-# cursor = db.cursor()
-# # sql_date  = "SELECT B.PARENT_RESOURCE_ID,B.PARENT_RESOURCE_NAME,COUNT(A.LOG_ID) AS ZS,COUNT(CASE WHEN A.OP_STATUS = 0 THEN A.LOG_ID END) AS CG,COUNT(CASE WHEN A.OP_STATUS = 1 THEN A.LOG_ID END) AS SB,COUNT(CASE WHEN A.OP_STATUS = 2 THEN A.LOG_ID END) AS CS FROM ATT_LOG A INNER JOIN mmc_sys_resource_info_relation B ON A.RESOURCE_ID = B.RESOURCE_ID WHERE B.PARENT_RESOURCE_ID IN('analyse','platform','report','super') AND STR_TO_DATE('{}','%Y-%m-%d') BETWEEN DATE(A.START_DATE) AND DATE(A.END_DATE) AND SEQ_ID = 1 GROUP BY B.PARENT_RESOURCE_ID".format(today_time)
+import pymysql
+import time
+today_time = time.strftime('%Y-%m-%d', time.localtime(time.time()))
+db = pymysql.connect('101.201.73.80', 'dvlink', 'Lrdata_2019', db='dvlink')
+cursor = db.cursor()
+sql_date  = "SELECT B.PARENT_RESOURCE_ID,B.PARENT_RESOURCE_NAME,COUNT(A.LOG_ID) AS ZS,COUNT(CASE WHEN A.OP_STATUS = 0 THEN A.LOG_ID END) AS CG,COUNT(CASE WHEN A.OP_STATUS = 1 THEN A.LOG_ID END) AS SB,COUNT(CASE WHEN A.OP_STATUS = 2 THEN A.LOG_ID END) AS CS FROM ATT_LOG A INNER JOIN mmc_sys_resource_info_relation B ON A.RESOURCE_ID = B.RESOURCE_ID WHERE B.PARENT_RESOURCE_ID IN('analyse','platform','report','super') AND STR_TO_DATE('2019-12-16','%Y-%m-%d') BETWEEN DATE(A.START_DATE) AND DATE(A.END_DATE) AND SEQ_ID = 1 GROUP BY B.PARENT_RESOURCE_ID"
 # sql_date = """select * from ATT_LOG WHERE START_DATE BETWEEN '%s' AND '%s' """ % ('2019-12-3', '2019-12-4')
-# cursor.execute(sql_date)
-# ls = cursor.fetchall()
-# for x in ls:
-#     print(x)
-# print(ls[0][1])
-# print(ls[1][1])
-# print(ls)
+cursor.execute(sql_date)
+ls = cursor.fetchall()
+for x in ls:
+    print(x)
+    with open("/DV_link/DV_link_Test/Financial_Data_Services/test001.xls", 'w')as f:
+        workbook = xlwt.Workbook(encoding='utf-8')
+        worksheet = workbook.add_sheet('汇总')
+        worksheet02 = workbook.add_sheet('测试详细')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
