@@ -41,9 +41,6 @@ class User_managements:
             self.users.user_model.write_error_excel(S_txt)
             self.users.user_model.write_error_mysql(count, RESOURCE, report_name, '用户服务_菜单管理', '操作输出', 1,S_txt)
         count += 1
-        self.users.user_model.return_page()
-        time.sleep(2)
-
     def role_management_test(self):
         count = 1
         RESOURCE_ID_main = "userServices"
@@ -51,7 +48,7 @@ class User_managements:
         RESOURCE = "platform"
         report_name = "角色管理"
         try:
-            self.users.user_model.open_page()
+            # self.users.user_model.open_page()
             # 角色管理
             self.users.user_model.first_supervise(4, 2, 2)
             try:
@@ -81,8 +78,6 @@ class User_managements:
             self.users.user_model.write_error_excel(S_txt)
             self.users.user_model.write_error_mysql(count, RESOURCE, report_name, '用户服务_角色管理', '操作输出', 1,S_txt)
         count += 1
-        self.users.user_model.return_page()
-        time.sleep(2)
     def user_management_test(self):
         count = 1
         RESOURCE_ID_main = "userServices"
@@ -90,7 +85,7 @@ class User_managements:
         RESOURCE = "platform"
         report_name = "用户管理"
         try:
-            self.users.user_model.open_page()
+            # self.users.user_model.open_page()
             # 角色管理
             self.users.user_model.first_supervise(4, 2, 3)
             try:
@@ -140,7 +135,11 @@ class User_managements:
 
     def main(self):
         self.menu_management_test()
+        self.users.user_model.driver.refresh()
+        time.sleep(2)
         self.role_management_test()
+        self.users.user_model.driver.refresh()
+        time.sleep(2)
         self.user_management_test()
 
 

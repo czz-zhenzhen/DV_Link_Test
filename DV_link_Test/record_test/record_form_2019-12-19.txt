@@ -1,0 +1,320 @@
+2019-12-19:09:09
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:09:11
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:09:11
+填报任务__进入iframe层:Message: element click intercepted: Element <table id="searchKey0" cellspacing="0" class="x-btn x-btn-text-icon x-column" style="width: 57px; margin-right: 10px;">...</table> is not clickable at point (452, 45). Other element would receive the click: <span class="x-panel-header-text" id="ext-gen185">...</span>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:11:22
+菜单管理__进入菜单管理_菜单资源:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/resource.htm?menuId=userServices_01" frameborder="0" height="100%" width="100%" cd_frame_id_="07a9de275a80f26a2bf20a45d0d1ced6"></iframe> is not clickable at point (150, 195). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0198532;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:11:22
+菜单管理__进入金融数据中台:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_id"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:09
+菜单管理__进入菜单管理_菜单资源:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/resource.htm?menuId=userServices_01" frameborder="0" height="100%" width="100%" cd_frame_id_="c188696605fd4c868fe0e713f3090330"></iframe> is not clickable at point (150, 195). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0509862;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:10
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:10
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:11
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:11
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:18
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:20
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:20
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:21
+菜单管理__进入菜单管理_菜单资源:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/resource.htm?menuId=userServices_01" frameborder="0" height="100%" width="100%" cd_frame_id_="6cd493f53cdd97896871d0ff1d7fbdab"></iframe> is not clickable at point (150, 195). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0198532;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:22
+菜单管理__进入菜单管理_菜单资源:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/resource.htm?menuId=userServices_01" frameborder="0" height="100%" width="100%" cd_frame_id_="952d3fc062a7554444880a27eb5b607b"></iframe> is not clickable at point (150, 195). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0120416;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:22
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:24
+菜单管理__进入菜单管理_菜单资源:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/resource.htm?menuId=userServices_01" frameborder="0" height="100%" width="100%" cd_frame_id_="e38c5602a35e7fa2dbd08a330ea5009d"></iframe> is not clickable at point (150, 195). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0157084;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:24
+菜单管理__进入菜单管理_菜单资源:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/resource.htm?menuId=userServices_01" frameborder="0" height="100%" width="100%" cd_frame_id_="328590cd44caec620d5c5a235ff4cc08"></iframe> is not clickable at point (150, 195). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.109785;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:25
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:28
+菜单管理__进入菜单管理_菜单资源:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/resource.htm?menuId=userServices_01" frameborder="0" height="100%" width="100%" cd_frame_id_="87c15473d8542931b1252bd26a063ecd"></iframe> is not clickable at point (150, 195). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0411227;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:28
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:28
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:37
+菜单管理__进入菜单管理_菜单资源:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/resource.htm?menuId=userServices_01" frameborder="0" height="100%" width="100%" cd_frame_id_="3711bcb86af965934e165e9e2814d792"></iframe> is not clickable at point (150, 195). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0198532;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:38
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:38
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:49
+菜单管理__进入菜单管理_菜单资源:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/resource.htm?menuId=userServices_01" frameborder="0" height="100%" width="100%" cd_frame_id_="ac899599a0b28600d262d5007316d5ea"></iframe> is not clickable at point (150, 195). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0544967;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:49
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:49
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:50
+菜单管理__进入菜单管理_菜单资源:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/resource.htm?menuId=userServices_01" frameborder="0" height="100%" width="100%" cd_frame_id_="eaf37695e04bdeb5670f55ee7e751e29"></iframe> is not clickable at point (150, 195). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0120416;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:50
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:53
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:56
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:12:59
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:14:01
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:14:28
+角色管理__进入角色管理:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:14:28
+角色管理__进入金融数据中台:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:14:28
+角色管理__进入金融数据中台:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:14:28
+角色管理__进入菜单管理_添加:'NoneType' object is not iterable2019-12-19:14:28
+角色管理__进入金融数据中台:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:14:28
+角色管理__进入金融数据中台:Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:15:01
+角色管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:15:01
+角色管理__进入用户服务:delete_task_is_and_false() missing 3 required positional arguments: 'count', 'RESOURCE_ID_name1', and 'report_name'2019-12-19:15:03
+角色管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:15:12
+用户管理__进入用户管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mainTab_userServices_03"]/div/iframe"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:15:12
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:15:13
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:15:35
+用户管理__进入用户管理:Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="x-panel-body x-panel-body-noborder]//[@class="x-grid3-body"]/div because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="x-panel-body x-panel-body-noborder]//[@class="x-grid3-body"]/div' is not a valid XPath expression.
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:15:36
+用户管理__进入用户管理:Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="x-panel-body x-panel-body-noborder]//[@class="x-grid3-body"]/div because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="x-panel-body x-panel-body-noborder]//[@class="x-grid3-body"]/div' is not a valid XPath expression.
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:15:37
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="b82d676ce9b4797cbda7228ab66665f1"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.000555063;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:15:39
+用户管理__进入用户管理:Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="x-panel-body x-panel-body-noborder]//[@class="x-grid3-body"]/div because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="x-panel-body x-panel-body-noborder]//[@class="x-grid3-body"]/div' is not a valid XPath expression.
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:15:40
+机构__机构管理:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class="x-menu x-menu-floating x-layer"]/ul/li/div/div/div/ul/li/ul/li[2]/div/img[1]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:03
+用户管理__进入用户管理:Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="x-panel-body x-panel-body-noborder]//div[@class="x-grid3-body"]/div because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="x-panel-body x-panel-body-noborder]//div[@class="x-grid3-body"]/div' is not a valid XPath expression.
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:04
+用户管理__进入用户管理:Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="x-panel-body x-panel-body-noborder]//div because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="x-panel-body x-panel-body-noborder]//div' is not a valid XPath expression.
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:08
+用户管理__进入用户管理:Message: invalid selector: Unable to locate an element with the xpath expression //*[@class="x-panel-body x-panel-body-noborder]//div because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@class="x-panel-body x-panel-body-noborder]//div' is not a valid XPath expression.
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:11
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="0a942b44eb5922ea1760197bed29a384"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0442984;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:16
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="1780f992897e2870e572b809dcbbbfe6"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0157084;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:17
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="be8a8c1340ef0920e1474a6b149312d7"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.00024672;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:27
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="6b6c2e141f66a2c88cf097087e009024"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 6.16838e-05;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:29
+用户管理__进入用户管理:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:34
+机构__机构管理:Message: element click intercepted: Element <div id="ext-comp-1019" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 339px;">...</div> is not clickable at point (173, 46). Other element would receive the click: <div class="ext-el-mask" id="ext-gen174" style="display: block; width: 1366px; height: 529px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:36
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="d0606acad262e0a924d36fa8f4810b0a"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.000555063;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:36
+机构__机构管理:Message: element click intercepted: Element <div id="ext-comp-1019" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 339px;">...</div> is not clickable at point (173, 46). Other element would receive the click: <div class="ext-el-mask" id="ext-gen158" style="display: block; width: 1366px; height: 529px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:37
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:16:37
+机构__机构管理:Message: element click intercepted: Element <div id="ext-comp-1019" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 339px;">...</div> is not clickable at point (173, 46). Other element would receive the click: <div class="ext-el-mask" id="ext-gen171" style="display: block; width: 1366px; height: 529px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:16:43
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:16:46
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:16:51
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:16:52
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:16:58
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:01
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="daca1cecd29f8f56ba9892849eca08a3"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0120416;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:01
+机构__机构管理:Message: element click intercepted: Element <div id="ext-comp-1019" class=" x-panel x-panel-noborder x-form-label-left x-column" style="width: 339px;">...</div> is not clickable at point (173, 46). Other element would receive the click: <div class="ext-el-mask" id="ext-gen158" style="display: block; width: 1366px; height: 529px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:06
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:08
+用户管理__进入用户管理:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:09
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:10
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:11
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="1fefcb0a5593d9a1f34a36191a170baa"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0244717;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:16
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:19
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:21
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="4b1f5faa42b67f515780d2b2362b2df0"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.013815;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:22
+用户管理__进入用户管理:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:23
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:25
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:25
+用户管理__进入菜单管理_编辑:Message: element click intercepted: Element <button type="button" id="ext-gen44" class=" x-btn-text edit">...</button> is not clickable at point (96, 115). Other element would receive the click: <div class="ext-el-mask" id="ext-gen171" style="display: block; width: 1366px; height: 529px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:26
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:26
+用户管理__进入用户管理:list index out of range2019-12-19:17:30
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="6c6c6a45d0fbe45fbe49e48dc4c42969"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0103886;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:32
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:32
+用户管理__进入用户管理:Message: element click intercepted: Element <div class="x-grid3-row  x-grid3-row-first" style="width:1041px;">...</div> is not clickable at point (520, 167). Other element would receive the click: <div class="x-panel-body x-panel-body-noheader x-panel-body-noborder" id="ext-gen183" style="width: 309px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:32
+用户管理__进入菜单管理_编辑:Message: element click intercepted: Element <button type="button" id="ext-gen44" class=" x-btn-text edit">...</button> is not clickable at point (96, 115). Other element would receive the click: <div class="ext-el-mask" id="ext-gen171" style="display: block; width: 1366px; height: 529px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:36
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:36
+用户管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:41
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:41
+用户管理__进入用户管理:Message: element click intercepted: Element <div class="x-grid3-row  x-grid3-row-first" style="width:1041px;">...</div> is not clickable at point (520, 167). Other element would receive the click: <div class="x-panel-body x-panel-body-noheader x-panel-body-noborder" id="ext-gen183" style="width: 309px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:41
+用户管理__进入菜单管理_编辑:Message: element click intercepted: Element <button type="button" id="ext-gen44" class=" x-btn-text edit">...</button> is not clickable at point (96, 115). Other element would receive the click: <div class="ext-el-mask" id="ext-gen171" style="display: block; width: 1366px; height: 529px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:41
+用户管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:42
+用户管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:43
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:44
+用户管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:44
+用户管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:49
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="5dd9c5bf21a0a34652c99d91c2178896"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.0103886;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:49
+用户管理__进入用户管理:Message: element click intercepted: Element <div class="x-grid3-row  x-grid3-row-first" style="width:1041px;">...</div> is not clickable at point (520, 167). Other element would receive the click: <div class="x-panel-body x-panel-body-noheader x-panel-body-noborder" id="ext-gen170" style="width: 309px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:49
+用户管理__进入菜单管理_编辑:Message: element click intercepted: Element <button type="button" id="ext-gen44" class=" x-btn-text edit">...</button> is not clickable at point (96, 115). Other element would receive the click: <div class="ext-el-mask" id="ext-gen158" style="display: block; width: 1366px; height: 529px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:50
+用户管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:52
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:52
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:52
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:53
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:53
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:54
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:54
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:54
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:55
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:55
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:55
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:56
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:56
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:57
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:57
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-19:17:58
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:58
+角色管理__进入用户服务:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:58
+用户管理__进入用户管理:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:59
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:59
+角色管理__进入用户服务:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:17:59
+用户管理__进入用户管理:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:18:01
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:18:01
+角色管理__进入用户服务:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-19:18:02
+用户管理__进入用户管理:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=78.0.3904.87)

@@ -1,0 +1,145 @@
+2019-12-18:09:14
+填报任务__进入iframe层:Message: element click intercepted: Element <table id="searchKey0" cellspacing="0" class="x-btn x-btn-text-icon x-column" style="width: 57px; margin-right: 10px;">...</table> is not clickable at point (452, 45). Other element would receive the click: <span class="x-panel-header-text" id="ext-gen185">...</span>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:09:59
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:00
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:00
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen265" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:00
+报表填表_关闭按钮:'WebElement' object is not iterable2019-12-18:10:00
+监管报送系统__获取列表:Message: element click intercepted: Element <div class="x-grid3-row " style="width:500px;">...</div> is not clickable at point (1156, 166). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="d2d09013cfe9769cfd169a29fb647105"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:15
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:16
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:16
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen265" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:16
+报表填表_关闭按钮:'WebElement' object is not iterable2019-12-18:10:16
+监管报送系统__获取列表:Message: element click intercepted: Element <div class="x-grid3-row " style="width:500px;">...</div> is not clickable at point (1156, 166). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="0f28f2ff62e9ccc4c0c5c1249ce38e25"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:19
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:19
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:19
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen267" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:19
+报表填表_关闭按钮:'WebElement' object is not iterable2019-12-18:10:19
+监管报送系统__获取列表:Message: element click intercepted: Element <div class="x-grid3-row " style="width:500px;">...</div> is not clickable at point (1156, 166). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="fdbc4751489891492afa7f0fefdad1df"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:29
+填报任务__进入报表主题:list index out of range2019-12-18:10:30
+填报任务__进入iframe层:Message: element click intercepted: Element <div class="x-form-item " tabindex="-1" id="ext-gen238">...</div> is not clickable at point (826, 118). Other element would receive the click: <span unselectable="on" qtip="...">报表分类</span>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:35
+填报任务__进入iframe层:Message: element click intercepted: Element <table id="searchKey0" cellspacing="0" class="x-btn x-btn-text-icon x-column" style="width: 57px; margin-right: 10px;">...</table> is not clickable at point (452, 45). Other element would receive the click: <span class="x-panel-header-text" id="ext-gen185">...</span>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:36
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:37
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:37
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen266" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:37
+报表填表_关闭按钮:'WebElement' object is not iterable2019-12-18:10:37
+监管报送系统__获取列表:Message: element click intercepted: Element <div class="x-grid3-row " style="width:500px;">...</div> is not clickable at point (1156, 166). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="7ecf2efa906cc56822fb3d54116f510c"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:41
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:41
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:42
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:43
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:44
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:45
+监管报送系统__获取列表:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="c-message "]/div/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:45
+报表填报__填报__返回确认按钮:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen3"]/div[12]/a"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:45
+报表填报__填报__计算公式:Message: element click intercepted: Element <button type="button" id="ext-gen201" class=" x-btn-text importdata">...</button> is not clickable at point (894, 23). Other element would receive the click: <div class="ext-el-mask" id="ext-gen265" style="display: block; width: 1364px; height: 509px; z-index: 9010;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:10:45
+报表填表_关闭按钮:'WebElement' object is not iterable2019-12-18:10:45
+监管报送系统__获取列表:Message: element click intercepted: Element <div class="x-grid3-row " style="width:500px;">...</div> is not clickable at point (1156, 166). Other element would receive the click: <iframe id="showDataI" name="showDataN" src="reportExt.jsp?edit=1&amp;query=0" frameborder="0" style="width:100%;height:100%;background-color:#fff;overflow:auto;" cd_frame_id_="701173a5441a1370df065ee7eea5a45e"></iframe>
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:11:25
+填报管理__进入iframe层:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-grid3-header-offset"]/table/div[@class="x-grid3-hd-checker"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:11:26
+填报管理__进入iframe层:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:11:30
+填报管理__进入iframe层:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:11:41
+填报管理__进入iframe层:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:11:42
+填报管理__进入iframe层:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:14:21
+填报模板__进入取消按钮:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:14:25
+填报模板__进入取消按钮:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:14:26
+填报模板__进入报表主题:list index out of range2019-12-18:15:07
+填报模板__进入修改任务:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:15:08
+填报模板__进入修改任务:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:16:13
+填报模板__进入修改任务:'WebElement' object is not iterable2019-12-18:16:14
+填报模板__进入修改任务:'WebElement' object is not iterable2019-12-18:16:17
+填报模板__进入修改任务:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:16:24
+填报模板__进入修改任务:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="x-panel-fbar x-small-editor x-toolbar-layout-ct"]/table/tbody/tr/td/table/tbody/tr/td[3]/button"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:16:31
+填报模板__进入修改任务:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:16:36
+填报模板__进入修改任务:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:16:40
+填报模板__进入修改任务:Message: invalid selector: Unable to locate an element with the xpath expression //*[@id="ext-comp-1075"]/tbody/tr[2]/td[2]"] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="ext-comp-1075"]/tbody/tr[2]/td[2]"]' is not a valid XPath expression.
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:16:42
+填报模板__进入修改任务:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ext-gen172"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:16:58
+填报模板__进入启动任务:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="startDataDate"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-18:17:16
+填报模板__进入修改任务:Message: element not interactable
+  (Session info: chrome=78.0.3904.87)

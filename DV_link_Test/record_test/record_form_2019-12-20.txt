@@ -1,0 +1,43 @@
+2019-12-20:11:18
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:19
+角色管理__进入用户服务:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:19
+用户管理__进入用户管理:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:21
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:21
+角色管理__进入用户服务:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:21
+用户管理__进入用户管理:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="username"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:23
+菜单管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:23
+角色管理__进入菜单管理_删除:Message: element click intercepted: Element <button type="button" id="ext-gen44" class=" x-btn-text delete">...</button> is not clickable at point (176, 47). Other element would receive the click: <div class="ext-el-mask" id="ext-gen534" style="display: block; width: 1366px; height: 1063px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:23
+机构__机构管理:Message: element click intercepted: Element <iframe src="/dvlink/sys/pages/user.jsp?hide=y&amp;menuId=userServices_03" frameborder="0" height="100%" width="100%" cd_frame_id_="003573cba16243fb46ac8c8f2c69d44d"></iframe> is not clickable at point (173, 130). Other element would receive the click: <div style="position: absolute; width: 100%; height: 100%; z-index: 1; background: rgb(255, 255, 255); opacity: 0.28003;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:24
+用户管理__进入用户管理:Message: element click intercepted: Element <div class="x-grid3-row  x-grid3-row-first" style="width:1041px;">...</div> is not clickable at point (520, 167). Other element would receive the click: <div class="x-panel-body x-panel-body-noheader x-panel-body-noborder" id="ext-gen170" style="width: 309px;">...</div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:24
+用户管理__进入菜单管理_编辑:Message: element click intercepted: Element <button type="button" id="ext-gen44" class=" x-btn-text edit">...</button> is not clickable at point (96, 115). Other element would receive the click: <div class="ext-el-mask" id="ext-gen158" style="display: block; width: 1366px; height: 529px; z-index: 9000;"></div>
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:11:24
+用户管理__进入资源维护:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="resource_name"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-20:13:57
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-20:13:57
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-20:13:58
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-20:13:58
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-20:13:58
+机构__机构管理:empty range for randrange() (1, 1, 0)2019-12-20:13:59
+机构__机构管理:empty range for randrange() (1, 1, 0)

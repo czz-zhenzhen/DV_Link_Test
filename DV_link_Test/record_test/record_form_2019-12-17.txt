@@ -1,0 +1,25 @@
+2019-12-17:10:22
+填报模板__进入报表主题:list index out of range2019-12-17:10:42
+填报任务__进入开始时间:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="first_startup_time"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-17:10:45
+填报管理__进入iframe层:Message: chrome not reachable
+  (Session info: chrome=78.0.3904.87)
+2019-12-17:10:46
+填报任务__进入报表主题:list index out of range2019-12-17:10:46
+填报任务__进入开始时间:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="first_startup_time"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-17:10:57
+填报任务__进入报表主题:list index out of range2019-12-17:11:03
+填报任务__进入报表主题:list index out of range2019-12-17:11:04
+填报任务__进入iframe层:Message: element click intercepted: Element <div class="x-form-item " tabindex="-1" id="ext-gen238">...</div> is not clickable at point (826, 118). Other element would receive the click: <span unselectable="on" qtip="...">报表分类</span>
+  (Session info: chrome=78.0.3904.87)
+2019-12-17:11:18
+填报任务__进入数据日期:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="rf_data_date"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-17:11:20
+填报任务__进入数据日期:Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="rf_data_date"]"}
+  (Session info: chrome=78.0.3904.87)
+2019-12-17:15:14
+填报任务__进入iframe层:Message: element click intercepted: Element <table id="searchKey0" cellspacing="0" class="x-btn x-btn-text-icon x-column" style="width: 57px; margin-right: 10px;">...</table> is not clickable at point (452, 45). Other element would receive the click: <span class="x-panel-header-text" id="ext-gen185">...</span>
+  (Session info: chrome=78.0.3904.87)

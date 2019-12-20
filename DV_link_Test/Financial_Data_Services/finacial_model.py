@@ -444,7 +444,19 @@ class Finacial_Data:
             S_txt = '{}__进入任务撤销:'.format(report_name) + str(e)
             self.openpage.write_error_excel(S_txt)
             self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '任务撤销', '操作输出', 1, S_txt)
-
+    def release_time(self, count, RESOURCE_ID_name1, report_name):
+        # 发布时间
+        try:
+            ls = self.openpage.driver.find_elements_by_xpath('//div[@class="x-column-inner"]/div')
+            for y in ls:
+                if y.text == "发布时间:":
+                    y.click()
+                    self.openpage.driver.find_element_by_name('publish_date').send_keys(self.openpage.get_time())
+                    self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '进入发布时间', '操作输出',0,"功能正常")
+        except Exception as e:
+            S_txt = '{}__进入发布时间:'.format(report_name) + str(e)
+            self.openpage.write_error_excel(S_txt)
+            self.openpage.write_error_mysql(count, RESOURCE_ID_name1, report_name, '进入发布时间', '操作输出', 1, S_txt)
 
 if __name__ == "__main__":
     test = Finacial_Data()
